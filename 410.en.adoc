@@ -48,6 +48,7 @@ The set of explainer texts for key GBIF activities expanded in 2018 with an expl
 *Spain*: Continued to provide essential support for GBIF-coordinated training through hosting of the GBIF e-Learning platform.
 
 ==== 2019 work items
+
 .Package and promote Data Use for Decision Making workshop materials for wider re-use in GBIF programmes and beyond, e.g. for CBD and IPBES capacity building needs
 .Explore opportunities for additional training workshops on data use for decision making in more regions, attached to existing programmes or using supplementary funds
 .Further develop explainer texts and videos to complete self-instruction package for basic introduction to data mobilization and use in GBIF
