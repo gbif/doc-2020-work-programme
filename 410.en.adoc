@@ -1,5 +1,11 @@
 === Activity 1b: Strengthen skills
 
+==== Tasks
+[lowerroman]
+. Develop collaborative help desk capability – including discussion groups, support materials and FAQs
+. Articulate training and capacity enhancement activities around a single, global curriculum for GBIF
+. Deliver explainer texts and videos to support self-directed instruction and learning
+
 ==== Rationale
 
 The strengthening of personal skills through international collaboration has been one of the great successes of the GBIF global network. During this implementation period, GBIF must build on this past experience (including the support mechanisms developed for the BID programme) to reinforce efficient training and capacity enhancement across the network.
@@ -11,12 +17,6 @@ Central to this is the development of a collaborative help desk capability and t
 To strengthen key skills, GBIF needs to develop and maintain a comprehensive set of clear reference information and training materials that support all GBIF audiences. Since 2016, the Secretariat has been upgrading documentation to deliver this comprehensive resource, first via concise explanatory text materials (including numerous translations by network members into French, Portuguese, Spanish, Chinese, Japanese and Russian). Some of these text materials will be supported by short videos that present key functional and operational aspects of GBIF. The aim is to deliver a structured set of short, clear, current and complete documents that enable GBIF stakeholders to gain an understanding of relevant aspects of GBIF’s work quickly, including formal Participation, establishing a national or thematic node, planning digitization, mobilizing data, discovering and using data, citing data, among others. This work complements significant activity among Participants to produce information and training materials relevant to particular audiences.
 
 GBIF will organize all these materials to form a curriculum that builds and supports the skills and activities identified in GBIF’s self-assessment tools for nodes and data holders. A core set of these resources should provide new stakeholders with an effective introduction to GBIF’s structure, roles, approaches and solutions. Other more technical resources will provide the additional detail needed by those working in specific areas like digitization, data publishing and use of GBIF-mediated data. The Secretariat will coordinate ongoing maintenance and updates to this curriculum with contributions and translations from the network.
-
-==== Tasks
-
-. Develop collaborative help desk capability – including discussion groups, support materials and FAQs
-. Articulate training and capacity enhancement activities around a single, global curriculum for GBIF
-. Deliver explainer texts and videos to support self-directed instruction and learning
 
 ==== 2018 Progress
 
@@ -47,14 +47,16 @@ The set of explainer texts for key GBIF activities expanded in 2018 with an expl
 
 *Spain*: Continued to provide essential support for GBIF-coordinated training through hosting of the GBIF e-Learning platform.
 
-==== 2019 work items
+==== 2019 Progress
+[_previously *2019 work items*_]
 
 . Package and promote Data Use for Decision Making workshop materials for wider re-use in GBIF programmes and beyond, e.g. for CBD and IPBES capacity building needs
 . Explore opportunities for additional training workshops on data use for decision making in more regions, attached to existing programmes or using supplementary funds
 . Further develop explainer texts and videos to complete self-instruction package for basic introduction to data mobilization and use in GBIF
 . Establish system for reviewing, prioritizing, updating and creating new documentation to support GBIF data publishers and users, including a lightweight editorial panel and peer review process, with annual funding for commissioning high-priority guidance from subject-matter experts
 
-==== Participant plans for 2019
+==== 2019 Participant contributions
+[_previously *2019 Participant plans*_]
 
 * *Australia*: Contribute to maintenance of documentation for the Living Atlas community.
 * *Belgium*: Complete set of explainer texts in multiple languages: French and Dutch translations
@@ -62,10 +64,11 @@ The set of explainer texts for key GBIF activities expanded in 2018 with an expl
 * *Norway*: GBIF Norway and the Norwegian Research School in Bioinformatics (ForBio) secured together with the GBIFS funding for a three-year (2018-2021) biodiversity digitization and mobilization training program (BioDATA) in the Eurasia region. The training program secured project funding from the Norwegian Centre for cooperation in Education (SIU). (See also activity 1e and 3b).
 * *South Africa*: SANBI-GBIF is recruiting a Biodiversity Informatics Support Officer to support training and engagement portfolio of work. This will support national and regional efforts and tie into GBIF helpdesk requirements as needed.
 
-==== 2020 work items
+==== 2020 Work items
 
-. Do something really important
+* Do something big
 
-==== Participant plans for 2020
+==== 2020 Participant plans
 
-* *Tecala*: Do something really important.
+* *Tecala*: Do something big.
+
