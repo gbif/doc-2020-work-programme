@@ -1,7 +1,6 @@
 === Activity 1d - Equip data publishers
 
 ==== Tasks
-
 [lowerroman]
 * Promote and support capacity self-assessment for data holders
 * Promote publication of collection metadata
