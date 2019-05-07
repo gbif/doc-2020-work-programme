@@ -1,0 +1,78 @@
+== Priority 2: Enhance Biodiversity Information Infrastructure
+
+=== Activity 2a: Modernize data standards
+
+==== Rationale
+
+The GBIF network participants are able to reliably exchange data thanks to their adherence to a set of standards. As GBIF looks to grow in capability, enable exchange of richer content and improve the quality of data, the standards must be revised and evolve accordingly.
+
+Current standards adopted by GBIF are not yet adequate to accommodate the needs expressed by many potential and existing data publishers. Weaknesses in the model have led to ambiguous or over-complex data representations and unclear documentation, leading to difficulties in data integration and use. The main issues relate to uncertainties around the use of Darwin Core record types, the basisOfRecord element, and the use of Core and Extension vocabularies. Reviewing and updating the core domain model, tightening up the vocabularies and documentation and adopting more robust exchange standards will result in an easier to use, and a wider reaching GBIF data exchange network.
+
+==== Approach
+
+GBIF will work with TDWG and other key stakeholders to review existing solutions for a common domain model, working towards agreement on a model to adopt with key partners. This conceptual model should cover the main components of biodiversity information (the domain “classes” such as Specimen, Collection, TaxonName, TaxonConcept, Publication, Sequence) and document the mandatory and recommended properties expected for each component and the vocabularies that should control the properties. A review of existing vocabularies and their current uses will be undertaken and revisions and new vocabularies will be proposed where necessary. A revision of the Darwin Core Archive mechanism and supporting tools, such as the publishing toolkit (IPT) and the data validator, will be undertaken to accommodate the richer content model and the new recommendations from the W3C CSV on the Web working group. GBIF should continue discussions with other key global biodiversity data infrastructures to develop comprehensive catalogues to support discovery and normalisation of instances of the most critical domain classes (particularly TaxonName, TaxonConcept, Collection, Specimen, TaxonOccurrence).
+
+In addition to completing this knowledge graph, GBIF should be equipped to link between people, datasets, cited use and funding agencies through the correct attribution chains using e.g. Digital Object Identifiers (DOIs) and Open Researcher and Contributer ID (ORCID) as potential mechanisms.
+
+==== Tasks
+[lowerroman]
+. Promote development of a shared domain model for sharing and linking all components of biodiversity information
+. Lead a review of the Darwin Core vocabulary and associated extensions to ensure consistency and full alignment with a shared domain model
+. Explore opportunities to increase accessibility of biodiversity data through evolution of Darwin Core Archive formats to W3C CSV on the Web formats
+. Explore models to enable GBIF and other biodiversity infrastructures to deliver comprehensive global catalogues of instances of key data classes
+. Improve management of trait data of relevance to GBIF
+
+==== 2018 Progress
+
+TDWG does not yet offer a set of recommendations that can be implemented as an approved standard for a common domain model, although many of the necessary elements have been developed. GBIF is well positioned to move this work forward by offering a new baseline implementation within GBIF.org.
+
+The GBIF Secretariat has recognised that are many of the most serious challenges facing data users arise from the fragmented approach to data integration and data quality that has arisen as multiple infrastructures aggregate overlapping subsets of the same occurrence data. Each data aggregation infrastructure carries out its own harvesting, interpretation, assignment of unique identifiers, normalisation, quality checks, faceting, etc. and offers its own downloads, API and data citation tools. The results of each of these steps are different in each network/infrastructure.
+
+GBIF, OBIS, ALA (and the Living Atlases), iDigBio, VertNet and GGBN are significant existing networks that seek to address these needs in parallel. The GBIF Secretariat has started discussions with these parties to explore the extent to which they all could combine forces and move towards jointly aggregating data as a shared web infrastructure, producing and maintaining a single shared data product which is replicated globally and supports whatever views and access choices each partner/portal requires. This conceptual model could address the following needs:
+
+* Every occurrence record should have a globally unique resolvable identifier for use wherever it is accessed. These identifiers could serve as a robust, sustainable basis for persistent reference (as with the International Geo Sample Number, IGSN).
+* Every aggregated record should include the verbatim record, the standard DwC attributes derived from the verbatim form, and an endlessly extensible set of other attributes, including e.g. VertNet interpretation of measurements, OBIS interpretation of associated marine measurements, ALA national taxonomy and spatially-aligned properties, etc. All of the benefits from all of this processing could be accessible to all users regardless of how and where they access the data.
+* Data quality checks and associated processing should be fully standardised and documented.
+* Data processing should be extensible to allow additional processing and additional attributes based on taxonomy or geography or e.g. for paleo-records.
+* Search and download APIs could be standardised to simplify development of data access tools.
+* All infrastructures could adopt a single mechanism for data downloads, DOI generation, and citation tracking. This would make it easier for data publishers to get integrated information on the use of their data through all outlets
+
+Nothing would stop existing and future portals offering specialised value on top of these core services.
+
+Initial discussions with other platforms have been positive and there is agreement, particularly with ALA and iDigBio to hold a technical workshop to develop a shared plan, including immediate steps to converge practices and a longer-term set of steps to explore closer unification.
+
+==== 2018 Participant contributions
+
+* Australia: The Atlas has contributed to the work of the TDWG Biodiversity Data Quality Interest Group. The Atlas continues to collaborate with the CSA, ECSA, the Australian Citizen Science Association (ACSA) on data standards for Citizen science projects. The Atlas is providing tool support (publishing and aggregation) for these standards through the BioCollect platform.
+* BHL: Planning BHL next version. Launched full-text search of BHL. BHL participated in GBIC.
+* Norway: GBIF Norway described for the 2017-2021 implementation plan contribution to the TDWG process to advance biodiversity data standards.
+* Norway: GBIF Norway contributed as review manager for the ratification process of the Vocabulary Maintenance Standard(VMS) and the Standards Documentation Standard(SDS).
+* Norway: GBIF Norway is member of the Darwin Core hour team (organized by iDigBio) and contributes to TDWG interest groups and task groups on topics including persistent identifiers. GBIF Norway contributes to the development of the Event Core model (see also activity 3b).
+* Japan: GBIF Japan is in discussion with J-OBIS (the OBIS node for Japan) to avoid duplication in data provision from Japan.
+
+==== 2019 Progress
+
+_previously *2019 work items*_
+
+* Work in open consultation with the expert community to document a unified information model that covers the scope of content GBIF accommodates and supports richer publishing of interconnected information from external databases. This model should be presentable in various languages. €50,000 is reserved in the budget to support two associated workshops.
+* Provide a set of data exchange profiles for sharing data within GBIF in conformance with the unified information model.. This should include both existing and new standards and the necessary controlled vocabularies (e.g. sampling protocols).
+* Redesign the GBIF Integrated Publishing Toolkit to support these profiles and to address infrastructural needs (ability to install locally, or use a GBIF hosted solution).
+* Provide documentation for the data model and for the associated services offered through GBIF.org.
+* Review and redesign GBIF data management to accommodate the unified information model as part of data ingestion, quality control and processing necessary.
+* Continue technical discussions with other data aggregators to seek closer alignment in practice and, as far as possible, implementation of aggregation and indexing processes.
+
+==== 2019 Participant contributions
+
+_previously *2019 Participant plans*_
+* Australia: Work with GBIF on the reference implementation of the data quality tests. Continued engagement with CSA, ECSA and ACSA. The ALA recommends promotion of ALA BioCollect tool as a method to engage disparate groups.
+* BHL: Establishing new metadata model for BHL
+* Norway: GBIF Norway will continue contribution to the TDWG process including topics on Darwin Core documentation, persistent identifiers, collection descriptions, common domain model, data exchange models and biodiversity informatics curriculum. GBIF Norway will participate and contribute to the TDWG 2019 annual conference in Leiden.
+* Norway: The wider Norwegian GBIF community will continue implementation of the sampling event data model for environmental monitoring and survey-based data with focus on national implementation while contributing to the international standardization process (see also activity 3b).
+
+==== 2020 Work items
+
+* Do something big
+
+==== 2020 Participant plans
+
+* *Tecala*: Do something big.
