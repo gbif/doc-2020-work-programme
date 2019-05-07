@@ -56,13 +56,13 @@ These resources combine as follows:
 
 * Supports GBIF Governance structures (Governing Board, committees)
 * Supports staffing and operation of GBIF Secretariat to coordinate global activity, including:
-* * Delivery of global-level IT infrastructure (GBIF.org)
-* * Coordination of delivery of software components to support Participants and Data Publishers
-* * Coordination of capacity enhancement activity and information materials for Participants, Data Publishers and Users
-* * Coordination of supplementary-funded activity and Participant investments in shared GBIF activity
-* * Monitoring and reporting usage and benefits
-* * Administrative support for GBIF activities
-* * Communication, outreach and partnership activities
+** Delivery of global-level IT infrastructure (GBIF.org)
+** Coordination of delivery of software components to support Participants and Data Publishers
+** Coordination of capacity enhancement activity and information materials for Participants, Data Publishers and Users
+** Coordination of supplementary-funded activity and Participant investments in shared GBIF activity
+** Monitoring and reporting usage and benefits
+** Administrative support for GBIF activities
+** Communication, outreach and partnership activities
 * Limited funds to support workshops, capacity enhancement and developments to expand or enhance GBIF
 
 ==== Supplementary Funding
