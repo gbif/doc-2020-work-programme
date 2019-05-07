@@ -1,0 +1,50 @@
+=== Activity 4c: Enable data curation
+
+==== Tasks
+[lowerroman]
+. Develop network-wide approach to handling and processing annotations and feedback
+. Enhance IPT to offer dataset-level peer review and commentary mechanisms and record-level annotations
+. Develop mechanism and tools within GBIF.org for sharing cleaned and annotated datasets based on GBIF downloads (“reference datasets”)
+. Develop GBIF data workbench tool (within GBIF.org and possibly also as standalone) for cleaning and filtering network data (e.g. in red list assessments)
+. Develop strategy and support mechanisms for expert communities to curate sections of GBIF data
+
+==== Rationale
+
+In a global network, curation of the shared data pool is increasingly becoming a joint responsibility of aggregators, publishers, experts and data users. The goal is to integrate corrections, improvements, additional information and analysis results in a timely manner, with better visibility to all network participants and data users. Expanding the existing knowledge base requires improved communication channels and workflows for collaboration between all actors, tools to capture and rapidly display new or improved information, commentary and data, and not least tools, credit systems and support to engage expert activities.
+
+==== Approach
+
+The main task is to provide tools and mechanisms that make it easy for users and experts to contribute knowledge to the available pool of data. Building on existing data filtering and data improvement workflows in the community, GBIF tools and mechanisms are to support the identification of relevant data, their cleaning and preparation for specific purposes, and the sharing of the results of such processes with the wider community. Input collected through existing feedback mechanisms (Jira feedback on gbif.org, AnnoSys, ...) is to be raised to a visibility level that supports and drives the usefulness of the published data.
+
+==== Progress
+
+The GBIF Secretariat met with the Specify collection management software team and presented ways for annotations, services in support of data quality (e.g. verifying names against the Catalogue of Life etc) and issue flags detected from GBIF to be used to enhance data within the Specify platform.
+
+GBIF participated in discussions at TDWG on possible infrastructure approaches to ensure that all specimens (and other occurrence records) are associated with persistent resolvable unique identifiers, based on lessons learned from the International Geo Sample Number (IGSN) system. The GBIF data index or better still, a consolidated data index supported by multiple data aggregation infrastructures (see Activity 2a - Modernize data standards), could fulfil the role played by SESAR within the IGSN system and offer stable handle-based resolution for all specimen and occurrence records. This would provide a solid foundation for data annotation and curation services.
+
+==== Participant contributions
+
+* Colombia: “Colombia BIO | Gira de especialistas” / Specialists tours Two specialist tours were developed: the first, led by the CES University, brings together several of the best qualified entomologists in the country, experts in different groups of insects, to visit nine Colombian collections and carry out taxonomic identification, cataloging and skills strengthening, the second, led by the University of Quindío, brings together several experts in different biological groups to advance processes of taxonomic identification in several biological collections of the country. Results: UCES (https://goo.gl/YwRhBL) UQuindío (https://goo.gl/xZXbqD)
+* Norway: GBIF Norway described for the 2017-2021 implementation plan contribution of developer resources to development of data annotation tools. Generic data annotation methodology is still in development (delayed because of reduced staff capacity at GBIF Norway). However, the planned approach is in a simplified form implemented for the citizen science digitization and volunteer transcription tools hosted by GBIF Norway – with source code shared in GitHub for further collaborative developments in the GBIF Nodes developer community.
+
+==== 2019 Progress
+
+_previously *2019 work items*_
+
+* Continue exploration of the use of the GBIF data index to support stable persistent resolvable identifiers for all specimens and occurrence records.
+
+==== 2019 Participant contributions
+
+_previously *2019 Participant plans*_
+
+* Norway: GBIF Norway will engage with GBIF Sweden on possibilities for collaborative development of the ALA-based BioAtlas platform. Capacity at the Norwegian GBIF Node is dependent on securing additional national project funding.
+* Norway: Further development of data annotation tools (based on the citizen science digitization tools) will depend on securing additional national funding.
+
+
+==== 2020 Work items
+
+* Do something big
+
+==== 2020 Participant plans
+
+* *Tecala*: Do something big.
