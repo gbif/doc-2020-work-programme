@@ -35,7 +35,15 @@ GBIF continued development of the digital badge scheme to recognize skills and r
 
 Many participants contribute to the distributed collaborative GBIF help desk, as reflected in the list of volunteer mentors.
 
+==== Participant contributions
+
++ *Tecala*: Did something really important.
+
 ==== 2019 work items
 
 + Evaluate early versions of expanded user profiles through monitoring of uptake and a survey of GBIF users and stakeholders; based on this evaluation, consider further expansion and adjustment
 + Monitor usage of the GBIF Community Forum and conduct a survey among stakeholders, to inform a recommendation on whether to maintain the platform beyond a 15-month pilot period
+
+=== Participant plans for 2019
+
++ *Tecala*: Do something really important.
