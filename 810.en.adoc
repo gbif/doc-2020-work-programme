@@ -1,0 +1,44 @@
+=== Activity 5b: Document needs
+
+==== Tasks
+. Prioritize areas for fitness-for-use assessments
+. Support fitness-for-use groups
+
+==== Rationale
+
+GBIF data are aggregated from many sources and are consequently heterogeneous, varying in fitness for various uses. During 2015-2016, GBIF established three task groups on data fitness-for-use, in agrobiodiversity research, in distribution modelling and in research on invasive alien species, to document how these communities use GBIF data and to understand their data quality demands. The resulting reports inform data mobilization, data processing and improvements to GBIF.org. During 2017, GBIF will expand this work to incorporate more key areas of use, provisionally focussing on: 1) Phylogenetic and (continuation from 2016 work) DNA evidence for names and occurrences, 2) human health and vectored diseases and 3) marine biodiversity. Depending on resources, these groups will operate through a combination of face-to-face meetings and online or remote collaboration.
+
+==== Approach
+
+The DNA work will continue from 2016 through online meetings and e-mails. Human health and vectored disease fitness for use group will be formed and will operate using the basic model with two in-person meetings. Work on fitness for use in marine research will continue depending on the availability of marine data from OBIS. Participants are encouraged to organize working groups in additional areas to review the state of GBIF data relevant to particular domains and themes and to provide recommendations on critical gaps, improvements in recommended metadata or data elements, minimum criteria for usable data, etc. The GBIF Secretariat will compile these recommendations and, where possible, develop query profiles to support rapid access and monitor progress by the network in delivering data suited for the needs of these domains.
+
+=== 2018 Progress
+
+While no new fitness-for-use groups were established during 2018, considerable progress was made in implementing the recommendations of the group in alien and invasive species, with the publication of country and island checklists from the Global Register of Introduced and Invasive Species (GRIIS) by IUCN’s Invasive Species Specialist Group, and the incorporation of these lists onto species pages on GBIF.org so that information on invasiveness status is readily visible to users of the site. Consultations have continued with members of this task group and the Secretariat of the CBD on recommended next steps for improving the usefulness of GBIF to researchers on invasive species and to policy makers dealing with their impacts.
+
+==== 2018 Participant contributions
+
+(none)
+
+==== 2019 Progress
+
+_previously *2019 work items*_
+
+* Review and consolidate responses to recommendations from previous fitness-for-use groups, before commissioning new expert groups other than the group advising the campaign on data for disease vectors and hosts (see Activity 3b)
+* Analyse and evaluate the requirements for pre-generated downloads based on the analysis of incoming user requests for custom downloads that cannot be served through the user interface at gbif.org or API access.
+
+==== 2019 Participant contributions
+
+_previously *2019 Participant plans*_
+
+* Australia: Recommended increased sharing of communications, use cases and policy initiatives. Recommend that the community works collaboratively to define targets around coverage and extent of our data products (e.g. temporal/ spatial and taxa). This will help define the level of effort required for data publishers to met these gaps. Also define level of use from Occurrence to Abundance to True Absence.
+* Norway: GBIF Norway will continue to capture and document fitness-for-use needs from the agrobiodiversity community (with focus on Nordic and European crop wild relative communities) and follow up on recommendations from the 2016 fitness for use task group reports (see also activity 3a).
+* Norway: The wider Norwegian GBIF community will continue to capture and document GBIF fitness for use in academic and applied research on ecological monitoring using the sampling event data model (see also activity 2a).
+
+==== 2020 Work items
+
+* Do something big
+
+==== 2020 Participant plans
+
+* *Tecala*: Do something big.
