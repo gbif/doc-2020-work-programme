@@ -56,11 +56,11 @@ The set of explainer texts for key GBIF activities expanded in 2018 with an expl
 
 ==== Participant plans for 2019
 
-+ *Australia*: Contribute to maintenance of documentation for the Living Atlas community.
-+ *Belgium*: Complete set of explainer texts in multiple languages: French and Dutch translations
-+ *France*: Continue support for capacity enhancement activities and organize workshops at national level.
-+ *Norway*: GBIF Norway and the Norwegian Research School in Bioinformatics (ForBio) secured together with the GBIFS funding for a three-year (2018-2021) biodiversity digitization and mobilization training program (BioDATA) in the Eurasia region. The training program secured project funding from the Norwegian Centre for cooperation in Education (SIU). (See also activity 1e and 3b).
-+ *South Africa*: SANBI-GBIF is recruiting a Biodiversity Informatics Support Officer to support training and engagement portfolio of work. This will support national and regional efforts and tie into GBIF helpdesk requirements as needed.
+* *Australia*: Contribute to maintenance of documentation for the Living Atlas community.
+* *Belgium*: Complete set of explainer texts in multiple languages: French and Dutch translations
+* *France*: Continue support for capacity enhancement activities and organize workshops at national level.
+* *Norway*: GBIF Norway and the Norwegian Research School in Bioinformatics (ForBio) secured together with the GBIFS funding for a three-year (2018-2021) biodiversity digitization and mobilization training program (BioDATA) in the Eurasia region. The training program secured project funding from the Norwegian Centre for cooperation in Education (SIU). (See also activity 1e and 3b).
+* *South Africa*: SANBI-GBIF is recruiting a Biodiversity Informatics Support Officer to support training and engagement portfolio of work. This will support national and regional efforts and tie into GBIF helpdesk requirements as needed.
 
 ==== 2020 work items
 
@@ -68,4 +68,4 @@ The set of explainer texts for key GBIF activities expanded in 2018 with an expl
 
 ==== Participant plans for 2020
 
-+ *Tecala*: Do something really important.
+* *Tecala*: Do something really important.
