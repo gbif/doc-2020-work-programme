@@ -1,0 +1,48 @@
+=== Activity 5d: Assess impact
+
+==== Rationale
+
+GBIF Participants require clear evidence of the benefits arising from investments in national- scale content mobilisation and from GBIF global activity. At present, the main source of evidence presented derives from monitoring of published literature to identify uses of GBIF within research. This activity has been reported through annual GBIF Science Reviews and clearly demonstrates growing use of GBIF in research. Monitoring the literature in this way is time-consuming, and becomes more so as the relevant literature increases. A sustainable approach is required for future monitoring of this kind. GBIF now issues and promotes Digital Object Identifiers for data downloads and expects that these can be used both to simplify discovery and to improve the detail offered to Participants and data publishers on some uses of data. Participants also require more information on non-research uses of GBIF infrastructure, particularly in various kinds of government or industry assessments. A broader review of costs and benefits arising from GBIF investment would be valuable for Participants arguing continued engagement within GBIF and other countries considering Participation.
+
+==== Approach
+
+The GBIF Secretariat will lead a consultation with Participants on the level of detail desired from literature tracking and possible approaches to maintain this as a shared task across the network. GBIF.org will be enhanced to present known uses of GBIF DOIs and to ensure that data publishers receive information on such uses. Within the BID programme, GBIF is already seeking reports from funded projects on non-research applications of data. A general model is required to enable Participants easily to contribute examples of such uses and for these to be integrated into GBIF’s overall reporting on usage. Several countries have requested information on known costs and benefits from GBIF investment. The Secretariat wishes to identify one or more Participants interested in leading case study investigations to value GBIF benefits at national scale and to assist with developing general recommendations for a suitable way for GBIF to track and report this value.
+
+==== Tasks
+[lowerroman]
+. Develop sustainable approach to literature tracking
+. Automate detection and reporting of use of GBIF DOIs
+. Provide mechanisms to report and track uses of data and grey literature
+. Develop a valuation for the services delivered by the GBIF network
+
+==== 2018 Progress
+
+While the main sources of literature using GBIF-mediated data–such as Google Scholar, Scopus, etc–are mainly based around peer-reviewed journal publications, they do include, to an increasing extent, academic dissertations, official government reports, environmental impact assessments, etc. have been added to the data use archive and featured on GBIF.org. New sources of literature are being considered and added as relevant. In 2018, the communications team added CrossRef Event Data, providing DOI-based citations from a variety of non-traditional sources such as Wikipedia, Twitter, Hypothes.is and several others.
+
+==== 2018 Participant contributions
+
+* Australia: ALA completed an impact assessment during 2018.
+* Australia: The Atlas has added DOI support for occurrence data downloads, and re-uses DOIs supplied by GBIF for datasets. This will simplify and extend tracking of data usage in publications. In addition, the Atlas (including other Living Atlas installations) now uses the GBIF citations API to highlight reuse of datasets.
+* South Africa: The efforts being conducted through the ABC projects and the Foundational Biodiversity Information Programme of SANBI, reinforces that data-science-policy value chain and aims to ensure that data mobilised feeds into policy outcomes.
+
+==== 2019 Progress
+
+_previously *2019 work items*_
+
+* Commission external review of GBIF operation and functions. At GB24, the Governing Board approved €30,000 in the 2018 budget to be allocated towards an external review of GBIF and its operations. Following explorations within the Executive Committee, it is agreed that the review can best be handled via a contract to CODATA, which led the first review of GBIF, completed in 2005. It has now been 20 years since the OECD Megascience Forum recommended the establishment of a Global Biodiversity Information Facility, so an external review led by CODATA as a representative of the global scientific community will be timely. An additional €70,000 is included in the 2019 budget (for a total of €100,000) to support a broad review of GBIF’s operation, services, governance and place within the broader landscape of biodiversity-related organizations.
+
+==== 2019 Participant contributions
+
+_previously *2019 Participant plans*_
+
+* Australia: Recommend that GBIF explores offering analytical services on top of their data to countries as a service to provide a greater value proposition.
+* Australia: Recommend continuing work to assess impact and jointly appointing a resource to lead such work. Recommend incorporating qualitative measures as a way of assessing impact.
+* South Africa: The efforts to reinforce the data-science-policy value chain through the ABC projects and the Foundational Biodiversity Information Programme of SANBI, will continue into 2019.
+
+==== 2020 Work items
+
+* Do something big
+
+==== 2020 Participant plans
+
+* *Tecala*: Do something big.
