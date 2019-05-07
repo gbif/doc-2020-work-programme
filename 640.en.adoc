@@ -1,0 +1,39 @@
+=== Activity 3e: Liaise with journals
+
+==== Tasks
+[lowerroman]
+. Develop scalable approach to support research journals and data journals in publishing to GBIF network
+. Produce relevant support materials to justify benefits and explain processes to publish primary data
+. Integrate support for data journals into hosted IPT infrastructures and data rescue processes
+
+==== Rationale
+
+Journals are the traditional established avenues for scientific communication. They not only disseminate research findings and other scholarly communications but are increasingly helping to disseminate research data. These data may be provided as supplementary materials or deposited in biodiversity data repositories as a precondition for publication of the paper. However, such data publishing data does not necessarily facilitate its integration with other related data or make the data discoverable and reusable. In order to benefit from data disseminated through journals, the Secretariat will lead or coordinate activity to engage directly with publishing houses, journal editors and authors to promote GBIF-compatible approaches to publication and the use of GBIF-operated repositories as accepted or preferred destinations for supporting data.
+
+==== Approach
+
+GBIF Secretariat will engage with relevant journals in developing and promoting best practices and publishing workflows that reduce the effort required to publish data to GBIF. The aim will be to publish data once but be able to cite it as supporting data for a journal paper and where appropriate produce a data paper as an additional product. The Secretariat will use its experience with Pensoft Publishing where a workflow and a dedicated data paper publishing tool is established.
+
+==== 2018 Progress
+
+During 2018, the Secretariat’s science communication coordinator has reached out intensively both to journal publishers and to individual authors in an effort to improve the standard of citations of GBIF-mediated data in research. These communications are often based on specific examples of poor citation practices, and although responses have been mixed there has been positive feedback from several publishers and a commitment to improve citations. Collaboration with Elsevier has helped to improve the visibility of GBIF citations on article landing pages through use of the Scholix platform. Efforts to engage more than 150 individual authors have led to assurances of better citations in future, and also the identification of more than 300 download DOIs which had not been cited in the original articles but can now be linked to the research concerned. In cases where publications were still in a pre-proof stage, the citations were amended to include the DOIs in the citations, thus following the GBIF citation guidelines.
+
+==== 2019 Progress
+
+_previously *2019 work items*_
+
+* Build on engagement with selected authors and academic publishers in 2018 to develop standard workflows and simple recommendations for depositing supplementary data in formats suitable for GBIF publication, as well as data citation practices enforced through editorial guidelines, with the aim of acceptance by all major publisher groups during 2019.
+
+==== 2019 Participant contributions
+
+_previously *2019 Participant plans*_
+
+* South Africa: SANBI-GBIF will integrate data paper publication within Bothalia - African Biodiversity and Conservation Journal
+
+==== 2020 Work items
+
+* Do something big
+
+==== 2020 Participant plans
+
+* *Tecala*: Do something big.
