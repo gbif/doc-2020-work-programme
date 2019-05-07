@@ -1,0 +1,43 @@
+=== Activity 1f: Plan implementation
+
+==== Tasks
+[lowerroman]
+. Develop better integration between nodes activities and Governing Board processes
+. Expand regional meetings to serve as GBIF community Implementation Planning conferences and opportunities to develop fundable programmes of work
+. Increase alignment between GBIF work programmes and activities of each GBIF Organisational Participant and Affiliate
+. Explore increased alignment and joint organisation of workshops with other networks such as TDWG, SPNHC, GEO BON, RDA, etc.
+
+==== Rationale
+
+Implementing this plan hinges on effective coordination with the plans of individual GBIF national and organizational Participants. GBIF must also ensure that node activities are well recognized and integrated with other biodiversity research and informatics initiatives at national, regional and organizational levels.
+
+==== Approach
+To make national-scale implementation more central across the GBIF network, the Secretariat will consult with the Governing Board on models for unifying aspects of the work of the Nodes Committee into Governing Board meetings. The Secretariat also seeks funds to increase the scope of nodes meetings to include work to develop proposals for fundable activities aligned with this Implementation Plan, particularly by addressing regional priorities. The GBIF Secretariat will also engage organizational Participants to develop specific memoranda of cooperation in key areas and to identify and support alignments with this Implementation Plan and opportunities for joint organization of meetings and workshops.
+
+==== 2018 Progress
+Regional meetings are being held in all GBIF regions in 2018, strengthening regional engagement and supporting planning and outreach at the regional level. The NSG identified the key topics for discussion across all regions. The results of the meetings will be incorporated into the Nodes Committee Chair’s report to GB25.
+
+The 2nd Global Biodiversity Informatics Conference (GBIC2) was held in Copenhagen during July 2018, with more than 100 attendees from all global regions. The workshop received external sponsorship from Agence française pour la biodiversité, the Atlas of Living Australia, DiSSCo, the Field Museum, iDigBio, the JRS Foundation, MCZ Harvard, NLBIF, Pensoft and UN Environment, and GBIF was granted free access to Copenhagen University meeting areas. GBIC2 followed from the first GBIC in 2012, which delivered the Global Biodiversity Informatics Outlook (GBIO). The GBIO provided a vision and framework for “delivering biodiversity knowledge in the Information Age” through modular delivery of biodiversity information infrastructure. Progress since 2012 has been uneven, primarily because of the complexity and diversity within the landscape of stakeholders in biodiversity knowledge, with overlapping missions and weakly aligned funding. GBIC2 attendees proposed the establishment of a lightweight international alliance to support open planning and collaborative delivery of the tools, services and infrastructure necessary to organise all biodiversity data. The GBIF Secretariat was tasked with leading on development of a paper outlining this proposal, and on seeking to establish such an alliance. Relevant models for the alliance can be seen in the Apache Software Foundation (collaborative open source development), ELIXIR (coordination of bioinformatics data services), and the Global Alliance for Genomics and Health (a closely parallel effort to facilitate community delivery of scalable global solutions).
+
+==== 2018 Participant contributions
+Australia: The ALA has been working with GBIF towards having a shared code base for the processing of occurrence data.
+France: As EU representative, organied the EU nodes meeting with Estonia in Tallinn.
+South Africa: SANBI-GBIF Node Manager and SANBI executive has met with GBIF Head of Delegation of South Africa, with regards to the Africa Coordinating Mechanism Business Case. Further engagement will continue to look at Biodiversity Informatics regional engagement in Africa, in support of sustainable development.
+South Africa: SANBI finalised the National Biodiversity Information System (NBIS) design protocol (Phase 1) in February 2018. The NBIS will provide enhanced access to integrated South African biodiversity information through a centralised web-based infrastructure. It will support and facilitate access to collections data, observations, images, species pages, names data, spatial layers, genetics data.
+
+==== 2019 Progress
+
+_previously *2019 work items*_
+
+* Develop standardized, annual information requests from Participant nodes to capture relevant updates and work plans based on the GBIF Strategic Plan and Implementation Plan structure, enabling greater visibility for node activities on GBIF.org and supplementing the country-level metrics provided in the automatically-generated Activity Reports.
+* Follow up from GBIC2 workshop by leading in communications, consultations and working groups to develop a global alliance for biodiversity knowledge. The EU-funded Synthesys+ project will provide some funding in 2019 and subsequent years for GBIF staff time and workshops for this purpose. €50,000 has also been allocated in the GBIF 2019 budget to support additional workshops, meetings or communications materials.
+
+==== 2019 Participant contributions
+
+_previously *2019 Participant plans*_
+
+* Australia: Start implementation and consultation plan. Contribute staff time to help support development activities, hackathons, sprints, etc. that could be made widely available.
+* France: Organization of the EU nodes meeting and election of the new EU representative
+* Norway: The 2019 European regional Nodes meeting is preliminarily planned to take place in Poland. GBIF Norway has offered to be available as an alternative host for the regional European Nodes meeting in 2019, or to host the European Nodes meeting a later year.
+* South Africa: Strategic engagements/meetings between SANBI-GBIF Node Manager and South African Head of Delegation will continue in order to evolve the South African Node planning, and Africa portfolio of work and to elaborate the Science Diplomacy role SANBI-GBIF can play.
+* South Africa: Phase 2 (of national data platform) commenced in October 2018 (24 months), which looks at the implementation phase of the NBIS.
