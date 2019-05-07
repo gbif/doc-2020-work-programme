@@ -1,0 +1,61 @@
+=== Activity 1e: Expand national participation
+
+==== Tasks
+[lowerroman]
+. Ensure GBIF.org interface and key content supported in relevant languages
+. Improve coordination and mechanisms for engaging new countries
+. Provide Governing Board with annual review and progress assessment for GBIF status and engagement in all countries
+
+==== Rationale
+
+GBIF’s national membership has remained largely static in recent years. Active participation in the network is confined to a limited number of regions, with the most dynamic activity in node collaboration and data publication focused in Western Europe, North America, Latin America, Oceania, increasingly sub-Saharan Africa and limited parts of Asia. Thus, significant parts of the world have little or no direct involvement in GBIF’s activities, which poses a risk to the long-term credibility of GBIF as a global collaborative network. Secretariat staff and existing Participants constantly engage potential new members through ad hoc contacts, but the situation calls for a more strategic approach to expand membership.
+
+==== Approach
+
+The Secretariat will compile and maintain an up-to-date register of the status of GBIF engagement and relevant contacts in all countries, providing the Governing Board with an annual review that analyses progress and remaining gaps in membership across each region. Following the development of a coordinated engagement plan for each region, Participants and regional groups with strong contacts to relevant agencies in other governments may take the lead in engagement. The Secretariat will continue to develop strategic engagement through the CBD and other intergovernmental networks, as well as through the BID programme and other capacity-related activities. Adapting the GBIF.org interface to support key content in multiple languages will seek to address language barriers to national expansion, with targeted translation carried out both through external contracts and in-kind services provided by Participants.
+
+==== 2018 Progress
+Following comprehensive back-end preparation by the Secretariat informatics team during the first part of 2018, the communications team began a pilot phase with the network’s Spanish and Japanese language communities to test workflows, tools and processes for translating GBIF.org.
+
+Translation of the user interface (navigation menus, table headings, field labels etc.) relied on CrowdIn, a tool previously used in translating the IPT interface. By mid-August, the work of a team of three Japanese and ten Spanish volunteers had substantially completed translation of the UI, leading to the release of a language switcher that allows users to view GBIF.org in English (https://www.gbif.org), Japanese (https://www.gbif.org/ja) Spanish (https://www.gbif.org/es).
+
+With the pilot phase well-advanced, volunteers from other language communities are translating the UI and key content following a call for volunteers at the end of August, with some including Portuguese making very rapid progress. Where volunteer effort proves insufficient, commercial translators will be contracted. The intention is to have the UI available in five UN languages (English, French, Russian, Spanish, Simplified Chinese), plus Portuguese and Japanese, by the end of 2018. Because of the additional technical adjustments needed to support right-to-left script, Arabic translation is deferred until 2019.
+
+Modest growth in the number of national participants in GBIF continued in 2018, with South Sudan, Zimbabwe, Cameroon and Viet Nam joining as Associate Participant Countries. Liberia also formally communicated its intent to join as a Voting Participant, and several other African countries are working towards participation as part of activities under the BID programme. Discussions continue with a number of other potential participants in Asia, the Caribbean, Central America, North Africa and the Former Soviet Union regions. The Secretariat continues to seek appropriate routes to build on successful institutional engagement and data publishing activity both in Russia and China to secure national government participation in each of these countries.
+
+==== 2018 Participant contributions
+
+* Australia: ALA has facilitated conferences and workshops with many countries and will continue to support facilitation of Living Atlas infrastructure.
+* Colombia: “Colombia BIO | Nuevos canales de participación.” SiB Colombia has updated two of its existing participation channels: Data Portal and Biodiversity Catalog, and has developed two completely new channels. The first one, "Online Collections", is a significant advance in the visibility and availability of the multimedia material associated with specimens in biological collections, and the second, "List of species", allows access to all the lists of species that are shared through SiB Colombia, including the reference lists of the country. Results: Catálogo de la Biodiversidad: http://catalogo.biodiversidad.co Portal de datos: http://datos.biodiversidad.co Colecciones en línea: http://colecciones.biodiversidad.co Listas de especies: http://listas.biodiversidad.co
+* Colombia: Internationalizing GBIF.org Colombian node is participating in the GBIF Portal Spanish translation in the current year, using the Crowdin platform arranged by GBIF https://crowdin.com/project/gbif-portal. At his moment there is an 83% advance in the Spanish translation with help of Spanish speakers nodes (Spain & Argentina mainly). The results are displayed in https://www.gbif.org/es and the translation will be complete in the second semester of 2018.
+* France: Invitation of the project leader of a Balkan project and the LifeWatch CEO to the EU nodes meeting, Participation in other meetings: RDA Berlin, Irkutsk in September.
+* France: Help for French translation.
+* Japan: Translation of GBIF.org
+* Norway: Capacity enhancement and data mobilization training(BioDATA, during 2018-2021) by GBIF Norway, the Norwegian Research School in Biosystematics (ForBio), GBIFS, and funded by the Norwegian Centre for cooperation in Education (SIU), will approach potential new GBIF member countries and promote the benefits of GBIF membership in Russia and former Soviet Union republics. (See also activity 1b).
+* South Africa: SANBI-GBIF, through the JRS funded ABC project is engaged in expanding the networks through hosting Biodiversity Information Management Forums (BIMFs) in 4 countries (Rwanda, Ghana, Namibia, Malawi) in Africa, replicating the South African BIMF model for developing the Biodiversity Informatics community.
+* South Africa: GBIF-BID/ABC workshop on data use and application held in February 2018, at Kirstenbosch Gardens, Cape Town, SANBI.
+* South Africa: SANBI-GBIF will provide support in expanding engagement with new countries in Africa. A service provider will be secured to assist with this work
+
+==== 2019 Progress
+
+_previously *2019 work items*_
+
+* Add support for Arabic language content in GBIF.org, including technical adjustments to accommodate right-to-left script, and commissioning translations of the user interface as well as key content
+● Use BID closing regional meetings in Caribbean, Pacific and sub-Saharan Africa to promote further national participation in these regions, both for countries with funded projects and for additional countries invited from each region.
+● Build on current funded projects, and develop additional funding proposals, to implement an intensive engagement strategy for remaining regions with under-represented or no national participation, namely: 1) the Former Soviet Union including Central Asia, the Caucasus and the Baltic States; 2) the Balkans and other Central and East European countries; 3) North Africa and the Middle East; and 4) China, South and Southeast Asia.
+
+==== 2019 Participant contributions
+
+_previously *2019 Participant plans*_
+
+* Japan: Translation to be continued for other materials.
+* South Africa: The ABC project follows an incentivised approach for data mobilisation. As a final outcome of the project, a prize-giving ceremony will be conducted in February 2019 based on a number of criteria. This approach will demonstrating the use and application of data which has been mobilised, for aspects of societal need and/or policy relevance.
+* South Africa: Through SANBI-GBIF, new countries in Africa will be identified to further the biodiversity informatics agenda in support of science and sustainable development. National networks will be developed in the region through the implementation of further BIMFs and GBIF advocacy will be conducted.
+
+==== 2020 Work items
+
+* Do something big
+
+==== 2020 Participant plans
+
+* *Tecala*: Do something big.
