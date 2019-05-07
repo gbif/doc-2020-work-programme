@@ -14,9 +14,9 @@ Combining energies across the whole network within the framework of this plan wi
 
 GBIF operates on three primary levels:
 
-+ *Global* – GBIF is an international activity and works at the global level to increase standardization and adoption of best practices, to facilitate sharing of expertise and resources and to offer an integrated global dataset and associated informatics infrastructure.
-+ *Participant* – GBIF Participants, including the nodes that they establish, have primary responsibility for engaging stakeholder communities, mobilizing and curating data, providing support and training, and ensuring that national researchers and agencies gain maximum benefit from GBIF. GBIF regional networks provide a framework for national and organizational stakeholders to collaborate more closely, particularly when addressing challenges and opportunities they share.
-+ *Data Publisher* – Data-holding institutions, agencies and individual researchers are the foundations on which GBIF depends. GBIF has a responsibility to ensure that data publishers have access to the tools and support that they need and that they receive recognition for their work and contributions.
+* *Global* – GBIF is an international activity and works at the global level to increase standardization and adoption of best practices, to facilitate sharing of expertise and resources and to offer an integrated global dataset and associated informatics infrastructure.
+* *Participant* – GBIF Participants, including the nodes that they establish, have primary responsibility for engaging stakeholder communities, mobilizing and curating data, providing support and training, and ensuring that national researchers and agencies gain maximum benefit from GBIF. GBIF regional networks provide a framework for national and organizational stakeholders to collaborate more closely, particularly when addressing challenges and opportunities they share.
+* *Data Publisher* – Data-holding institutions, agencies and individual researchers are the foundations on which GBIF depends. GBIF has a responsibility to ensure that data publishers have access to the tools and support that they need and that they receive recognition for their work and contributions.
 
 This Implementation Plan seeks to address needs at all three of these levels while aiming to reinforce the value of GBIF for stakeholders at each level. It is highly desirable to increase coordination and feedback between these levels. The 2019 version of the document includes reports from a few GBIF Participants on their 2018 activities and 2019 plans. It would be most beneficial to receive inputs from a wider range of Participants to give a clear picture of everything occurring in the network and to assist the Secretariat and all Participants with better alignment and reuse.
 
@@ -28,9 +28,9 @@ At the data publisher level, GBIF maintains the Integrated Publishing Toolkit (I
 
 At the Participant level, several efforts have been made to deliver generic portal tools to assist node managers in their work and to deliver value at the national level. The most significant roles for such a platform would be to:
 
-+ Enable national- or regional-level integration and curation of datasets
-+ Enhance data records to reflect national administrative units and national species lists
-+ Provide tools that meet the requirements of national or regional researchers, policymakers and the general public
+* Enable national- or regional-level integration and curation of datasets
+* Enhance data records to reflect national administrative units and national species lists
+* Provide tools that meet the requirements of national or regional researchers, policymakers and the general public
 
 Over the last few years, a growing number of GBIF Participants have collaborated to leverage Australia’s investment in the Atlas of Living Australia (ALA) and to customize these tools to deliver their own portals. The Implementation Plan responds to this with a focus on increasing community development and support to deliver a reusable and sustainable portal toolkit based on the ALA tools. This approach not only benefits Participants already committed to using these tools, but also provides a solution for rapid adoption by other Participants at national, regional, or even thematic levels. In addition, Belgium has indicated an interest in exploring the potential for an alternative lightweight solution based on repository tools such as CKAN.
 
@@ -54,28 +54,28 @@ These resources combine as follows:
 
 ==== Core Funding
 
-+ Supports GBIF Governance structures (Governing Board, committees)
-+ Supports staffing and operation of GBIF Secretariat to coordinate global activity, including:
-+ + Delivery of global-level IT infrastructure (GBIF.org)
-+ + Coordination of delivery of software components to support Participants and Data Publishers
-+ + Coordination of capacity enhancement activity and information materials for Participants, Data Publishers and Users
-+ + Coordination of supplementary-funded activity and Participant investments in shared GBIF activity
-+ + Monitoring and reporting usage and benefits
-+ + Administrative support for GBIF activities
-+ + Communication, outreach and partnership activities
-+ Limited funds to support workshops, capacity enhancement and developments to expand or enhance GBIF
+* Supports GBIF Governance structures (Governing Board, committees)
+* Supports staffing and operation of GBIF Secretariat to coordinate global activity, including:
+* * Delivery of global-level IT infrastructure (GBIF.org)
+* * Coordination of delivery of software components to support Participants and Data Publishers
+* * Coordination of capacity enhancement activity and information materials for Participants, Data Publishers and Users
+* * Coordination of supplementary-funded activity and Participant investments in shared GBIF activity
+* * Monitoring and reporting usage and benefits
+* * Administrative support for GBIF activities
+* * Communication, outreach and partnership activities
+* Limited funds to support workshops, capacity enhancement and developments to expand or enhance GBIF
 
 ==== Supplementary Funding
 
-+ Additional funds to support workshops, capacity enhancement and developments to expand or enhance GBIF
-+ Funding to support Participants and Data Publishers with content mobilisation or development of national Biodiversity Information Facilities
+* Additional funds to support workshops, capacity enhancement and developments to expand or enhance GBIF
+* Funding to support Participants and Data Publishers with content mobilisation or development of national Biodiversity Information Facilities
 
 ==== Participant Investments
 
-+ Operating GBIF nodes
-+ Engaging with and supporting data publishers and users
-+ Curating data from Data Publishers
-+ Additional funds or staffing to support workshops, capacity enhancement and developments to expand or enhance GBIF
+* Operating GBIF nodes
+* Engaging with and supporting data publishers and users
+* Curating data from Data Publishers
+* Additional funds or staffing to support workshops, capacity enhancement and developments to expand or enhance GBIF
 
 In past years, Annual Work Programmes have been developed to reflect the use of Core Funding, but this Implementation Plan is intended to offer a framework for GBIF Participants and other stakeholders to take leadership in delivering some of the identified activities and tasks. Where possible, Participants are encouraged to seek funds or allocate staff time to enable progress in areas beyond those for which Core Funding is adequate.
 
@@ -83,11 +83,11 @@ All such commitments reported by GBIF participants have been included within the
 
 Additional Participant commitments will be most welcome at any stage in the implementation of the 2017 Annual Work Programme and for inclusion in subsequent Annual Work Programmes. Examples of such commitments include (but are not limited to):
 
-+ Organization of workshops to develop required new standards or best practice recommendations
-+ Capacity enhancement and training at regional or global levels, in particular for workshops and projects in regions which are not addressed by current Supplementary Funding sources
-+ Development of tools or software components to advance GBIF’s work
-+ Representation of GBIF in international fora
-+ Recruitment of additional GBIF Participants
+* Organization of workshops to develop required new standards or best practice recommendations
+* Capacity enhancement and training at regional or global levels, in particular for workshops and projects in regions which are not addressed by current Supplementary Funding sources
+* Development of tools or software components to advance GBIF’s work
+* Representation of GBIF in international fora
+* Recruitment of additional GBIF Participants
 
 Please advise the Secretariat at the earliest possible opportunity of any such proposed commitments. A form is made available for this purpose.
 
