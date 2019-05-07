@@ -24,8 +24,6 @@ include::200.en.adoc[]
 
 include::300.en.adoc[]
 
-:sectnums:
-
 include::400.en.adoc[]
 
 include::410.en.adoc[]
@@ -41,3 +39,19 @@ include::450.en.adoc[]
 include::460.en.adoc[]
 
 include::500.en.adoc[]
+
+include::510.en.adoc[]
+
+include::520.en.adoc[]
+
+include::600.en.adoc[]
+
+include::610.en.adoc[]
+
+include::620.en.adoc[]
+
+include::630.en.adoc[]
+
+include::640.en.adoc[]
+
+include::700.en.adoc[]
