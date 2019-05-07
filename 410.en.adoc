@@ -18,9 +18,9 @@ GBIF will organize all these materials to form a curriculum that builds and supp
 . Articulate training and capacity enhancement activities around a single, global curriculum for GBIF
 . Deliver explainer texts and videos to support self-directed instruction and learning
 
-==== Progress
+==== 2018 Progress
 
-During 2018, the Secretariat in collaboration with trainers from the GBIF community has made significant progress in refining and streamlining course materials developed through the BID programme to support data mobilization skills among project teams, for adaptation and re-use in a wide range of programmes in any region. In addition, a new set of training modules for use of open-access biodiversity data in decision making has been developed for three separate regional training workshops within BID, also with the intention of making standard materials available for rolling out in any region and for re-use by nodes.
+The Secretariat in collaboration with trainers from the GBIF community has made significant progress in refining and streamlining course materials developed through the BID programme to support data mobilization skills among project teams, for adaptation and re-use in a wide range of programmes in any region. In addition, a new set of training modules for use of open-access biodiversity data in decision making has been developed for three separate regional training workshops within BID, also with the intention of making standard materials available for rolling out in any region and for re-use by nodes.
 
 The consolidation of course materials for data mobilization, tested and adapted in four separate BID capacity enhancement workshops in Africa, the Caribbean and Pacific in 2016-17, enabled replication of the training modules in four additional workshop settings during 2018: 1) in Montenegro in April, within a project on biodiversity information management and reporting in the Western Balkans, funded by Deutsche Gesellschaft für Internationale Zusammenheit (GIZ); 2) in Moscow in April to support mobilization of data from Russian institutions in a project funded by GBIF Finland; 3) in Beijing in June, to support data mobilization projects funded in the latest call under the Biodiversity Information Fund for Asia (BIFA) using supplementary funds provided by the Ministry of Environment, Japan; and 4) at Lake Baikal, Siberia in September, in a training event on mobilization of data using both GBIF tools and barcoding techniques through the Barcode of Life Data System (BOLD), supported through Norway’s ForBio programme.
 
@@ -30,7 +30,7 @@ The mentoring and collaborative helpdesk approach developed through the BID prog
 
 The set of explainer texts for key GBIF activities expanded in 2018 with an explainer on data hosting and two more are in the pipeline on Creative Commons licensing and API access. A set of explainer texts on the use of GBIF-mediated data is in preparation with a dedicated section planned for this topic in the top-level navigation of GBIF.org.
 
-==== Participant contributions
+==== 2018 Participant contributions
 *Argentina, Australia, Belgium, Benin, Colombia, France, Ghana, Madagascar, Norway, Poland, Portugal, South Africa, Spain, Sweden, United States, Zimbabwe, UNEP-WCMC, VertNet*: These participants supplied trainers and mentors for workshops organized by GBIF during the year under BID and BIFA, and in Montenegro and Russia for capacity enhancement in data publishing and use.
 
 *Colombia*: “GBIF habla Español.” GBIF Spain and SiB Colombia have produced an animated promotional video about GBIF and 4 additional short videos that showcase multiple experiences from people that take part in the global network from both countries. The materials produced were shared through a wiki hoping that they may serve to build upon them. The animated video is the most viewed video on the GBIF youtube channel and incorporates subtitles in english, french, chinese and portuguese, following its success after its launch on GB24.
