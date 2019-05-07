@@ -14,9 +14,9 @@ GBIF will organize all these materials to form a curriculum that builds and supp
 
 ==== Tasks
 
-.Develop collaborative help desk capability – including discussion groups, support materials and FAQs
-.Articulate training and capacity enhancement activities around a single, global curriculum for GBIF
-.Deliver explainer texts and videos to support self-directed instruction and learning
+. Develop collaborative help desk capability – including discussion groups, support materials and FAQs
+. Articulate training and capacity enhancement activities around a single, global curriculum for GBIF
+. Deliver explainer texts and videos to support self-directed instruction and learning
 
 ==== Progress
 
@@ -49,10 +49,10 @@ The set of explainer texts for key GBIF activities expanded in 2018 with an expl
 
 ==== 2019 work items
 
-.Package and promote Data Use for Decision Making workshop materials for wider re-use in GBIF programmes and beyond, e.g. for CBD and IPBES capacity building needs
-.Explore opportunities for additional training workshops on data use for decision making in more regions, attached to existing programmes or using supplementary funds
-.Further develop explainer texts and videos to complete self-instruction package for basic introduction to data mobilization and use in GBIF
-.Establish system for reviewing, prioritizing, updating and creating new documentation to support GBIF data publishers and users, including a lightweight editorial panel and peer review process, with annual funding for commissioning high-priority guidance from subject-matter experts
+. Package and promote Data Use for Decision Making workshop materials for wider re-use in GBIF programmes and beyond, e.g. for CBD and IPBES capacity building needs
+. Explore opportunities for additional training workshops on data use for decision making in more regions, attached to existing programmes or using supplementary funds
+. Further develop explainer texts and videos to complete self-instruction package for basic introduction to data mobilization and use in GBIF
+. Establish system for reviewing, prioritizing, updating and creating new documentation to support GBIF data publishers and users, including a lightweight editorial panel and peer review process, with annual funding for commissioning high-priority guidance from subject-matter experts
 
 ==== Participant plans for 2019
 
@@ -64,7 +64,7 @@ The set of explainer texts for key GBIF activities expanded in 2018 with an expl
 
 ==== 2020 work items
 
-.Do something really important
+. Do something really important
 
 ==== Participant plans for 2020
 
