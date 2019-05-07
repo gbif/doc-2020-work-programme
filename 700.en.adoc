@@ -1,0 +1,49 @@
+== Priority 4: Improve Data Quality
+
+=== Activity 4a: Ensure data persistence
+
+==== Tasks
+. Identify and verify datasets within GBIF network without current owners
+. Publish reference instances of these datasets within hosted IPTs
+. Develop processes and mechanisms for adoption of orphaned datasets by suitable agencies or experts
+
+==== Rationale
+
+There exists a significant portion of data available through GBIF.org that is not actively curated by a data host. In some cases, there are no resources or desire to make further edits to the datasets. These datasets are effectively orphaned and the GBIF.org version of the dataset is often the last remaining version available on the internet. As GBIF develops mechanisms to provide feedback to data publishers and support curation of datasets, we need to consider that these orphaned datasets will not be updated with corrections or migrated to adhere to modern data standards.
+
+==== Approach
+
+The task is to ensure that all datasets have a primary version available on the internet which acts as the source for GBIF.org to index. Orphaned datasets will be identified, extracted from the GBIF.org index and loaded into the most suitable data repository supporting versioning: either run by a GBIF participant or a central cloud installation of an IPT. As issues are identified anyone will be able to volunteer to correct the source data, upload a new version into the data repository, document the changes applied and follow editor guidelines. Once republished GBIF.org will reflect the updated data, and the provenance of changes will be traceable through the repository versioning system. Policies for editors, including attribution and the settlement process for disputes will be documented. This entire activity could be led and implemented by a GBIF Participant.
+
+==== 2018 Progress
+
+Datasets identified in the 2017 analysis and campaign to identify and where possible re-activate lost data access points were migrated into a dedicated data hosting environment operated by the GBIF Secretariat. From here, they are available for “adoption” by Participant nodes or re-publication by the original owners. All other conditions, including the representation under the original data publishing institution, remain unchanged.
+
+==== 2018 Participant contributions
+
+* BHL: Migrating BHL wiki archives and public wiki; gathering BHL Europe data
+* Colombia: During July 2017, the 20 Colombian datasets identified by the IT team of GBIF as “orphaned” were reviewed and published again correctly by the Colombian Node. All the datasets had been detected as orphaned due a domain change from http://data.biodiversidad.co (deprecated) to http://ipt.biodiversidad.co. Tracking to the issue: https://github.com/gbif/watchdog/issues/15
+* Norway: GBIF Norway contributed in 2017 and 2018 to the Darwin Core compatibility of specimen-level DOI resolver services for the UN Food and Agriculture Organization in coordination with GBIFS and the GBIF data fitness for use priorities (see also activity 3a, 4b, and 5b).
+* Spain: Several hundred offline Spanish datasets were extracted from the GBIF.org index and relocated to an IPT server under management of GBIF Spain.
+
+==== 2019 Progress
+
+_previously *2019 work items*_
+
+* Coordinate effort to achieve CoreTrustSeal data repository certification for relevant portions of the GBIF infrastructure. This will include the data management services within GBIF.org, but will also seek to identify a set of trusted repositories for publishing datasets within the GBIF network.
+* Develop documentation for all stages in the GBIF data ingestion process, to enable data provenance to be fully understood by users of GBIF data.
+
+==== 2019 Participant contributions
+
+_previously *2019 Participant plans*_
+
+* BHL: Make progress on adding BHL Europe data to BHL
+* Norway: GBIF Norway will continue contribution to the best practices documentation, capacity training and implementation of specimen-level DOIsin collaboration with the UN Food and Agriculture Organization in coordination with the GBIFS (see also activity 3a, 4b, and 5b).
+
+==== 2020 Work items
+
+* Do something big
+
+==== 2020 Participant plans
+
+* *Tecala*: Do something big.
