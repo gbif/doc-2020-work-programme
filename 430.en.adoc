@@ -2,15 +2,15 @@
 
 ==== Tasks
 [lowerroman]
-* Promote and support capacity self-assessment for data holders
-* Promote publication of collection metadata
-* Simplify data publication pathways (spreadsheet-level publishing)
-* Manage IPT feature upgrades
-* Operate hosted IPT infrastructure
-* Consolidate NSG-led endorsement process
-* Develop online collaboration through GBIF.org helpdesk to assist and mentor data publishers
-* Provide clear online reporting of the use of data for data publishers
-* Promote data management plans as key tool for data publishers (Added 2018)
+. Promote and support capacity self-assessment for data holders
+. Promote publication of collection metadata
+. Simplify data publication pathways (spreadsheet-level publishing)
+. Manage IPT feature upgrades
+. Operate hosted IPT infrastructure
+. Consolidate NSG-led endorsement process
+. Develop online collaboration through GBIF.org helpdesk to assist and mentor data publishers
+. Provide clear online reporting of the use of data for data publishers
+. Promote data management plans as key tool for data publishers (Added 2018)
 
 ==== Rationale
 
