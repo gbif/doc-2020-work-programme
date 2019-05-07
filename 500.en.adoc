@@ -1,5 +1,9 @@
 == Priority 2: Enhance Biodiversity Information Infrastructure
 
+****
+Provide leadership, expertise and tools to support the integration of all biodiversity information as an interconnected digital knowledgebase.
+****
+
 === Activity 2a: Modernize data standards
 
 ==== Rationale
