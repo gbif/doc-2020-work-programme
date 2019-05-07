@@ -2,7 +2,7 @@
 
 ==== Tasks
 
-[loweralpha]
+[lowerroman]
 . Perform ongoing nodes capacity self-assessment
 . Build reusable national/regional platform tools centred on ALA software
 . Develop online collaboration through GBIF.org helpdesk to assist and mentor node managers
