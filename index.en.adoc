@@ -1,0 +1,31 @@
+= GBIF Implementation Plan 2017-2021 and Annual Work Programme 2019
+:toc: left
+:toclevels: 3
+:numbered:
+:revnumber: {git-metadata-sha-short}
+:revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
+:title-logo-image: img/es.header-cover-figure.jpg
+:icons: font
+:pagenums:
+:license: https://creativecommons.org/licenses/by/4.0
+:xrefstyle: short
+:source-highlighter: pygments
+:source-language: javascript
+
+ifdef::backend-html5[]
+_languageLinks:pdf[This document is also available,PDF format]languageLinks:languages[ in other languages:,]._
+endif::backend-html5[]
+
+:sectnums!:
+
+include::100.en.adoc[]
+
+include::200.en.adoc[]
+
+include::300.en.adoc[]
+
+:sectnums:
+
+include::400.en.adoc[]
+
+include::410.en.adoc[]
