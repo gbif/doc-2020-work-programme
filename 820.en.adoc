@@ -1,0 +1,53 @@
+=== Activity 5c: Support biodiversity assessment
+
+==== Tasks
+[lowerroman]
+. Enhance GBIF.org presentation of sampling event data
+. Support development of species distribution/population abundance EBVs
+. Showcase tools and practices for use of GBIF in Red Listing and other species assessment processes
+
+==== Rationale
+
+One of GBIF’s key roles is as organizer or global evidence for species distribution, based on point records for species in time and space. Expansion of data publishing to accommodate sampling event data enables this evidence base also to mobilize and organize basic data on species populations and abundance. As a result, GBIF is positioned to serve as a critical resource for supporting biodiversity assessment at all scales. In particular, GBIF should serve as the data foundation for GEO BON to deliver Essential Biodiversity Variables (EBVs) for species distribution and population abundance. These EBVs represent a continuum from modelled representation of species occupancy (presence-only) in defined units of space and time through to richer assessment of species abundance in those units. GEO BON should serve as a forum for addressing the challenges of modelling such variables and interpolating sensibly between existing data points. This includes determination of appropriate scale at which modelled variables are adequately supported by current data. GBIF needs to ensure that it delivers the data foundations required for these activities, thereby supporting the requirements of IPBES, species Red Listing through IUCN and national authorities, the CBD and the Aichi Targets and Sustainable Development Goals.
+
+==== Approach
+
+This activity depends on the activities defined for all goals, in order to improve the comprehensiveness, coverage and quality of data accessed through the GBIF network. An additional area for enhancement will be GBIF.org search interfaces and presentation (via maps and other visualisations) of sampling event data. Such interfaces should ensure that researchers can properly evaluate and assess data suitable for biodiversity assessment activities. Additionally GBIF needs to be active within GEO BON to ensure that there is close alignment and evolution between the concepts and implementation of EBVs and the data and services offered by GBIF.
+
+==== 2018 Progress
+
+GBIF has continued to participate in GEO BON processes to develop Essential Biodiversity Variables as a mediating structure between 1) the complex spread of measurements captured in regard to biodiversity and natural systems and 2) the needs of researchers and policymakers focused on large scale perspectives regarding biodiversity change and sustainability. Within GEO BON, divergent opinions remain regarding whether the EBV or EBVs for species distribution, population abundance and community composition correspond directly to a matrix of measurements of species occupancy and abundance for any portion of space and time and for any taxa or whether more derived variables representing e.g. some kind of alpha and beta diversity should be adopted as the EBV(s). In practice, for GBIF, the distinction is relatively unimportant, since GBIF can and should serve regardless as the infrastructure for organising all available evidence on the presence, absence and abundance of any species at any time and place. However the EBV definitions are finally resolved, GBIF will play the same fundamental role. Indeed, by focusing on increased mobilisation and integration of all relevant data, and especially sampling-event data, and by improving the options for users to filter, access and pivot GBIF data based on facets such as latitude, longitude, time and taxon, GBIF can play a critical role in evaluating alternative perspectives on EBVs.
+
+A Memorandum of Understanding between GBIF and IPBES was signed on the margins of the sixth plenary meeting of the platform in Medellin, Colombia, in March. Focusing on specific ways in which GBIF and IPBES can collaborate better both at global level and between GBIF nodes and IPBES national focal points, the MoU helped to raise the profile of GBIF’s role as a foundational source of data to support IPBES assessments, and was well received by many IPBES delegates as well as by the GBIF participant community.
+
+A Memorandum of Cooperation is being finalized between GBIF and IUCN, with joint work areas identified to increase interoperability between IUCN and GBIF portals, to increase data sharing between the two organizations, and to collaborate more closely in development of shared training materials. GBIF will also be involved in discussions concerning the IUCN Monitoring Specialist Group.
+
+==== 2018 Participant progress
+* Australia: ALA has contributed the EBV goals and within Australia to the Environmental Assessment Measure Program
+* Australia: The Atlas has extended support for ingestion and indexing of sampling-event based Darwin Core Archives. The Atlas has also invested in joint programs that increase capability and understanding of biodiversity data, management and modeling. This includes the EcoEd program and adoption of tools that simplify analysis of ALA and GBIF data. Elements of these programmes could be of value more broadly within GBIF training and for engagement with tertiary education.
+* Norway: GBIF Norway was a partner in the GBIF CESP project European Bireme on assessing the role of European GBIF Nodes in the national EU biodiversity reporting and data flow pathways (see also activity 1c).
+* South Africa: Efforts are underway through both the Research and Policy Advice divisions at SANBI to support biodiversity mapping priorities (Botswana, Ethiopia and Malawi) with UNEP-WCMC;and Red-list assessments in countries in Africa. SANBI is working with Mozambique to support Red-list assessment work, through its Threatened Species Programme, within a BID funded project.
+
+==== 2019 Progress
+
+_previously *2019 work items*_
+
+* Continue contributing to GEO BON activity to develop Essential Biodiversity Variables, particularly in regard to Species Distribution, Population Abundance and Community Composition. As the global infrastructure for organizing species occurrence data in support of EBVs, work with GEO BON to align with the EBV framework.
+* Enhance GBIF.org to ensure that sampling event data can be accessed in forms appropriate for further processing as EBV data.
+* Explore options for new data download formats which provide pivoted views of available data in forms appropriate for processing as EBV data. Such pivoted views are likely also to assist other users with simplified access to relevant GBIF data.
+
+==== 2019 Participant contributions
+
+_previously *2019 Participant plans*_
+
+* Belgium: Explore and prototype a tool, based on occurrences API, that will return a species list from a user-defined polygon.
+* Norway: The wider Norwegian GBIF community will promote the sampling event model for biodiversity assessment activities with focus on national activities in Norway (see also activity 2a).
+* South Africa: SANBI-GBIF will engage with the IPBES Chair for data and knowledge, to reinforce a stronger IPBES perspective to the ACM work, as it shows the data needs and the potential. The IPBES Africa Assessment reinforces the need for investment in biodiversity information and the ACM.
+
+==== 2020 Work items
+
+* Do something big
+
+==== 2020 Participant plans
+
+* *Tecala*: Do something big.
