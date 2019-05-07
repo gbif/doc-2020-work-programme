@@ -1,0 +1,62 @@
+=== Activity 1d - Equip data publishers
+
+==== Tasks
+
+[loweralpha]
+* Promote and support capacity self-assessment for data holders
+* Promote publication of collection metadata
+* Simplify data publication pathways (spreadsheet-level publishing)
+* Manage IPT feature upgrades
+* Operate hosted IPT infrastructure
+* Consolidate NSG-led endorsement process
+* Develop online collaboration through GBIF.org helpdesk to assist and mentor data publishers
+* Provide clear online reporting of the use of data for data publishers
+* Promote data management plans as key tool for data publishers (Added 2018)
+
+==== Rationale
+
+Data publishers are an essential component of the GBIF network as they share their content through the common infrastructure. More than 800 data publishers actively distribute datasets through GBIF.org, and their ranks increase steadily. Publishers from different parts of the world often face unique challenges, though common themes emerge. These problems range from lack of data publishing experience or skills, lack of equipment, language barriers, difficulties in managing data hosting facilities, and the inability to publish high-quality data or curate data into the future. The Integrated Publishing Toolkit (IPT) requires ongoing improvements and enhancements, including the establishment of hosted instances that reduce the technical burden on data publishers.
+
+==== Approach
+
+Following the model of the self-assessment tool for node managers, the Secretariat has developed a self-assessment tool for data publishers as part of the support for the BID programme, which will guide the work with collection managers and other data holders to assess and prioritize areas for capacity enhancement or investment. The Secretariat already operates instances of the IPT that data publishers lacking their own infrastructure may use, and Participants are encouraged to deploy instances of the IPT or other GBIF-compatible data publishing software to support data holding institutions. Planned enhancements to the IPT will simplify publishing pathways using spreadsheet templates as an alternative for the less advanced data publishers. GBIF will improve reporting to data publishers on both quality aspects of their data and uses of data documented through download DOI citations.
+
+==== 2018 Progress
+
+The Integrated Publishing Toolkit (IPT) is being maintained to deal with bug fixes, translations etc., and version 2.3.6 was released during 2018. Review of requirements for a revised IPT is on hold until there is greater clarity on how broad a data model for GBIF should be (see Activity 2a). With a new model in place, GBIF will design appropriate tools to map and publish data.
+The cloud-based IPT infrastructure maintained by the Secretariat continues to provide a fallback solution for publishers unable to host their own installation or to find a third-party hosting option. As of September 2018, this option was being used by six publishers associated with the BID programme, sharing a total of 52 datasets. Cloud-hosted IPTs are expected to become more widely used in coming months, especially with the plan to use volunteer mentors to provide helpdesk support for users of this option (see 2019 work items in this section).
+The Secretariat in collaboration with the Nodes Steering Group continued in 2018 to identify and attempt to resolve remaining log-jams in the process of endorsing new publisher wishing to share data through the GBIF network. To address isolated cases in which publishers experience extended delays in response to an endorsement request from a participant node, the NSG agreed to amend the
+endorsement guidelines to enable community-level endorsement as a last resort if the node remains unresponsive. Further review of these guidelines is planned for the final quarter of 2018.
+
+==== 2018 Participant contributions
+
+* Australia: The Atlas delivered enhancements to its platform for registering datasets in GBIF using GBIF’s registry APIs. These enhancements are in use by both UK and Australia. In addition, we continue to support thematic portals within Australia for Herbaria and Zoological collections and other groups aimed at showcasing the work of data publishers.
+* Colombia: Increase of biodiversity data publications through SiB Colombia node. In the current year the SiB Colombia's network increased with 16 new data publishers (14.5%) estimating an increase of almost 20% to the end of the year. The publications at the current year represent an increasement of ~ 124,000 new occurrence, 52 occurrence datasets, 10 Checklist and 5 Events.
+* France: GBIF France hosts data and maintains IPT instances for 13 southern countries, and web sites for Madagascar and Benin.
+* Japan: IPT established to publish previously unpublished data.
+* Korea: Published ca. 1 million collections data from National Institute of Biological Resources (NIBR) of Korea via GBIF portal.
+* Korea: Seoul National University received a fund from the BIFA project (Collections Data Mobilization Grant).
+* Norway: GBIF Norway has developed an online tool for generating GBIF-compatible spreadsheet-templates with source code available on GitHub for further collaborative development.
+* South Africa: 1. SANBI-GBIF provides helpdesk support for Nodes in Africa to host data, through SANBI-GBIF’s Africa IPT. 2. SANBI-GBIF hosts an Africa IPT infrastructure to support dataset publishing by Participants in Africa that may require this service. This service has supported some existing GBIF country Participants publishing data as an outcome of BID, as well as some new countries which are not yet GBIF Participants. GBIF Ghana, Liberia, Zambia
+
+==== 2019 Progress
+[_previously *2019 work items*_]
+* Develop helpdesk services for new data publishers using cloud-hosted IPT installations, managed by volunteer mentors experienced in data publishing
+
+==== 2019 Participant contributions
+[_previously *2019 Participant plans*_]
+
+* Australia: Data audits with a focus on trait information, and business analysis to assist the mobilisation of trait information.
+* France: GBIF France will continue to support data publishing for southern countries.
+* Japan: New IPT server to be established.
+* Korea: Have a plan to publish new historical herbarium specimen data (nearly 140,000 specimens) from the Korean peninsula (including North Korea) flora checklist provided by T.B. Lee herbarium in Seoul National University (funded by BIFA collections data mobilization grant). Plan to provide new dataset of relatively recent specimens of woody plants in Korea (ca. 100,000 occurrence records with georeference & data publications)
+* Norway: GBIF Norway will continue to offer data hosting and publishing services (IPT) also for data publishers located outside of Norway.
+* Norway: GBIF Norway will continue to offer online services for citizen science digitization of museum specimens (see activity 4c).
+
+==== 2020 Work items
+
+* Do something big
+
+==== 2020 Participant plans
+
+* *Tecala*: Do something big.
