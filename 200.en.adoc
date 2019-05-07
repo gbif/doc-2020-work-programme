@@ -1,0 +1,27 @@
+== GBIF Annual Work Programme 2020
+
+Wayfinding (now with hyperlinks!)
+
+=== Financial situation
+
+The numbers
+
+=== Secretariat staffing
+
+Grouped by department
+
+=== Planned expenditure
+
+In addition to salary and operating costs, including support for GBIF Governance mechanisms, funding is reserved in the Work Programme 2020 for the following activities:
+
++ Line item costs
+
+=== Areas to expand activity (subject to additional funding)
+
+There is always uncertainty around the exact level of funding which GBIF will secure in any given year. This Work Programme is based on a realistic assessment of likely funding levels in 2019.
+
+It is possible however that 2019 funding levels will be higher and GBIF will have the opportunity to carry out additional activity. The following are recommended for such activity, and approval is sought from the Governing Board for the Executive Committee and the GBIF Secretariat to expand activity in these areas if budget levels are considered adequate during 2019:
+
+=== Overview of 2019 Work Items
+
+Not sure this is necessary with HTML version—though we could add a TOC earlier.
