@@ -2,7 +2,7 @@
 
 ==== Tasks
 
-[loweralpha]
+[lowerroman]
 * Promote and support capacity self-assessment for data holders
 * Promote publication of collection metadata
 * Simplify data publication pathways (spreadsheet-level publishing)
