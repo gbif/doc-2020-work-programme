@@ -55,3 +55,15 @@ include::630.en.adoc[]
 include::640.en.adoc[]
 
 include::700.en.adoc[]
+
+include::710.en.adoc[]
+
+include::720.en.adoc[]
+
+include::800.en.adoc[]
+
+include::810.en.adoc[]
+
+include::820.en.adoc[]
+
+include::830.en.adoc[]
