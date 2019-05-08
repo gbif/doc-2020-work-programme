@@ -2,4 +2,4 @@
 
 Test repository to consider adoption of digital documentation approach to preparing, circulating, reviewing and finalizing GBIF's 2020 work programme.
 
-Outputs can be designed as needed, but current HTML and PDF outputs are based on the file `index.en.adoc`.
+Outputs can be designed as needed, but current HTML and PDF outputs are based on the file <<index.en.adoc>>.
