@@ -19,7 +19,12 @@ Exploring of suitable measures to indicate metadata completeness and appropriate
 
 ==== 2020 Work items
 
-* Do something big
+*	Review, consolidate and update existing documentation for data publishers. In particular, provide clear guidance on minimum requirements for published data.
+*	Develop metrics to track the completeness of core data elements and the degree to which supplied content is appropriate.
+*	Supply clear indicator measures for the completeness and usability of data as part of GBIF.org dataset pages, based on examples such as the GEOLabel data branding model.
+*	Extend data-quality assessment to include aspects only detectable above the level of individual records.
+*	Assess the patchiness of indexed data (geographical clustering, misleading accuracy or precision of coordinates), including evaluation of the apparent causes of data patchiness and include measures of data patchiness in the data index, at both dataset and record level in the data index.
+*	Ensure that users of data are able to identify datasets or records that do not fulfil their criteria for geo-accuracy, whether they are accessing data through facets in the GBIF.org, via the API or in downloads.
 
 ==== 2020 Participant plans
 
