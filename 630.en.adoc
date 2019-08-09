@@ -12,7 +12,7 @@
 
 Explored metadata-only dataset publication of the datasets proposed through https://www.gbif.org/suggest-dataset. Currently developing categorization of datasets to improve implementation of the ‘Suggest a dataset’ tool in GitHub. 
 
-==== 2019 Participant contributions
+===== 2019 Participant contributions
 
 * *Tecala*: Did something really important.
 
@@ -21,7 +21,7 @@ Explored metadata-only dataset publication of the datasets proposed through http
 *	Continue to implement workflow for prioritizing and drawing upon potential data sources reported through the ‘dataset catcher’ tool, including involvement of nodes, mentors and crowdsourced solutions.
 *	Roll out a workflow for ‘Suggest a dataset’ processing.
 
-==== 2020 Participant plans
+===== 2020 Participant plans
 
 * *Tecala*: Do something big.
 
