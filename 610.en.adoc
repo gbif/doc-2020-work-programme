@@ -7,6 +7,25 @@
 . Work with bioinformatics initiatives and databases to form robust bidirectional linkages with molecular data
 . Explore opportunities to integrate species-level data from remote sensing
 
+==== 2019 Progress
+
+2019 saw the continued growth of occurrence data on GBIF.org. Major new data types available are occurrence records derived from single sequence and metagenomic datasets of fungi and bacteria. GBIF is also ingesting occurrence data arising from barcode sequences deposited in the Barcode of Life Database (BOLD). GBIF presented at the Living Norway symposium targeting ecological datasets and is investigating protocols for sampling event data. GBIF is proactively investigating new data streams through outreach seminars at major events.
+
+===== 2019 Participant contributions
+
+* *Tecala*: Did something really important.
+
+==== 2020 Work items
+
+*	Enhance the data exchange standards for sampling-event data, collaborating with partners that generate data to provide sources for filling current gaps. This work aims to establish partnerships with long-term monitoring communities. 
+*	Improve linkages between records originating from museums and BOLD in order to link information that is currently treated as two occurrences.
+*	Carrying over the proposed 2019 work item, mobilize data on vectors and hosts of human diseases. Establish an expert group (€25,000) to identify priority needs for biodiversity data supporting disease research, critical gaps in availability of such data in GBIF.org, and potential sources of data to fill these gaps. The campaign will use this analysis to engage directly with relevant data holders, support data publication through GBIF and inform data mobilization priorities for use by nodes, publishers and funders (see Activity 3a).
+*	Continue linking and integration of sequence-based data streams.
+
+==== 2020 Participant plans
+
+* *Tecala*: Do something big.
+
 ==== Rationale
 
 GBIF serves as an integration point for any source of evidence of the recorded occurrence of species in time and space. A primary role for the GBIF infrastructure is to serve as a comprehensive single point of access for discovery, access, use and curation of all such evidence. Several classes of data are already well-supported within the GBIF network.
@@ -16,41 +35,3 @@ These include collections data, observations from field research, and many categ
 ==== Approach
 
 Existing GBIF models include support for occurrence records and for sampling-event datasets which organize occurrence records as sets of observations deriving from a single field sample (which make provision for GBIF to accommodate “absence data” from surveys which did not record a particular species despite searching). These approaches are core to all potential streams of data to be added. GBIF therefore needs to ensure that existing tools and documentation are clear and usable for relevant research communities and that GBIF sufficiently understands existing data management by these communities to avoid proposing unnecessary additional work. During 2016, GBIF is coordinating a consultation which builds on past engagements with genomics activities such as the Global Genome Biodiversity Network. Recommendations from this consultation are expected to guide improvements in GBIF tools, documentation and communications to support publishing of molecular data in formats which can be integrated within GBIF. Several projects are working on automated or human mining of data records from literature. GBIF needs to learn from these initiatives and ensure that its tools support integration in a simple way. GBIF should also seek exemplar projects for bringing occurrence records from remote sensing into the network.
-
-==== Progress
-
-The first steps toward integrating environmental DNA sequencing data directly into the GBIF occurrence index were taken during 2018, in a pilot collaboration with the UNITE community of Northern European researchers. This database has defined more than 73,000 species hypotheses based on clustering of DNA sequences taken from fungi. These are represented as stable operational taxonomic units (OTUs), linked to a Digital Object Identifier (DOI) and matched to the nearest known taxon name. By publishing these OTUs as a checklist in GBIF, they are now incorporated into the taxonomic backbone. A dataset based on DNA sampling of Danish fungi has already used this development successfully to publish georeferenced occurrences in which only the OTU is provided. This paves the way for publication of many more categories of data from sources such as eDNA in which established OTUs are recognisable but lack a formal scientific name.
-
-The process of incorporating more data using the richer sampling-event format also advanced during 2018, as the informatics team enhanced the representation of such data through listing individual sampling events on the landing page for each dataset, and providing a page for each event listing the number of occurrences of each species contained in the sample, as well as a visualization of the taxonomic distribution. This is the first step in improved visualization of sampling-event data which will eventually help users to link datasets using similar protocols and to represent trends over time, making GBIF a more appealing destination for ecological monitoring data.
-
-==== Participant contributions
-
-* Australia: The Atlas ran a national level workshop held in Canberra, which included EOL.The Atlas will also run a workshop focussing on traits at TDWG 2018. The goal of this is to attract a comprehensive range of people with expertise in trait data to discuss how we can form a community around trait data and better interact with each other. The Atlas has been working with genomics initiatives to incorporate Genomics data and eDNA data into Atlas infrastructure
-* BHL: Adding already transcribed handwritten items to BHL; full text search will enable better finding of occurrence data.
-* Colombia: AmeriGEOSS Week 2018 In August 2018 the Node Manager of Colombia and Nodes regional representative deputy Latin America LA & the Caribbean has the opportunity to assist to AmeriGEOSS Week: a meeting of organizations and experts in satelital images and remote sensing for the Americas that working, as GBIF, for the ecosystems and biodiversity conservation but at large scale. We found a very good opportunity 1. Work in linking effectively GBIF data with AmeriGEOSS datahub, cause that is not happening right now (https://data.amerigeoss.org/organization/gbif) and 2. Work hand in hand with some experts from the AmeriGEOSS community on the visibility of changes over time in event data published through GBIF.
-* Norway: GBIF Norway has collaborated with OBIS on exploring new extensions and solutions for supporting mobilization of MeasurementOrFact data with the Event Core model. Proposed solutions have been (partly) documented and presented at community workshops and at the regional European Node meeting in Tallinn in 2018.
-* South Africa: SANBI-GBIF is in the process of developing an MoU with iNaturalist for publishing citizen science data
-
-==== 2019 Progress
-
-_previously *2019 work items*_
-
-* Extend 2018 work on matching stable Operational Taxonomic Units (OTUs) based on DNA sequencing to the GBIF taxonomic backbone, with targets of establishing dynamic links with the Barcode of Life Data System (BOLD) and incorporating occurrence data derived from environmental DNA sampling (eDNA) through the European Bioinformatics Institute (EBI).
-* Run a campaign to mobilize data relating to vectors and hosts of human diseases, establishing an expert group to identify priority needs for biodiversity data supporting disease research, critical gaps in availability of such data in GBIF.org, and potential sources of data to fill these gaps. Campaign will use this analysis to engage directly with known holders of missing data and support publication through GBIF, as well as informing data mobilization priorities for use by nodes, publishers and and funders (see Activity 3a)
-
-==== 2019 Participant contributions
-
-_previously *2019 Participant plans*_
-
-* Australia: The Atlas is in the process of auditing the potential sources of trait information in Australia. We will also work to identify use cases for trait information. Recommend developing a joint program with ELIXIR and BPA (Australia)
-* BHL: Review options for transcribing in BHL
-* Norway: Capacity training in Eurasia (BioDATA, organized by GBIFS, GBIF Norway and the Norwegian Node in BOLD - NorBOL, and funded by the Norwegian Centre for cooperation in Education - SIU) includes training on BOLD data types and mobilization of sequence-based occurrence data in GBIF (see also activity 1b).
-* South Africa: Citizen Science community and records catalysed and available through iNaturalis
-
-==== 2020 Work items
-
-* Do something big
-
-==== 2020 Participant plans
-
-* *Tecala*: Do something big.
