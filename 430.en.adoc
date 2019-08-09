@@ -12,19 +12,11 @@
 . Provide clear online reporting of the use of data for data publishers
 . Promote data management plans as key tool for data publishers (Added 2018)
 
-==== Rationale
-
-Data publishers are an essential component of the GBIF network as they share their content through the common infrastructure. More than 800 data publishers actively distribute datasets through GBIF.org, and their ranks increase steadily. Publishers from different parts of the world often face unique challenges, though common themes emerge. These problems range from lack of data publishing experience or skills, lack of equipment, language barriers, difficulties in managing data hosting facilities, and the inability to publish high-quality data or curate data into the future. The Integrated Publishing Toolkit (IPT) requires ongoing improvements and enhancements, including the establishment of hosted instances that reduce the technical burden on data publishers.
-
-==== Approach
-
-Following the model of the self-assessment tool for node managers, the Secretariat has developed a self-assessment tool for data publishers as part of the support for the BID programme, which will guide the work with collection managers and other data holders to assess and prioritize areas for capacity enhancement or investment. The Secretariat already operates instances of the IPT that data publishers lacking their own infrastructure may use, and Participants are encouraged to deploy instances of the IPT or other GBIF-compatible data publishing software to support data holding institutions. Planned enhancements to the IPT will simplify publishing pathways using spreadsheet templates as an alternative for the less advanced data publishers. GBIF will improve reporting to data publishers on both quality aspects of their data and uses of data documented through download DOI citations.
-
 ==== 2019 Progress
 
 The Integrated Publishing Toolkit (IPT) is being maintained to deal with bug fixes, translations etc., and version 2.4 was released in 2019. Review of requirements for a revised IPT is on hold until there is greater clarity on how broad a data model for GBIF should be (see Activity 2a). With a new model in place, GBIF will design appropriate tools to map and publish data. The cloud-based IPT infrastructure maintained by the Secretariat continues to provide a fall-back solution for publishers unable to host their own installation or to find a third-party hosting option. As of June 2019, this option was being used by nine publishers associated with the BID programme and one publisher associated with the BIFA programme, sharing a total of 100 datasets. Cloud-hosted IPTs are expected to become more widely used in the coming months, especially with the use of volunteer mentors to provide help desk support for users of this option.
 
-==== 2019 Participant contributions
+===== 2019 Participant contributions
 
 * *Tecala*: Did something really important.
 
@@ -35,6 +27,14 @@ The Integrated Publishing Toolkit (IPT) is being maintained to deal with bug fix
 *	Create system of list management, similar to bulk email, to communicate to a larger section of the GBIF community for compliance and notifications. This includes a twice-yearly mandatory communication with data publishers in compliance with General Data Protection Regulation (GDPR: EU privacy regulations) and explore services for publishers to opt-in to receive push notifications for new citations.
 *	Provide comprehensive guidance and support services to lower the technical threshold of data-hosting options. Clearly document the benefits and implications of each option including aspects of operational cost, deployment model (local/cloud/GBIF-provided) and expectation of users. Use of volunteer mentors will be promoted to enhance help desk services.
 
-==== 2020 Participant plans
+===== 2020 Participant plans
 
 * *Tecala*: Do something big.
+
+==== Rationale
+
+Data publishers are an essential component of the GBIF network as they share their content through the common infrastructure. More than 800 data publishers actively distribute datasets through GBIF.org, and their ranks increase steadily. Publishers from different parts of the world often face unique challenges, though common themes emerge. These problems range from lack of data publishing experience or skills, lack of equipment, language barriers, difficulties in managing data hosting facilities, and the inability to publish high-quality data or curate data into the future. The Integrated Publishing Toolkit (IPT) requires ongoing improvements and enhancements, including the establishment of hosted instances that reduce the technical burden on data publishers.
+
+==== Approach
+
+Following the model of the self-assessment tool for node managers, the Secretariat has developed a self-assessment tool for data publishers as part of the support for the BID programme, which will guide the work with collection managers and other data holders to assess and prioritize areas for capacity enhancement or investment. The Secretariat already operates instances of the IPT that data publishers lacking their own infrastructure may use, and Participants are encouraged to deploy instances of the IPT or other GBIF-compatible data publishing software to support data holding institutions. Planned enhancements to the IPT will simplify publishing pathways using spreadsheet templates as an alternative for the less advanced data publishers. GBIF will improve reporting to data publishers on both quality aspects of their data and uses of data documented through download DOI citations.
