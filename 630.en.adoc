@@ -8,6 +8,23 @@
 . Review and update definitions of data publisher within GBIF to reflect collaborative data publishing
 . Develop partnerships with data journals to support data papers for rescued datasets
 
+==== 2019 Progress
+
+Explored metadata-only dataset publication of the datasets proposed through https://www.gbif.org/suggest-dataset. Currently developing categorization of datasets to improve implementation of the ‘Suggest a dataset’ tool in GitHub. 
+
+==== 2019 Participant contributions
+
+* *Tecala*: Did something really important.
+
+==== 2020 Work items
+
+*	Continue to implement workflow for prioritizing and drawing upon potential data sources reported through the ‘dataset catcher’ tool, including involvement of nodes, mentors and crowdsourced solutions.
+*	Roll out a workflow for ‘Suggest a dataset’ processing.
+
+==== 2020 Participant plans
+
+* *Tecala*: Do something big.
+
 ==== Rationale
 
 Many researchers hold potentially valuable data which are not yet in a suitable digital format for integration into GBIF. Historical publications are a similar source of valuable data which remain inaccessible. This offers an opportunity to establish a community platform to capture information on such datasets where the researcher or owner lacks the time or capability to make the data available as a GBIF-compatible dataset, and to enable interested individuals to volunteer time to collaborate with the owner to publish a dataset, potentially in conjunction with a data paper credited to all parties. Such a model may address a key bottleneck in bringing valuable data online.
@@ -15,25 +32,3 @@ Many researchers hold potentially valuable data which are not yet in a suitable 
 ==== Approach
 
 The GBIF Secretariat, or an interested Participant, should develop a test environment to explore this model. The model should support identification of basic information on datasets which may be rescued, including details of ownership, etc. Volunteers may be required to undergo some training or demonstrate some knowledge of GBIF data publishing and the taxa concerned prior to adopting a dataset for mobilisation. Mobilisation should be include consultation or partnership with the owner and should deliver quality metadata and a valid mapping of the original information. Opportunities should be explored for publication of resulting datasets as data papers as an incentive to all parties.
-
-==== 2018 Progress
-
-Since the establishment of the ‘suggest a dataset’ tool in 2017, little progress has been made in this activity area. Although many ad hoc efforts are being made at publisher, node and Secretariat levels to engage holders of important datasets and encourage publication through GBIF, clearly a more methodical approach needs to be devised and implemented if this activity of the implementation plan is to advance along the lines suggested.
-
-==== 2019 Progress
-
-_previously *2019 work items*_
-
-* Establish workflow for prioritizing and addressing potential data sources reported through the ‘suggest a dataset’ tool, including involvement of nodes, mentors and crowd-source solutions
-
-==== 2019 Participant contributions
-
-(none)
-
-==== 2020 Work items
-
-* Do something big
-
-==== 2020 Participant plans
-
-* *Tecala*: Do something big.
