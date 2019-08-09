@@ -1,27 +1,105 @@
 == GBIF Annual Work Programme 2020
 
-Wayfinding (now with hyperlinks!)
+\\ replace page references with hyperlinks \\
+
+Information on activities planned for 2020 is included under each of the Activity sections included in the Implementation Plan, beginning on *page 18*.
+
+For convenience, this information has also been collated on *page 6* as an overview of the items for which approval is sought from the Governing Board at GB26.
 
 === Financial situation
 
-The numbers
+As of 24 July 2019, contributions are behind the pace of 2018. Current and imminent contributions are at the 89% of total expected contributions. No payments for former years are expected in 2019. Mid-year 2019 budget changes approved by the Executive Committee increased the overall WP2019 budget. Items added mid-year include:
 
+* Increased funding for Capacity Enhancement Support Programme (CESP) from €80,000 to €100,000
+* Added funding for Biodiversity Information Fund for Asia (BIFA) capacity enhancement workshop from WP (€45,000) to allow more funds for projects in a competitive call with strong proposals for mobilizing data from Asian institutions
+* Consultant to explore opportunities for external funding (€22,000)
+* Consultant contract on the alliance for biodiversity knowledge and COL+ (€30,000)
+* Contract to complete validation and publication of at least 175 national invasive species checklists through the Global Register of Introduced and Invasive Species (GRIIS), managed by the IUCN Invasive Species Specialist Group (€75,000)
+* Two workshops to implement taxonomy in GBIF/COL+ (€50,000)
+
+As a result of the past year’s increased staffing and increased Work Programme expenditures requested by the GB, GBIF is expected to close 2019 with net capital of around €992,558.
+
+The initial phase of the Biodiversity Information for Development (BID) programme will be completed by the end of 2019; however, the funder—the European Commission Directorate-General for International Cooperation and Development (EU DEVCO)—has expressed interest in continuing the programme with new funding of €1.6m from 2020-2023. If the programme extension is finalized GBIF should again receive around €120,000 in funding for work by GBIF Secretariat staff in 2020. Because this continued funding has not been finalized, this contribution is not included in the 2020 budget. 
+
+A fifth call for proposals under the BIFA programme will be issued in late 2019 or early 2020, using €131,395 supplementary funds received from the Ministry of Environment, Government of Japan. Subject to agreement by the BIFA Steering Committee, we anticipate that €20,000 of this supplementary funding is to be allocated to Secretariat staff coordination costs during 2020.  
+
+Lastly, the European Commission has funded the SYNTHESYS+ project “to unify European natural science collections, effectively transforming them into an integrated data‐ driven pan‐European research infrastructure”. GBIF is funded for €50,000 in 2020 (as well as €20,000 in 2021 and €20,000 in 2022) to advance joint planning for infrastructure components. 
+
+Given the level of capital held by GBIF and the uncertainty of contributions, the 2020 budget includes a smaller allocation (€413,000) for contracted activities in the work programme expenditure (i.e. non-salary costs allocated to calls, workshops, contracts, etc.) than proposed for 2019 at GB25, and €300,000 less than the actual 2019 spend after budget revisions. Staffing levels do not change in the 2020 budget. The planned expenditure for 2020 is €456,630 greater than the income projected in the budget. This is considered to represent a responsible balance between advancing GBIF’s mission and reserving some funds against future risks (€535,928 net capital forecast for the end of 2020).
+
+This budget narrative also includes a second scenario that considers a brighter financial situation. It outlines priority areas of spending on contracted and workshop activities that would be submitted in subsequent 2020 budget revisions, should conditions allow. 
+
+Scenario 2 differs from the submitted budget in the following ways. It assumes an extension of the BID programme and its relevant activities and funds (including approximately €120,000 in salary subsidy). It also assumes an additional €200,000 in external funds or increased contributions from voting participants. This budget includes €660,000 for contracted and workshop activities in the work programme expenditures. The planned expenditure under scenario 2 for 2020 is €409,940 greater than the income projected in the budget. This is also considered to represent a responsible balance between advancing GBIF’s mission and reserving some funds against future risks (€582,618 net capital forecast for the end of 2020).
+
+\\ insert budget table \\
 === Secretariat staffing
 
 Grouped by department
 
 === Planned expenditure
 
-In addition to salary and operating costs, including support for GBIF Governance mechanisms, funding is reserved in the Work Programme 2020 for the following activities:
+In addition to salary and operating costs (including support for GBIF Governance mechanisms), funding is reserved in the Work Programme 2020 for the following activities:
 
-+ Line item costs
+Baseline 2020 Work Programme budget for non-salary items:
 
-=== Areas to expand activity (subject to additional funding)
+==== Priority Area 1
 
-There is always uncertainty around the exact level of funding which GBIF will secure in any given year. This Work Programme is based on a realistic assessment of likely funding levels in 2019.
+* Following the recommendations of the community-based Documentation Editorial Panel, continue to create new documentation supporting participation in GBIF, based on late 2019 review and prioritization framework (€30,000).
+* Develop joint training resources combining GBIF data mobilization and DNA barcoding, support for pilot workshop with Barcode of Life Data Systems (BOLD), Convention on Biological Diversity (CBD) and GBIF (€20,000).
+* Consolidate online e-learning platform with training resources, to make the data mobilization, data use for decision making and nodes training modules fully functional as self-instruction modules, using external contracts for some components as necessary; develop a strategy to meet future demand for on-site, moderated and self-instructed training. Work will involve collaboration with key partners: nodes, the pool of trainers and mentors, Nodes Steering Group and numerous international partner projects (€20,000).
+* Support for 2020 Regional Nodes Meetings (€60,000). The Secretariat will investigate possible synergies with BID phase 2 regional meetings, if funding is forthcoming, as well as with a BIFA workshop in Asia.
+* Support further development of the Living Atlases community (€30,000).
+* Support the alliance for biodiversity knowledge by working with steering committee on a governance structure and prioritizing the alliance efforts. Expand communication effort through conferences and the ambassador network (€10,000).
+* Launch a new 2020 call for proposals under the Capacity Enhancement Support Programme (€80,000).
 
-It is possible however that 2019 funding levels will be higher and GBIF will have the opportunity to carry out additional activity. The following are recommended for such activity, and approval is sought from the Governing Board for the Executive Committee and the GBIF Secretariat to expand activity in these areas if budget levels are considered adequate during 2019:
+==== Priority Area 2
+* Maintain and update processes for constructing the GBIF taxonomic backbone. €108,000 has been allocated in the budget to support GBIF contractor costs.
 
-=== Overview of 2019 Work Items
+==== Priority Area 3
+* Carry forward the proposed 2019 activity of data mobilization of vectors and hosts of human diseases to 2020. The Secretariat will establish an expert group (€25,000) to identify priority needs for biodiversity data supporting disease research, critical gaps in availability of such data in GBIF.org, and potential sources of data to fill these gaps.
 
-Not sure this is necessary with HTML version—though we could add a TOC earlier.
+==== Priority Area 4
+* Explore bidirectional data linking and synchronization with data management systems and publishers to achieve faster and more accurate mutual updates on data improvements and annotations (€10,000).
+
+==== Priority Area 5
+* Contract a study on use of GBIF-mediated data in the academic literature, with the goal of identifying areas of impact, links to research funding sources and networks of researchers. This information will be used to fine-tune GBIF value proposition message and align future Work Programmes to achieve greater impact (€20,000).
+
+==== Other Funds
+* Supplementary funds: Implement a fifth call for proposals (€110,000) under the Biodiversity Information Fund for Asia (BIFA), reflecting priorities agreed by Asian nodes.
+* Governance funds: Launch 2020 calls for the Ebbe Nielsen Challenge and Young Researchers Awards (€44,000), considering recommendations from the Science Committee based on the 2019 programmes. The Science Committee is exploring potential external funds for these awards.
+
+=== Areas to expand activity
+
+If funding allows, the Secretariat will request that the following items be incorporated into the 2020 budget with approval of the GBIF Executive Committee.
+
+==== Priority area 1
+*	Increase alliance for biodiversity knowledge activity to €20,000, Living Atlases to €40,000 and CESP to €100,000.
+*	Create an additional funding priority area alongside the CESP call for GBIF node regional outreach activities as outlined in the Regional Participation Strategy (€40,000). 
+*	Continue development and implementation of a strategic plan for targeting external funding streams for capacity enhancement projects (€22,000). 
+*	Initiate engagement, data mobilization and capacity enhancement campaign for Arabic-speaking regions (€20,000).
+
+==== Priority area 2
+*	Redesign the GBIF Integrated Publishing Toolkit (IPT) to support emerging data standards, explore integrations with quality control routines and to address infrastructural needs (ability to install locally, use a GBIF hosted solution or connect to a third-party repository). If funds allow €50,000 for an external contractor.
+
+==== Priority area 4
+*	Increase bidirectional linking activity to €20,000.
+
+==== Priority area 5
+*	Engage with academic based projects that use or could use better GBIF data in their pipelines and protocols. If funding allows hold a workshop to stimulate use (€25,000).
+*	Hackathon and workshop to align GBIF with post-2020 Biodiversity Framework (€40,000). The event would develop tools from CESP-CHM project to improve links to data from GBIF.
+
+==== External funds
+*	Based on a successful negotiation with EU DEVCO, the Secretariat will continue with a BID call for proposals.
+
+=== Secretariat staffing
+
+Staff increases in recent years have enabled the Secretariat to maintain an increasing level of service. We currently have 27 staff (three of whom work part-time) and are in the process of recruiting an additional informatics position. In addition to the Director and Deputy Director, the Secretariat is now structured as four teams, as follows:
+
+* Participation and Engagement (seven staff)
+* Data Products (four staff)
+* Informatics (seven staff, one contractor, one additional staff position to be filled)
+* Administration (six staff, plus student support)
+
+All staff work towards accomplishing the goals of the five Priority Areas in the 2017-2021 Strategic Plan, with most staff working towards multiple areas. The Secretariat does not currently allocate salary to the Work Programme Priority budget areas. The 2020 budget Work Programme categories only represent non-salaried items such as external contracts and workshops. During 2019 our estimate of all staff work the across five Priority Areas is represented below.
+
+\\ insert chart of staff effort across work programme \\
