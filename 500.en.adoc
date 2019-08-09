@@ -30,11 +30,7 @@ Proposed SYNTHESYS+ workshops are to focus on modernizing standards activities t
 . Information model for representing Natural History Collections including the TDWG natural Collections Descriptions standard and integrations with other collections catalogues
 . Information model for representing Specimens; reviewing collection management systems and developing an information model with data classes representing all the asset types and linked information of importance in building a fully interconnected virtual natural history collection
 
-During 2019, the informatics team has continued the redesign and implementation of GBIF data ingestion pipelines. Data growth required significant changes to the backend to ensure GBIF can
-
-. continue to grow with data volume
-. accommodate new feature deployments that require full data reprocessing 
-. look to expand data content types.
+During 2019, the informatics team has continued the redesign and implementation of GBIF data ingestion pipelines. Data growth required significant changes to the backend to ensure GBIF can 1) continue to grow with data volume, 2) accommodate new feature deployments that require full data reprocessing, and 3) look to expand data content types.
 
 ===== 2019 Participant contributions
 
