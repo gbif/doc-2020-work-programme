@@ -13,7 +13,7 @@ Performed data analysis on implicit geographic data accuracy/patchiness within d
 
 Exploring of suitable measures to indicate metadata completeness and appropriate content, focused on the contribution from the BID data mobilization.
 
-==== 2019 Participant contributions
+===== 2019 Participant contributions
 
 * *Tecala*: Did something really important.
 
@@ -26,7 +26,7 @@ Exploring of suitable measures to indicate metadata completeness and appropriate
 *	Assess the patchiness of indexed data (geographical clustering, misleading accuracy or precision of coordinates), including evaluation of the apparent causes of data patchiness and include measures of data patchiness in the data index, at both dataset and record level in the data index.
 *	Ensure that users of data are able to identify datasets or records that do not fulfil their criteria for geo-accuracy, whether they are accessing data through facets in the GBIF.org, via the API or in downloads.
 
-==== 2020 Participant plans
+===== 2020 Participant plans
 
 * *Tecala*: Do something big.
 
