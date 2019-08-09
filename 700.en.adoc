@@ -10,6 +10,7 @@
 ==== 2019 Progress
 
 The exploration of necessary steps to achieve CoreTrustSeal data repository certification is starting in Q4/2019. This includes the data management services within GBIF.org, but also seeks to identify a set of trusted repositories for publishing datasets within the GBIF network. 
+
 Documentation for all stages in the GBIF data ingestion process to start Q3/Q42019, following deployment of the informatics infrastructure upgrade (pipelines project).
 
 ==== 2019 Participant contributions
