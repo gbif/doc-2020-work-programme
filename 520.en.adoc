@@ -7,8 +7,9 @@
 
 ==== 2019 Progress
 
-In 2019 the GRSciCol database was migrated to a public website managed by GBIF (https://gbif.org/grscicoll) and editing capabilities provided through the enhanced, and open, registry administration console. The migration and resurrection of GRSciCol identified that there are several other catalogues (CETAF, IndexHerbariorum) that need consideration; GRSciCol needs to evolve to synchronize with authoritative catalogues such as Index Herbarium and collection management systems directly. Therefore, GBIF continues involvement in the TDWG task group on the development of a collections description data standard (TDWG CD). This work continues with community consultation under SYNTHESYS+ and the alliance for biodiversity knowledge to plan future work. 
-Identifiers have been used over the years by the community and are referenced in 42M records. These identifiers now resolve again (e.g.http://biocol.org/urn:lsid:biocol.org:col:34994)
+In 2019 the https://gbif.org/grscicoll[Global Registry of Scientific Collections database] (GRSciColl) was migrated to a public website managed by GBIF and editing capabilities provided through the enhanced, and open, registry administration console. The migration and resurrection of GRSciCol identified that there are several other catalogues (CETAF, IndexHerbariorum) that need consideration; GRSciCol needs to evolve to synchronize with authoritative catalogues such as Index Herbarium and collection management systems directly. Therefore, GBIF continues involvement in the TDWG task group on the development of a collections description data standard (TDWG CD). This work continues with community consultation under SYNTHESYS+ and the alliance for biodiversity knowledge to plan future work. 
+
+Identifiers have been used over the years by the community and are referenced in 42 million records. These identifiers now resolve again, e.g.http://biocol.org/urn:lsid:biocol.org:col:34994.
 
 ===== 2019 Participant contributions
 
