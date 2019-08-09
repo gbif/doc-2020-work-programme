@@ -1,6 +1,6 @@
 = GBIF Implementation Plan 2017-2021 and Annual Work Programme 2019
 :toc: left
-:toclevels: 2
+:toclevels: 1
 :numbered:
 :revnumber: {git-metadata-sha-short}
 :revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
