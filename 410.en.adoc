@@ -6,6 +6,46 @@
 . Articulate training and capacity enhancement activities around a single, global curriculum for GBIF
 . Deliver explainer texts and videos to support self-directed instruction and learning
 
+==== 2019 Progress
+
+The Secretariat continues to improve and develop new current training materials as well as standardized arrangements for setting up training workshops based on re-usable curricula in key skills related to GBIF participation. This work is accomplished in close collaboration with trainers and mentors from the GBIF community, who contribute their time and expertise at little or no cost to GBIF’s core budget. The capacity enhancement programmes (e.g. BID, BIFA and CESP and GBIF involvement in other externally-led projects) are major motivating factors for the Secretariat to improve materials and support a growing community of practice.
+Two ways to measure the value of this investment in generating training materials are, first, the increased number of volunteer mentors and trainers across the network, which now stands at 93 in total, with 58 involved in the BID programme. Second, these programmes have sparked a sharp increase in both the number of data publishers and the amount of data from countries and regions not previously engaged in biodiversity data sharing, with the BID programme adding 90 new publishers from sub-Saharan Africa, the Caribbean and the Pacific. Together, with organizations in these regions that previously shared data, the new publishers introduced through the BID programme have added nearly 1.2 million occurrence records, filling critical knowledge gaps by increasing in the percentage of data for a country being published within that country and adding records for 1,189 species listed as threatened in the IUCN Red List.
+Multiple training events involving the Secretariat and community mentors and trainers occurred or are planned in 2019, including the following:
+* ‘Train the mentors’ event to support data mobilization training within the BioDATA project covering Eastern Europe, the Caucasus and Central Asia (Belarus, February)
+* Training course on data skills within the BioDATA project (Tajikistan, June)
+* Training sessions on establishing a GBIF Participant Node, including a focus on the benefits of GBIF participation, at the BID regional meetings in the Caribbean (Trinidad and Tobago, June), Pacific (Fiji, August) and Africa (Cameroon, September)
+* Capacity enhancement workshop on data mobilization for projects selected under the Biodiversity Information Fund for Asia (BIFA), as well as for GBIF nodes in Asia (Viet Nam, July)
+& Training on development of GBIF Participant Nodes, offered to all node managers as part of the GB26 series of meetings (Netherlands, October)
+* Capacity enhancement workshop on data use for decision making for participants in GIZ-funded project to improve biodiversity information management in southeast Europe (Bosnia and Herzegovina, November/December to be confirmed)
+* The BioDATA project focussed on developing skills in biodiversity data management and data publishing for undergraduate and postgraduate students from Tajikistan, Belarus, Ukraine, and Armenia. The project is run by the University of Oslo and GBIF Norway and exceeded expectations, with more than 8 mentors and 40 students trained on the GBIF publishing and data skills in two events that took place in Belarus and in Tajikistan.
+
+As well as these training events directly involving the Secretariat, a large number of replicated workshops based on the same materials have been carried out in association with various funded projects as well as node activities. For example, BID participants have already replicated the data mobilization and data use workshops 66 times, extending the impact of the BID programme to nearly 1,500 new students within the corresponding regions.
+
+The Secretariat has continued to update training materials for data mobilization, decision making, for use in on-site training and in development of online modules. For the data use curriculum, GBIFS has been working with IUCN to refine guidance on the use of species occurrence data in species Red List assessments. This is one of the areas of collaboration included in a Memorandum of Cooperation between IUCN and GBIF Secretariat, finalized and signed in July 2019.
+
+The Secretariat has established a community-based Documentation Editorial Panel, aimed at prioritizing, developing and updating a core set of electronic guidance documents to support participation in the GBIF community. The panel includes membership from four global regions, and it will have held three meetings by August 2019. A consortium led by the VertNet team is producing an initial package of new and updated documentation in 2019, namely:
+* Basic Guide to Using OpenRefine (in Spanish)
+* Quick Guide to Georeferencing
+* Best Practices in Georeferencing
+* Georeferencing calculator
+* Best Practices for Generalizing Sensitive Species Occurrence Data
+
+===== 2019 Participant contributions
+
+* *Benin*: One workshop was achieved in May 2019 to train national partners on data mobilization, data uses as well as registration on GBIF site to become more visible on GBIF site. At 5 least NGOs register on GBIF site this year. The master program in biodiversity informatics is doing great in in-depth capacity building of students from Benin and other African countries. It is just unfortunate that we never have the support of GBIF in that innovative and promising program.
+
+==== 2020 Work items
+
+* Develop joint training resources combining GBIF data mobilization and DNA barcoding, and support pilot workshop with BOLD, CBD and GBIF (€20,000).
+* Explore opportunities for additional training workshops on data use for decision making.
+* The BioDATA project will continue to train students in Armenia and in Ukraine in 2020, and plans for BioDATA II project are in place to further increase the geographic coverage in Northern and Central Asia and Southern Caucasus.
+* Following the recommendations of the community-based Documentation Editorial Panel, continue to commission new documentation, based on late 2019 review and prioritization framework (€30,000).
+* Consolidate online e-learning platform with training resources, to make the modules on data mobilization, data use for decision making and nodes training fully functional as self-instruction modules. Use external contracts for some components as necessary. Develop a strategy to meet future demand for on-site, moderated and self-instructed training. Work in collaboration with key partners, including GBIF nodes, the pool of volunteer trainers and mentors, Nodes Steering Group and numerous international partner projects (€20,000).
+
+===== 2020 Participant plans
+
+* *Tecala*: Do something really important.
+
 ==== Rationale
 
 The strengthening of personal skills through international collaboration has been one of the great successes of the GBIF global network. During this implementation period, GBIF must build on this past experience (including the support mechanisms developed for the BID programme) to reinforce efficient training and capacity enhancement across the network.
@@ -17,60 +57,3 @@ Central to this is the development of a collaborative help desk capability and t
 To strengthen key skills, GBIF needs to develop and maintain a comprehensive set of clear reference information and training materials that support all GBIF audiences. Since 2016, the Secretariat has been upgrading documentation to deliver this comprehensive resource, first via concise explanatory text materials (including numerous translations by network members into French, Portuguese, Spanish, Chinese, Japanese and Russian). Some of these text materials will be supported by short videos that present key functional and operational aspects of GBIF. The aim is to deliver a structured set of short, clear, current and complete documents that enable GBIF stakeholders to gain an understanding of relevant aspects of GBIF’s work quickly, including formal Participation, establishing a national or thematic node, planning digitization, mobilizing data, discovering and using data, citing data, among others. This work complements significant activity among Participants to produce information and training materials relevant to particular audiences.
 
 GBIF will organize all these materials to form a curriculum that builds and supports the skills and activities identified in GBIF’s self-assessment tools for nodes and data holders. A core set of these resources should provide new stakeholders with an effective introduction to GBIF’s structure, roles, approaches and solutions. Other more technical resources will provide the additional detail needed by those working in specific areas like digitization, data publishing and use of GBIF-mediated data. The Secretariat will coordinate ongoing maintenance and updates to this curriculum with contributions and translations from the network.
-
-==== 2018 Progress
-
-The Secretariat in collaboration with trainers from the GBIF community has made significant progress in refining and streamlining course materials developed through the BID programme to support data mobilization skills among project teams, for adaptation and re-use in a wide range of programmes in any region. In addition, a new set of training modules for use of open-access biodiversity data in decision making has been developed for three separate regional training workshops within BID, also with the intention of making standard materials available for rolling out in any region and for re-use by nodes.
-
-The consolidation of course materials for data mobilization, tested and adapted in four separate BID capacity enhancement workshops in Africa, the Caribbean and Pacific in 2016-17, enabled replication of the training modules in four additional workshop settings during 2018: 1) in Montenegro in April, within a project on biodiversity information management and reporting in the Western Balkans, funded by Deutsche Gesellschaft für Internationale Zusammenheit (GIZ); 2) in Moscow in April to support mobilization of data from Russian institutions in a project funded by GBIF Finland; 3) in Beijing in June, to support data mobilization projects funded in the latest call under the Biodiversity Information Fund for Asia (BIFA) using supplementary funds provided by the Ministry of Environment, Japan; and 4) at Lake Baikal, Siberia in September, in a training event on mobilization of data using both GBIF tools and barcoding techniques through the Barcode of Life Data System (BOLD), supported through Norway’s ForBio programme.
-
-In collaboration with several partners including UNEP-WCMC, IUCN and SANBI, the Secretariat developed an additional training curriculum to support data use for decision making during 2018 as part of the BID programme. The curriculum is designed to equip participants with the theoretical skills they require to produce selected biodiversity information products and to integrate them into the decision-making process. Specific topics included in the curriculum include data cleaning, species distribution modelling and mapping, assessing species conservation status and mainstreaming biodiversity data by identifying key policy entry points. This curriculum was rolled out at a workshop in Cape Town, South Africa in April for all BID-funded project teams in Africa and repeated for Pacific projects in New Zealand in September, with a further edition planned for November in Suriname for BID Caribbean projects.
-
-The mentoring and collaborative helpdesk approach developed through the BID programme has been significantly widened during 2018, to be applied across the GBIF community. A webinar in July helped to recruit new mentors, and a new web page explains the mentoring approach. By September 2018, 76 volunteer mentors had offered to contribute their time and skills to support capacity development in the network. Volunteer mentors contributed on-site support at all of the training workshops mentioned above.
-
-The set of explainer texts for key GBIF activities expanded in 2018 with an explainer on data hosting and two more are in the pipeline on Creative Commons licensing and API access. A set of explainer texts on the use of GBIF-mediated data is in preparation with a dedicated section planned for this topic in the top-level navigation of GBIF.org.
-
-==== 2018 Participant contributions
-*Argentina, Australia, Belgium, Benin, Colombia, France, Ghana, Madagascar, Norway, Poland, Portugal, South Africa, Spain, Sweden, United States, Zimbabwe, UNEP-WCMC, VertNet*: These participants supplied trainers and mentors for workshops organized by GBIF during the year under BID and BIFA, and in Montenegro and Russia for capacity enhancement in data publishing and use.
-
-*Colombia*: “GBIF habla Español.” GBIF Spain and SiB Colombia have produced an animated promotional video about GBIF and 4 additional short videos that showcase multiple experiences from people that take part in the global network from both countries. The materials produced were shared through a wiki hoping that they may serve to build upon them. The animated video is the most viewed video on the GBIF youtube channel and incorporates subtitles in english, french, chinese and portuguese, following its success after its launch on GB24.
-
-*Colombia*: “CREAR COMPARTIR TRANSFORMAR: guía de acceso abierto del SiB Colombia.” SiB Colombia's open access guide is a simple and attractive material, designed to socialize the new policies for accessing and using the data and information available through SiB Colombia. It is also a tool to clear up doubts about the universe of open access for all people interested in the construction of open knowledge about biodiversity. All the materials are available to anyone who wishes to build on them. More info: (https://goo.gl/oMbXQd)
-
-*Colombia*: Implementation of a capacity enhancement project based on “Sharing VertNet experiences and tools on biodiversity data quality with the Spanish-speaking community”. The CESP project concluded with 64 cleaning datasets and the translation from English to Spanish of the Data Migrator Toolkit documentation. There were also some modifications in the SiB Colombia quality workflow, based on VertNet experiences and tools. It allowed to improve the data quality in more than one million occurrence records published through SiB Colombia's IPT, in 29 Darwin Core prioritized elements (register, event, taxonomy, and georeferencing elements).
-
-*Norway*: GBIF Norway organized a regional Nordic training workshop on the use of GBIF mediated data in R during the Nordic Oikos conference in Trondheim 18-19 February 2018 (see also activity 5a).
-
-*South Africa*: SANBI-GBIF is developing a research publication titled: Towards a curriculum for Biodiversity Informatics, as an outcome of a GBIF Nodes Meeting Task Group, summarising survey results.
-
-*South Africa*: SANBI-GBIF, through the Africa Biodiversity Challenge (ABC) Project, is engaged in the development of the training modules around data application and use focused on mainstreaming biodiversity into decision-making, in collaboration with UNEP-WCMC and the GBIF secretariat as a resource for further training events both physical and online.
-
-*Spain*: Continued to provide essential support for GBIF-coordinated training through hosting of the GBIF e-Learning platform.
-
-==== 2019 Progress
-
-_previously *2019 work items*_
-
-. Package and promote Data Use for Decision Making workshop materials for wider re-use in GBIF programmes and beyond, e.g. for CBD and IPBES capacity building needs
-. Explore opportunities for additional training workshops on data use for decision making in more regions, attached to existing programmes or using supplementary funds
-. Further develop explainer texts and videos to complete self-instruction package for basic introduction to data mobilization and use in GBIF
-. Establish system for reviewing, prioritizing, updating and creating new documentation to support GBIF data publishers and users, including a lightweight editorial panel and peer review process, with annual funding for commissioning high-priority guidance from subject-matter experts
-
-==== 2019 Participant contributions
-
-_previously *2019 Participant plans*_
-
-* *Australia*: Contribute to maintenance of documentation for the Living Atlas community.
-* *Belgium*: Complete set of explainer texts in multiple languages: French and Dutch translations
-* *France*: Continue support for capacity enhancement activities and organize workshops at national level.
-* *Norway*: GBIF Norway and the Norwegian Research School in Bioinformatics (ForBio) secured together with the GBIFS funding for a three-year (2018-2021) biodiversity digitization and mobilization training program (BioDATA) in the Eurasia region. The training program secured project funding from the Norwegian Centre for cooperation in Education (SIU). (See also activity 1e and 3b).
-* *South Africa*: SANBI-GBIF is recruiting a Biodiversity Informatics Support Officer to support training and engagement portfolio of work. This will support national and regional efforts and tie into GBIF helpdesk requirements as needed.
-
-==== 2020 Work items
-
-* NOTE: do something really big
-
-==== 2020 Participant plans
-
-* *Tecala*: Do something big.
-
