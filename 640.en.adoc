@@ -10,7 +10,7 @@
 
 In 2019, the focus is on the development of standard workflows and simple recommendations that support and eventually mandate the process of depositing supplementary primary biodiversity data, both to aid submitting authors and publishing houses. By the end of 2019, a first version of an information page on GBIF.org will be available for journal publishers to reference when recommending GBIF as a data repository, outlining the data publication process for authors, and pointing at simple data spreadsheet templates. The option of offering hosted IPT installations for journal publishers for this purpose is under evaluation. 
 
-==== 2019 Participant contributions
+===== 2019 Participant contributions
 
 * *Tecala*: Did something really important.
 
@@ -19,7 +19,7 @@ In 2019, the focus is on the development of standard workflows and simple recomm
 *	Work with journals to make it easier for article authors to deposit supplementary data in formats suitable for GBIF publication.
 *	Establish model guidelines for data deposition and citation and develop compliance criteria for distribution to publishers. Build on recent developments of COPDESS and Research Data Alliance with GBIF-specific guidance. Develop additional communication materials to describe the benefits of DOI-citation best practices and work with journals on implementation.
 
-==== 2020 Participant plans
+===== 2020 Participant plans
 
 * *Tecala*: Do something big.
 
