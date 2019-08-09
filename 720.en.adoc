@@ -12,7 +12,7 @@
 
 A pilot handle-based server was deployed demonstrating GBIF infrastructure is capable to participate in a handle network and issue record identifiers.
 
-==== 2019 Participant contributions
+===== 2019 Participant contributions
 
 * *Tecala*: Did something really important.
 
@@ -21,7 +21,7 @@ A pilot handle-based server was deployed demonstrating GBIF infrastructure is ca
 *	Continue to explore the use of the GBIF data index to support stable persistent resolvable identifiers for all specimens and occurrence records.
 *	Explore bidirectional data linking and synchronization with data management systems and publishers to achieve faster and more accurate mutual updates on data improvements and annotations (minimum €10,000).
 
-==== 2020 Participant plans
+===== 2020 Participant plans
 
 * *Tecala*: Do something big.
 
