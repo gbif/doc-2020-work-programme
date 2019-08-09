@@ -9,6 +9,23 @@
 . Develop online collaboration through GBIF.org helpdesk to assist and support data users
 . Represent GBIF at the relevant science fora, esp. at the frontier directions such as ecology and molecular research
 
+==== 2019 Progress
+
+The BioDATA project is a training programme for higher-education students from Tajikistan, Belarus, Ukraine, and Armenia that offers an intensive course of study leading to their certification in biodiversity data management. Launched in 2018 and running through 2021, the Finnish-funded programme has already engaged 23 volunteer mentors and is training half of the programme’s planned 64 students on GBIF publishing and data skills by the end of 2019. Altay State University, supported by a GBIFS letter, received funding to integrate GBIF and data education in regular biology training for the BSc and MSc programme, with 70 students expected to take part each year.
+
+===== 2019 Participant contributions
+
+* *Tecala*: Did something really important.
+
+==== 2020 Work items
+
+*	Conduct survey on how GBIF informatics is incorporated into relevant graduate and undergraduate curricula to identify gaps and opportunities and key entry points. Use survey findings to prepare a campaign that could roll out relevant resources through GBIF nodes in 2021.
+*	Engage with academic-based projects that use or could use better GBIF data in their pipelines and protocols. If funding allows, hold a workshop to stimulate use (€25,000).
+
+===== 2020 Participant plans
+
+* *Tecala*: Do something big.
+
 ==== Rationale
 
 The most significant user community for GBIF is academic researchers. Even policy-related uses of GBIF often derive from the work of such individuals. It is accordingly important for GBIF to understand the needs of researchers and academic societies and to communicate clearly regarding the tools and services GBIF can deliver. Communication should include information and support materials for students and early-career researchers, on both publication and use of data, including citation, use tracking and data papers. University faculties and libraries may be important channels for this information. In addition, GBIF needs to engage more closely with taxonomic societies and other academic bodies which could be key collaborators in curating and improving data. Achieving such an outcome depends on understanding how GBIF can become a more central tool for their work, so that work on digital knowledge directly benefits those who contribute.
@@ -16,47 +33,3 @@ The most significant user community for GBIF is academic researchers. Even polic
 ==== Approach
 
 GBIF Participants may be well-positioned to lead in engaging with taxonomic societies and other interested research groups, including assuming responsibility to serve as ambassadors for GBIF within particular communities. Particular focus should be given to opportunities to explore models for such communities to assist GBIF with data curation. Few university programs include clear guidance and promotion for open data sharing. GBIF should make use of its own documentation materials and of curriculum materials from throughout the GBIF community to engage with biological science faculties and university libraries to share information on GBIF tools and resources and practices.
-
-==== Progress
-
-The development of a training curriculum focused on data use in the context of the BID programme (see Activity 1b) will help provide the foundations for better engagement with academic communities on the potential of GBIF as a resource for research. Many individual nodes are implementing excellent outreach programmes to improve links with academia, and these are among the guiding examples being collated to inspire the wider community via GBIF.org (see Activity 1c).
-
-The Biodiversity Open Data Ambassadors programme (see Activity 1c) also provides a means to extend the reach of GBIF into relevant academic communities both globally and at national levels.
-
-==== 2018 Participant contributions
-
-* Australia: The ALA has helped mobilise data with the Australian Virtual Herbarium for a number of university held collections including La Trobe University, The University of Melbourne and James Cook University.The ALA is engaged in the new EcoCloud project aimed at providing new data and modelling capability to support ecological research and management. The ALA will be working with nine other organisations to collate, integrate and give access to ecological data then develop and train people in the use of modelling and analysis tools to provide dynamic essential environmental measures and facilitate new insights into ecosystems.
-* BHL: Working with academic partners on BHL via direct connections and grant opportunities.
-* France: GBIF France contributes to modules in Biology and Systematics degrees at MNHN and Sorbonne Université
-* Japan: To promote local use of biodiversity data through S-Net, we collected use case to showcase the possible way to exploit the data use stored in S-Net.
-* Korea: Increased engagement with National Institute of Biological Resources (NIBR) and T.B. Lee herbarium in Seoul National University as data providers
-* Norway: GBIF Norway presented a training workshop on GBIF data analysis in Rfor the Nordic Oikos conference in Trondheim 18-19 February 2018 (see also activity 1b). GBIF Norway presented the use of GBIF in agrobiodiversity as invited key speaker for the 8thInternational Triticeae Symposium. The wider Norwegian community is represented in the GBIF Science Committee and promotes the increased use of GBIF in academia with a focus on research topics related to ecological monitoring (see also activity 2a). GBIF Norway provides help desk support and has organized training workshops for academic use of GBIF with focus on support for Norwegian and Nordic scientists. Activities are in part covered by secured additional project funding.
-* South Africa: SANBI-GBIF has developed a ToR for Research Chair in Biodiversity Informatics. This work forms part of a Strategy to develop a Centre for Biodiversity Information Management.
-* South Africa: SANBI-GBIF is working with Institutions of Higher Learning to develop and implement a Biodiversity Information Management teaching module at the Honours level. Here an MoU is being developed between SANBI and Sol Plaatjes University.
-
-==== 2019 Progress
-
-_previously *2019 work items*_
-
-* Enhance engagement with academic communities through Open Biodiversity Data Ambassadors (see Activity 1c), and sharing best practices from nodes engaged in promoting biodiversity informatics in academic curricula
-* Develop materials to guide academic audiences on use of GBIF-mediated data in thematic areas, e.g. invasion biology, epidemiology (see also Activity 1b).
-
-==== 2019 Participant contributions
-
-_previously *2019 Participant plans*_
-
-* Australia: Further engagement and integration with the EcoCloud project. http://www.ecocloud.org.au/.
-* France: We will propose a module for the MNHN masters
-* Korea: Increase engagement with interested biodiversity groups in Korea
-* Norway: The wider Norwegian GBIF community will continue to engage academia and promote increased use of GBIF data with focus on ecological monitoring and benefits of the sampling event model (see also activity 2a).
-* Norway: GBIF Norway and GBIFS will provide academic training in Eurasia and in Norway on biodiversity informatics through the Norwegian Research School on Biosystematics (ForBio) with project funding (BioDATA) from the Norwegian Centre for cooperation in Education (SIU) (see also activity 1b).
-* South Africa: Further engagement to seek funding and consider the BDI Research Chair appointment, to be conducted with DST/NRF, University Partners and other funders.
-* South Africa: SANBI-GBIF will looks at mechanisms to operationalise the Centre for Biodiversity Information Management, through added strategic and technical assistance.
-
-==== 2020 Work items
-
-* Do something big
-
-==== 2020 Participant plans
-
-* *Tecala*: Do something big.
