@@ -15,7 +15,7 @@ A contract was developed under the IUCN-GBIF Memorandum of Cooperation to alloca
 
 Data analysis explored options for species density/species richness representation, documented in the data blog to open for further discussion.
 
-==== 2019 Participant contributions
+===== 2019 Participant contributions
 
 * *Tecala*: Did something really important.
 
@@ -27,7 +27,7 @@ Data analysis explored options for species density/species richness representati
 *	Develop and roll out guidance for use of GBIF-mediated data in species risk assessments. Continue work based on the IUCN memorandum of cooperation and proposed training event at the 2020 IUCN World Conservation Congress in Marseille. 
 *	Host hackathon to align GBIF with post-2020 Biodiversity Framework (€40,000 if available). The event would develop tools from the CESP CHM project aimed at improve CBD links to GBIF-mediated data. As post-2020 framework/goal structure emerges, develop comprehensive guidance on the role of primary data to support targets and indicators.
 
-==== 2020 Participant plans
+===== 2020 Participant plans
 
 * *Tecala*: Do something big.
 
