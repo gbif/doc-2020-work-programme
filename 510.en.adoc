@@ -7,6 +7,28 @@
 . Explore potential use of checklists to assist with data validation or derive augmented data products
 . Explore integration of Linnaean nomenclature of formally described taxa with provisional names and species hypotheses and OTU naming
 
+==== 2019 Progress
+
+A new IT infrastructure for building and maintaining GBIF backbone taxonomy is near completion. This new infrastructure came from a collaboration with the Catalogue of Life (COL) and includes a clearinghouse for nomenclature and taxonomy. This infrastructure was designed to replace the GBIF Checklistbank. This infrastructure will be used by GBIF and COL and is available service for other initiatives. GBIF is working with COL to provide tools, including a web-based console for editors and technicians. The checklist is being monitored and will replace the GBIF backbone when suitably complete in coverage. The design and deployment of the new public Catalogue of Life website is scheduled for later in 2019.
+
+The adoption of Operational Taxonomic Unit (OTU) identifiers from the UNITE fungal database and the Barcode of Life Database (BOLD) in the Catalogue of Life is scheduled for the second half of 2019.
+
+===== 2019 Participant contributions
+
+* *Tecala*: Did something really important.
+
+==== 2020 Work items
+
+*	Maintain and update processes for constructing the GBIF taxonomic backbone, including monitoring the content and helping to prioritize editorial effort. €108,000 has been allocated in the budget to support GBIF costs. This work is in collaboration with the Catalogue of Life.
+*	Implement a process enabling key checklists to be used in filtering occurrence data, such as Red Listed species and invasive alien species.
+*	Consult with relevant regulatory agencies, such as the European Environment Agency (EEA), for guidance on which legislative checklists should be incorporated to increase the relevance of COL+ to governments. 
+*	Explore feasibility of supporting national taxonomies for exploring GBIF occurrence data to better enable national level reporting.
+*	Develop and pilot a process that allows qualified users to collaborate and edit sectors that contribute to the GBIF backbone taxonomy, aimed at reducing the delays before such edits appear on occurrence records from months to days.
+
+===== 2020 Participant plans
+
+* *Tecala*: Do something big.
+
 ==== Rationale
 
 The most significant challenge to improving the quality of aggregated occurrence data is the continuing need for a comprehensive checklist of known species, and even for a comprehensive list of published scientific names. Interpreting and mapping names depends on the quality and completeness of these resources. Even in cases where names in occurrence records are incorrect or misspelled, better names infrastructure can assist by increasing confidence that fuzzy match algorithms or human intervention is required.
@@ -18,57 +40,3 @@ Delivering these resources is the focus of a number of GBIF Participants and oth
 GBIF and many other partners have worked on this challenge and much progress has been made, but we are still far from a comprehensive shared solution. GBIF has been in discussion with Catalogue of Life, EOL, BHL, BOLD Systems, nomenclators and others about pooling resources to deliver the best possible complete nomenclator and catalogue of all species, along with improved tools to enable the taxonomic community to own and maintain these resources more effectively. The challenges are not primarily informatics issues. The most important requirement is to understand the constraints and needs of existing content holders and the features that are required from an infrastructure that can be embraced by the majority of taxonomists. The solution must build on existing initiatives and give sufficient credit and benefit back to those who have invested in developing data. It must be flexible enough to accommodate existing well-managed datasets without disrupting their activity and to accommodate more open mechanisms to support wide community input for taxa which need more work. In the longer term, it should support evolution towards ownership of curation responsibilities by international taxonomic societies or other bodies recognized by researchers for each group. The infrastructure should include processes to review and interpret unrecognized name strings found by GBIF and others in aggregated data. Once these requirements have been resolved, implementation must rapidly follow to offer these resources as open public datasets for use by all.
 
 The Netherlands has coordinated a significant commitment for 2017 and 2018, led by NLBIF and including resources both from Species 2000 and Naturalis. This funding will enable GBIF and partners to direct significant effort to this area over the period.
-
-==== 2018 Progress
-
-The goal of the CoL+ project is to innovate the CoL systems by developing a new information technology infrastructure that includes both the current Catalogue of Life and a provisional Catalogue of Life (replacing the current GBIF backbone taxonomy), separates scientific names and taxonomic concepts with associated unique identifiers, and provides some (infrastructural) support for taxonomic and nomenclatural content authorities to finish their work.
-
-The initial steering committee, consisting of the GBIF Secretariat, Species 2000/Catalogue of Life, and Naturalis Biodiversity Center, has been expanded with representatives from the Barcode of Life data systems, Biodiversity Heritage Library, Encyclopedia of Life, and ITIS. The CoL + project was presented to the GBIF community at the 14th global Nodes meeting and the 24th GBIF Governing Board, at the 42nd and 43rd meeting of the Consortium of European Taxonomic Facilities, and at the 2018 SPNHC/TDWG. The CoL+ project is part of the strategic alignment group of the Distributed Systems of Scientific Collections (DiSSCo).
-
-Conversations have taken place about future cooperation with the following parties:
-
-* Kew / International Plant Names Index & Index Fungorum for connection with nomenclature information
-* Species File group - Illinois connection with taxonomic editing tool TaxonWorks
-* LifeWatch / WoRMS about taxonomic editing tool Aphia
-* World Flora Online about taxonomic plant information and editing tools
-* European Environment Agency
-
-These partnerships will be further elaborated.
-
-GBIF has allocated funds for workshops to advance development of a common checklist for all vascular plants meeting the needs of CoL, WFO, The Plant List and others and to develop an international editorial model for updating the Lepidoptera component of CoL.
-
-The Catalogue of Life Plus project has so far delivered the following milestones:
-
-* Dataset store and dataset importer for the clearinghouse infrastructure. This includes a back-end API installation and documentation: http://api.col.plus. A demonstration environment is currently hosted at the GBIF Secretariat. The datastore includes data sources coming from the global species databases (CoL GSDs) in ACEF format. It also includes data sources coming from the GBIF Backbone Taxonomy in DWC-A format.
-* API debugger: http://tools.col.plus/. This tool enables search for species names and datasets.
-* Names index for handling unique scientific names: described here.
-* Work has started on building the tools needed to assemble the current Catalogue of Life.
-
-==== Participant contributions
-* Australia: The Atlas has continued to support the development of names infrastructure within Australia. The outputs of this infrastructure will provide a source of scientific names and taxon concepts from Australia into international clearing house initiatives.
-* Colombia: “Colombia BIO | Listas de especies de referencia para el país.” Branch of the project that achieved the consolidation of the first two lists of reference species for Colombia: the list of mammals and the Checklist of the freshwater fishes of Colombia. This unprecedented achievement in the country was possible thanks to a collaborative construction of knowledge among networks of experts, universities and biological collections, among others.
-* Japan: Check list of Fungi in Japan digitization almost completed and to be released. Vascular plant check list “Green List” http://www.rdplants.org/gl/ released
-Switzerland: Publication of national species checklists for red list groups and important invertebrate groups.
-
-==== 2019 Progress
-
-_previously *2019 work items*_
-* Replace the existing processes for constructing the monthly and annual Catalogue of Life checklists and for constructing the GBIF taxonomic backbone with a single solution that delivers both products (together forming a “provisional checklist”). This work is carried out under the NLBIF-funded Catalogue of Life Plus (CoL+) project. €80,000 has been allocated in the budget to support GBIF development costs, with €20,000 in matching funds from the NLBIF funding to CoL+.
-* Plan for existing GBIF checklistbank capabilities (registry integration, images, descriptions, APIs) are correctly handled within the CoL+ implementation.
-* Ensure that updates to the provisional checklist are reflected directly in the GBIF data index.
-* Manage the CoL+ software as part of ongoing infrastructure supported at GBIF.
-* Work with Catalogue of Life and other partners to develop responsive expert communities to support sectors which currently lack adequate support and to improve alignment with other checklist efforts including World Flora Online and WoRMS.
-
-==== 2019 Participant contributions
-
-_previously *2019 Participant plans*_
-* Australia: Delivery of names and taxon concepts to Catalogue of Life plus.
-* Japan: Additional data and revision to be continued. Endangered species (National and local in Japan) checking application to be developed.
-
-==== 2020 Work items
-
-* Do something big
-
-==== 2020 Participant plans
-
-* *Tecala*: Do something big.
