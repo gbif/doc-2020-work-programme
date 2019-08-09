@@ -9,8 +9,11 @@
 ==== 2019 Progress
 
 The Secretariat continues to improve and develop new current training materials as well as standardized arrangements for setting up training workshops based on re-usable curricula in key skills related to GBIF participation. This work is accomplished in close collaboration with trainers and mentors from the GBIF community, who contribute their time and expertise at little or no cost to GBIF’s core budget. The capacity enhancement programmes (e.g. BID, BIFA and CESP and GBIF involvement in other externally-led projects) are major motivating factors for the Secretariat to improve materials and support a growing community of practice.
+
 Two ways to measure the value of this investment in generating training materials are, first, the increased number of volunteer mentors and trainers across the network, which now stands at 93 in total, with 58 involved in the BID programme. Second, these programmes have sparked a sharp increase in both the number of data publishers and the amount of data from countries and regions not previously engaged in biodiversity data sharing, with the BID programme adding 90 new publishers from sub-Saharan Africa, the Caribbean and the Pacific. Together, with organizations in these regions that previously shared data, the new publishers introduced through the BID programme have added nearly 1.2 million occurrence records, filling critical knowledge gaps by increasing in the percentage of data for a country being published within that country and adding records for 1,189 species listed as threatened in the IUCN Red List.
+
 Multiple training events involving the Secretariat and community mentors and trainers occurred or are planned in 2019, including the following:
+
 * ‘Train the mentors’ event to support data mobilization training within the BioDATA project covering Eastern Europe, the Caucasus and Central Asia (Belarus, February)
 * Training course on data skills within the BioDATA project (Tajikistan, June)
 * Training sessions on establishing a GBIF Participant Node, including a focus on the benefits of GBIF participation, at the BID regional meetings in the Caribbean (Trinidad and Tobago, June), Pacific (Fiji, August) and Africa (Cameroon, September)
@@ -24,6 +27,7 @@ As well as these training events directly involving the Secretariat, a large num
 The Secretariat has continued to update training materials for data mobilization, decision making, for use in on-site training and in development of online modules. For the data use curriculum, GBIFS has been working with IUCN to refine guidance on the use of species occurrence data in species Red List assessments. This is one of the areas of collaboration included in a Memorandum of Cooperation between IUCN and GBIF Secretariat, finalized and signed in July 2019.
 
 The Secretariat has established a community-based Documentation Editorial Panel, aimed at prioritizing, developing and updating a core set of electronic guidance documents to support participation in the GBIF community. The panel includes membership from four global regions, and it will have held three meetings by August 2019. A consortium led by the VertNet team is producing an initial package of new and updated documentation in 2019, namely:
+
 * Basic Guide to Using OpenRefine (in Spanish)
 * Quick Guide to Georeferencing
 * Best Practices in Georeferencing
