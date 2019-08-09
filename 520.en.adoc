@@ -5,6 +5,26 @@
 . Partner with other biodiversity informatics initiatives to deliver a single, comprehensive catalogue of the world’s natural history collections
 . Use collection metadata as a first stage in content mobilisation from natural history collections, including identification or development and adoption of necessary data standards
 
+==== 2019 Progress
+
+In 2019 the GRSciCol database was migrated to a public website managed by GBIF (https://gbif.org/grscicoll) and editing capabilities provided through the enhanced, and open, registry administration console. The migration and resurrection of GRSciCol identified that there are several other catalogues (CETAF, IndexHerbariorum) that need consideration; GRSciCol needs to evolve to synchronize with authoritative catalogues such as Index Herbarium and collection management systems directly. Therefore, GBIF continues involvement in the TDWG task group on the development of a collections description data standard (TDWG CD). This work continues with community consultation under SYNTHESYS+ and the alliance for biodiversity knowledge to plan future work. 
+Identifiers have been used over the years by the community and are referenced in 42M records. These identifiers now resolve again (e.g.http://biocol.org/urn:lsid:biocol.org:col:34994)
+
+===== 2019 Participant contributions
+
+* *Tecala*: Did something really important.
+
+==== 2020 Work items
+
+*	Based on community consultation, build mechanism to synchronize Global Registry of Scientific Collections (GRSciColl) with other catalogues.
+*	Improve linkages between collections, institutions and occurrences (or specimen) objects indexed by GBIF.
+*	Develop the user interfaces and services necessary to support a collection catalogue system.
+*	Work with the community to ensure the content is fit for use, and promote community editing of the registered content.
+
+===== 2020 Participant plans
+
+* *Tecala*: Do something really important.
+
 ==== Rationale
 
 Natural history collections are the largest source of data on biodiversity outside nature itself. Collectively the worlds natural history collections number about 3 billion specimens and document over 300 years of active human exploration of biodiversity on earth. In addition the fossil remains provide us with glimpses into the very far past before humans existed. The collections and their ancillary materials (images, collectors’ notes, sequences, measurements, etc.), contain colossal amounts of data that should be digitized and shared. Only about 10% of the world’s collections have been digitized and only a portion of digitized collections are shared publicly through the internet. A large number of current GBIF publishers comprise natural history museums and herbaria. The Secretariat will work with Participants to deliver the most comprehensive catalogue possible of collections, including metadata to publicize undigitized collections as a first step towards their digitisation and mobilisation.
@@ -14,28 +34,3 @@ Natural history collections are the largest source of data on biodiversity outsi
 GBIF will collaborate with existing biodiversity collection registries such as GRBio to develop a rich collections catalogue to facilitate the discovery and use of the world’s collections.
 
 Collections will be guided and facilitated to publish metadata-only datasets by drawing on the recommendations of the GBIF task force on accelerating the discovery of bio-collections data. The generation of a collection catalogue through metadata assessments will help establish roadmaps for further digitization of the collections.
-
-==== 2018 Progress
-
-During 2018 the website for the Global Register of Biodiversity Collections (GRBio) and Global Register of Scientific Collections (GRSciColl) was hacked and is now offline.
-
-GBIF have committed to enhancing the GBIF Registry during 2018 to support representation of collections and institutions as registered entities (in addition to data publisher entities), and to migrate the content from GrBio and GrSciColl, surfacing it through the GBIF registry API. GBIF will then proceed to develop an interface for editors to curate the content.
-
-Within TDWG, work has continued to review and update the Natural Collections Description (NCD) standard. Once this update is complete, GBIF plans to support the inclusion of NCD documents as rich content to attach to GRBio records, and to work with nodes and collection networks to enable publication and update of NCD records through IPT or other channels.
-
-==== 2018 Participant contributions
-* Switzerland: Acquisition of collection metadata in order to support the definition of priorities for the scientific revision and data digitization of important collection holdings (national and international level) as a joint initiative of GBIF Switzerland, the Swiss Academy of Sciences, the Swiss Association of Natural History Collections and the Swiss Systematics Society.
-
-
-==== 2019 Progress
-
-_previously *2019 work items*_
-* Deliver a web version of the GRBio/GRSciColl dataset as part of ongoing infrastructure supported at GBIF.
-* Work with GRSciColl, Index Herbariorum, GBIF nodes and others to establish sustainable processes for updating the registry.
-* As the TDWG Natural Collections Descriptions Interest Group revises the NCD standard, enhance the registry to accept NCD documents and will develop mechanisms via IPT or otherwise for collections and nodes to publish and update these data.
-
-==== 2019 Participant contributions
-
-_previously *2019 Participant plans*_
-
-* Norway: GBIF Norway will contribute to the TDWG standards process on collection descriptions (CD) (see also activity 2a) and take a leading role nationally in Norway for collecting and publishing metadata on Norwegian natural history collections in GBIF when the global GBIF infrastructure facilitates this data type.
