@@ -13,7 +13,7 @@ The exploration of necessary steps to achieve CoreTrustSeal data repository cert
 
 Documentation for all stages in the GBIF data ingestion process to start Q3/Q42019, following deployment of the informatics infrastructure upgrade (pipelines project).
 
-==== 2019 Participant contributions
+===== 2019 Participant contributions
 
 * *Tecala*: Did something really important.
 
@@ -21,7 +21,7 @@ Documentation for all stages in the GBIF data ingestion process to start Q3/Q420
 
 * Continue revision and documentation of flagging routines used in GBIF data ingestion pipelines. 
 
-==== 2020 Participant plans
+===== 2020 Participant plans
 
 * *Tecala*: Do something big.
 
