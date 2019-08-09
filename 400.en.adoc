@@ -11,6 +11,26 @@ Ensure that governments, researchers and users are equipped and supported to sha
 . Develop mechanisms to support and reflect the skills, expertise and experience of individual and organizational contributions to the GBIF network (including revision of identity management system and integration of ORCID identifiers)
 . Consolidate use of digital badges to record skills and contributions
 
+==== 2019 Progress
+
+The Secretariat informatics team has begun investigating citation tracking of individual records, and developing the ability for users to ‘claim’ data they have contributed, to promote use and to demonstrate the value proposition of GBIF. User profile work is scheduled to begin in late 2019 and early discussions have been initiated with GBIF Canada around lessons learned in claiming specimens through https://bloodhound-tracker.net[Bloodhound Tracker] and how to integrate that tool into GBIF.
+
+The Secretariat has been carrying out an evaluation of the https://discourse.gbif.org[GBIF Community Forum] during its first year of operation, to inform a decision on whether to continue maintaining the platform. Preliminary metrics suggest that use of the forum by the community is well below the targets set as benchmarks when the platform was established as a successor to the GBIF Community Site. 336 posts were made over a year with 87 new topics started by non-Secretariat staff. On the other hand, the time spent by Secretariat staff on moderation/curation was not significant.
+
+===== 2019 Participant contributions
+
+* *Tecala*: Did something really important.
+
+==== 2020 Work items
+
+* Explore possibilities of providing citation tracking from dataset level to individual level. Provide ability to claim one’s data and promote use; explore building on the example of ‘Bloodhound tracker’ and moving it into core GBIF operations.
+* Clearly communicate and demonstrate the benefits of ORCID use through citation tracking.
+* Pending a decision on continuing the GBIF Community Forum, take steps to improve interactive engagement with the broader GBIF community, considering the views gathered during the 2019 survey.
+
+===== 2020 Participant plans
+
+* *Tecala*: Do something really important.
+
 ==== Rationale
 
 GBIF is the result of work by thousands of people in agencies and institutions worldwide. This network’s long-term sustainability depends on demonstrating the value of such contributions and justifying continued investment of effort.
@@ -22,38 +42,3 @@ For these reasons, the next round of improvements to GBIF.org should enhance the
 ==== Approach
 
 The key task is to enhance GBIF.org to connect and display information on its contributors and other users of the site. This may include contact details (subject to individual control), formal roles (e.g. within participant delegations; in connection to publishing/improving datasets; based on training experience) and online participation in help desk discussions. Whether through the use of existing social or commercial platforms or through custom web application development, GBIF.org should absorb activity currently handled through the separate GBIF community site. GBIF should also build on experience during 2015-2016 in using digital badges to identify skills held by individuals. Such community functions will support the operation of GBIF Task Groups, externally funded projects like BID, and engagement of expert groups to curate GBIF data.
-
-==== 2018 Progress
-
-Users of GBIF.org can already associate their account with their ORCID, and log in using ORCID as the identity provider. Further implementation of this activity during 2018 has been somewhat delayed as GBIF explores the implications of the European Union’s new General Data Protection Regulations (GDPR) on measures that directly target publicly-available information about individuals. Having taken the necessary legal advice, GBIF can proceed with confidence to implement an expanded user profile, enabling users to link relevant information about their own activities and affiliations, for public display on GBIF.org if this option is selected. This will include, for example, information on the user’s data publishing record, citation of GBIF-mediated data in research, skills certification and volunteer roles through digital badges (see below in this section). Further information may include individual species occurrence records for which the user is named as recorder or identifier, and even verified species descriptions published in the taxonomic literature. The first test version of this new feature may be implemented within 2018, or scheduled for 2019. A mockup of the potential content of these profiles may be seen here.
-
-A new GBIF Community Forum was launched in May 2018, using the open-source Discourse platform to provide an open discussion space for the GBIF community. Moderated by the Secretariat communications team, the forum combines open discussion among registered users with closed groups for internal communication between nodes. Following a 15-month trial period, usage of the platform will be evaluated and recommendations on its future presented to the Global Nodes Meeting and Governing Board in Q4 2019. The Community Forum is intended to replicate and enhance those functions of the former GBIF Community Site not available through GBIF.org and other platforms such as GitHub, Open Science Framework, Google Drive and mailing lists. The Community Site itself was retired during 2018.
-
-GBIF continued development of the digital badge scheme to recognize skills and roles among individuals in the GBIF community. During 2018, three badges recognizing mentors and certified trainers within the Biodiversity Information Development (BID) programme, were extended to wider application across GBIF programmes and projects, as GBIF Volunteer Mentor (signifying general availability to act as a mentor and familiarity with the mentoring programme), GBIF Project Mentor (signifying specific experience in mentoring a project or providing on-site mentoring at training workshops) and GBIF Certified Trainer (signifying experience of taking part as a trainer in a GBIF capacity enhancement workshop). Three new badges are in preparation covering the new roles of Node Mentor (see Activity 1c), Biodiversity Open Data Ambassador (see Activities 1c and 5a) and Volunteer Translator (see Activity 1e).
-
-Many participants contribute to the distributed collaborative GBIF help desk, as reflected in the list of volunteer mentors.
-
-==== 2018 Participant contributions
-
-(none listed)
-
-==== 2019 Progress
-
-_previously *2019 work items*_
-
-* Evaluate early versions of expanded user profiles through monitoring of uptake and a survey of GBIF users and stakeholders; based on this evaluation, consider further expansion and adjustment
-* Monitor usage of the GBIF Community Forum and conduct a survey among stakeholders, to inform a recommendation on whether to maintain the platform beyond a 15-month pilot period
-
-==== 2019 Participant contributions
-
-_previously *2019 Participant plans*_
-
-(none listed)
-
-===== 2020 Work items
-
-* Do something big
-
-=== 2020 Participant plans
-
-+ *Tecala*: Do something really important.
