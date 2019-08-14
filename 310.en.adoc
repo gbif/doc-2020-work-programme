@@ -69,6 +69,8 @@ In process, collaboration CESP2018_011 ""Increasing capacities to develop Nation
 
 * *Norway*:BioDATA is a three-year project (2018-2021) managed by GBIF Norway in collaboration with the Norwegian Research School in Biosystematics (ForBio) and the GBIF Secretariat, that is funded by the Norwegian Agency for International Cooperation and Quality Enhancement in Higher Education (DIKU). BioDATA build biodiversity data management skills across the former Soviet Union region and includes partners, students, and training events in Belarus, Tajikistan, Armenia, Ukraine and Norway (see also Activity 1e). BioDATA is reusing GBIF BID training materials and have completed the translation of the training curriculum to Russian together with the GBIF.ru team. A light-weight Raspberry Pi IPT server was developed for BioDATA training purposes at venues with unstable and low bandwidth Internet connections (See also activity 1e and 3b).
 
+**South Africa*: SANBI-GBIF is recruiting a Biodiversity Informatics Support Officer to support training and engagement portfolio of work. This will support national and regional efforts and tie into GBIF helpdesk requirements as needed.
+
 * *Spain*: The e-learning platform of GBIF.ES has been used to host training modules for BIF and BIFA programmes, as well as for other capacity programmes within the network such as Biodiversity Data Management Skills for Students (BioDATA) and Biodiversity Information Management and Reporting (BIMR), reaching communities in Eurasia and South-East Europe respectively. GBIF Argentina has also used our e-learning platform to offer a course on biodiversity data quality and publication. We trained staff from Secretariat in using the Spanish e-learning platform. GBIF Spain is organizing an online workshop on R open to be run in November 2019 addressed to the national and international community. GBIF Spain co-coordinated with ALA and GBIF France the Living Atlas International Workshop that took place in Paris (March 2019) and used our informatics infrastructure to test the exercises.
 
 * *Sweden*: Representatives from GBIF-Sweden has participated in BID activities as Trainers and mentors (South Africa, Russia, TRinidad/Fiji/Cameroun, the Netherlands (GB26).
@@ -118,6 +120,8 @@ iDigBio has several workshops, webinars, symposia, and other events planned."
 * *Netherlands*: The 2019 activities on 1b will be continued.
 
 * *Norway*:BioDATA will during 2020 organize data mobilization training events in Armenia (April 2020) and in Ukraine (October 2020).
+
+**South Africa*: SANBI-GBIF will continue to conduct training workshops and develop communities of practice in identified biodiversity informatics areas.
 
 * *Spain*: We will replicate the Data Use For Decision Making workshop for the Iberoamerican community in coordination with other nodes from the region. 
 We will continue to provide support for GBIF coordinated training through our e-learning platform, as well as for other members of the network (e.g. GBIF South Africa). We will work together with the Secretariat to expand the functionalities of the GBIF.ES e-learning platform. We will attend and support future workshops and efforts to improve documentation around the Living Atlases platform.
