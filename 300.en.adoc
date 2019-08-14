@@ -19,33 +19,26 @@ The Secretariat has been carrying out an evaluation of the https://discourse.gbi
 
 ===== 2019 Participant contributions
 
-* *Andorra*:
-* *Argentina*:
-* *Australia*:
-* *Belgium*:
+* *Andorra*: The Andorran node of GBIF has scarce human resources to provide data to the GBIF. Nevertheless we have been an effort to increase the data amount by the assistance of our collaborator in Andorra. Also we are constantly in contact with the Spanish node team, the Real Jardín Botanico in Madrid, which gives us an appreciated technical assistance.
+
 * *Benin*: One workshop was achieved in May 2019 to train national partners on data mobilization, data uses as well as registration on GBIF site to become more visible on GBIF site. At 5 least NGOs register on GBIF site this year. The master program in biodiversity informatics is doing great in in-depth capacity building of students from Benin and other African countries. It is just unfortunate that we never have the support of GBIF in that innovative and promising program. 
-* *Biodiversity Heritage Library*:
-* *Canada*:
-* *Canadensys*:
-* *Colombia*:
-* *Consortium of European Taxonomic Facilities*:
-* *France*:
-* *Germany*:
-* *iDigBio*:
-* *Integrated Taxonomic Information System*:
-* *International Centre for Integrated Mountain Development*:
-* *Japan*:
-* *Mexico*:
-* *Naturalis Biodiversity Center*:
-* *Netherlands*:
-* *Norway*:
-* *Spain*:
-* *Species 2000*:
-* *Sweden*:
-* *South Africa*:
-* *Switzerland*:
-* *United States*:
-* *Zimbabwe*:
+
+* *Canada*: CBIF contributes to the focus on people via David Shorthouse's development of the Bloodhound application (https://bloodhound-tracker.net/) that enables agents to "Claim the natural history specimens you collected or identified, track their use in new science, and help acknowledge your peers, mentors, and organizations." We continue to support David's further development of this important tool and consider how to link this to development of community attribution standards and best practices.
+
+* *Canadensys*: We have followed the discussions in GBIF Community forum, but we have not been part of the survey.
+
+* *Japan*: Provided one workshop to show GBIF Japan can now accept fossils, and to enroll people in this area. 
+
+* *Netherlands*: NLBIF and Naturalis Biodiversity Center host the Biodiversity Next 2019 conference that will bring together a wide audience of biodiversity data, - standards, and - infrastructure stakeholders.
+
+* *Spain*: Helped testing and participating in the GBIF Community Forum.
+
+* *Sweden*: GBIF-Sweden has followed the development of GBIF´s experiences of GDPR adaptation in relation to expanded user profiles and data publication.
+
+* *United States*: US Node Manager joined GBIF Community Forum and contributes to relevant discussions. 
+
+* *Zimbabwe*: In January 2019, GBIF Zimbabwe set up a technical committee composed of people with relevant skills and knowledge required for the effectiveness of the Node. These include, ecologists, entomologists, microbilogists, bioinformaticians, wildlife ecologists, itchiologists and herpatologists.
+Launched a website for GBIF Zimbabwe and created twitter account.
 
 ==== 2020 Work items
 
