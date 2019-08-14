@@ -27,7 +27,11 @@ The Secretariat has been carrying out an evaluation of the https://discourse.gbi
 
 * *Canadensys*: We have followed the discussions in GBIF Community forum, but we have not been part of the survey.
 
+* *iDigBio*: In February 2019, iDigBio and the Office of Academic Support (OAS) and Student Support Services (SSS)/TRiO Program at the University of Florida co-organized a free Biology Career Conference and Fair for undergraduate students called iDigTRiO. TRiO is a federally funded grant program to help first generation students, low income students and students with disabilities navigate and succeed in their undergraduate careers and beyond. The event was targeted to SSS and TRiO students but was open to all undergraduates.
+
 * *Japan*: Provided one workshop to show GBIF Japan can now accept fossils, and to enroll people in this area. 
+
+* *Mexico*: Internal process know how extended for people inside publisher CONABIO,  know in another best practices on check list,  train of trainers in checklist.
 
 * *Netherlands*: NLBIF and Naturalis Biodiversity Center host the Biodiversity Next 2019 conference that will bring together a wide audience of biodiversity data, - standards, and - infrastructure stakeholders.
 
@@ -48,7 +52,33 @@ Launched a website for GBIF Zimbabwe and created twitter account.
 
 ===== 2020 Participant plans
 
-* *Tecala*: Do something really important.
+* *Andorra*: we plan to continue working with Spanish node team to continue improving our National Data Portal of Andorra and also increase the volume of data on biodiversity.
+
+* *Benin*: Capacity building through workshops and in the framework of the master program in biodiversity informatics Data mobilization Data uses.
+
+* *Canada*: CBIF will continue to collaborate with GBIF to incorporate Bloodhound functionality into the suite of GBIF services.
+
+* *Canadensys*: We will continue to follow and be part of the discussions in the forum. We think that the platform and discussions are really useful.
+
+* *iDigBio*: iDigBio will continue to support the series of workshops aimed at broadening participation in the biological sciences.
+iDigBio is planning a second annual iDigTRiO Biology Conference and Fair for February 2020.
+
+* *Japan*: Provide one workshop to expand the GBIF-related biodiversity informatics community. 
+
+* *Mexico*:
+
+* *Naturalis Biodiversity Center*: Naturalis plans to implement augmented user profiles based on ORCID in ELViS, to be developed in SYNTHESYS+
+
+
+
+
+* *Spain*: We will spread through our national communication channels the new and expanded user profile at gbif.org when it is ready.
+
+* *Sweden*: GBIF-Sweden will upgrade data provider´s agreements where necessary. Staying informed by and participating in discussions via the GBIF Community Forum (and GBIF webinars) will be encouraged within our regional community.
+
+* *United States*: USGS will work with OBIS to provide an updated memorandum of understanding between OBIS and GBIF.  
+
+* *Zimbabwe*: Set up GBIF Zimbabwe community forum by June 2020
 
 ==== Rationale
 
