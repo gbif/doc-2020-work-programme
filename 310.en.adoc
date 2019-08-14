@@ -38,11 +38,11 @@ The Secretariat has established a community-based Documentation Editorial Panel,
 
 * *Andorra*: 
 
-* *Argentina*: Participation as mentor and trainer (national, regional and global), workshops with the Environment Secretariat for training 
+* *Argentina*: Participation as mentor and trainer (national, regional and global), workshops with the Environment Secretariat for training.
 
 * *Australia*: The Atlas co-coordinated the CESP Paris workshop (March 2019) with GBIF France and GBIF Spain which provided training for the GBIF node staff on spatial components of the Atlas including the Spatial Portal. The Atlas developed training materials to support this workshop that can be used for future events. 
 
-* *Belgium*: Completed set of explainer texts in multiple languages: French and Dutch translations
+* *Belgium*: Completed set of explainer texts in multiple languages: French and Dutch translations.
 
 * *Benin*: One workshop was achieved in May 2019 to train national partners on data mobilization, data uses as well as registration on GBIF site to become more visible on GBIF site. At 5 least NGOs register on GBIF site this year. The master program in biodiversity informatics is doing great in in-depth capacity building of students from Benin and other African countries.
 
@@ -50,11 +50,10 @@ The Secretariat has established a community-based Documentation Editorial Panel,
 
 * *Canadensys*: Canadensys, in partnership with iDigBio and GBIF Spain, and partially funded by the CESP program, has developed a series of workshops in Canada in order to strengthen the stakeholders knowledge about data mobilization, data cleaning and data-use. These workshops have been focused on the region, but  the documentation developed can be easily adapted and reused outside North America. The documentation is available in both English and French.
 
-* *Colombia*: "Biodiversity Data Publication Training Workshop: This workshop provided information and training for publishing biodiversity data through SiB Colombia and GBIF online platforms. The workshop took place on November 30, 2019 at Corporación Autónoma Regional del Risaralda, Quindío. The objective of the workshop was to support GBIF-Colombia’s partners (particularly envirnmental authorities and ONG) achieving greater visibility at the national and international level publishing biodiversity data.
-A total of 15 participants attended the workshop. Through the workshop aims, participants were informed on the recent activities of GBIF Colombia and the importance of biodiversity data publishing. Participants were invited to keep supporting GBIF-Colombia in its ongoing and future activities. https://sibcolombia.net/taller-sirap/ Biodiversity Data Publication Training Workshop: This workshop provided information and training for publishing biodiversity data through SiB Colombia and GBIF online platforms. The workshop took place on April 24-26, 2019 at Universidad Industrial de Santander, Bucaramanga. The objective of the workshop was to support GBIF-Colombia’s partners (particularly biological collections) achieving greater visibility at the national and international level publishing biodiversity data. A total of 23 participants attended the workshop. Through the workshop aims, participants were informed on the recent activities of GBIF Colombia and the importance of biodiversity data publishing. Participants were invited to keep supporting GBIF-Colombia in its ongoing and future activities. https://sibcolombia.net/taller-uis-2019/ "
+* *Colombia*: Biodiversity Data Publication Training Workshop: This workshop provided information and training for publishing biodiversity data through SiB Colombia and GBIF online platforms. The workshop took place on November 30, 2019 at Corporación Autónoma Regional del Risaralda, Quindío. The objective of the workshop was to support GBIF-Colombia’s partners (particularly envirnmental authorities and ONG) achieving greater visibility at the national and international level publishing biodiversity data.
+A total of 15 participants attended the workshop. Through the workshop aims, participants were informed on the recent activities of GBIF Colombia and the importance of biodiversity data publishing. Participants were invited to keep supporting GBIF-Colombia in its ongoing and future activities. https://sibcolombia.net/taller-sirap/ Biodiversity Data Publication Training Workshop: This workshop provided information and training for publishing biodiversity data through SiB Colombia and GBIF online platforms. The workshop took place on April 24-26, 2019 at Universidad Industrial de Santander, Bucaramanga. The objective of the workshop was to support GBIF-Colombia’s partners (particularly biological collections) achieving greater visibility at the national and international level publishing biodiversity data. A total of 23 participants attended the workshop. Through the workshop aims, participants were informed on the recent activities of GBIF Colombia and the importance of biodiversity data publishing. Participants were invited to keep supporting GBIF-Colombia in its ongoing and future activities. https://sibcolombia.net/taller-uis-2019/ .
 
-* *France*: GBIF France supplied trainers and mentors for workshops organized by GBIF during 2019 under BID and BIFA for capacity enhancement in data publishing and use. 
-Togo and France : Implementation of a capacity enhancement project to increase the online presence of GBIF Togo. Designing a dedicated, dynamic online site, devoted to biodiversity and news from Togo, based on ALA tools.
+* *France*: GBIF France supplied trainers and mentors for workshops organized by GBIF during 2019 under BID and BIFA for capacity enhancement in data publishing and use. Togo and France : Implementation of a capacity enhancement project to increase the online presence of GBIF Togo. Designing a dedicated, dynamic online site, devoted to biodiversity and news from Togo, based on ALA tools.
 
 * *iDigBio*: iDigBio partnered with Environmental Data Initiative (EDI), Earth Science Information Partners (ESIP), DataONE, GBIF, NEON and Arctic Data Center on a Data Help Desk at the 2019 meeting of the Ecological Society of America. The goal was to engage participants one-on-one about their questions, comments and concerns about using these data in their discipline and area of research. iDigBio has developed a strong relationship with The Carpentries. iDigBio staff participate in Carpentries workshops throughout the year. iDigBio also has several staff members trained as Carpentries instructors.
 
@@ -63,7 +62,7 @@ Togo and France : Implementation of a capacity enhancement project to increase t
 * *Mexico*: Development website snib.mx for accesing and download occurrences data  and national list of species with distribution in Mexico.Preparation tutorials for use geoportal.conabio.gob.mx it is a geographical portal with thematic maps and occurrences maps.
 In process, collaboration CESP2018_011 ""Increasing capacities to develop National Species Checklists in the Latin America and the Caribbean Region""  with the publish “Aves de México” and “Helmintos parásitos de vertebrados” national list of Mexican species.
 
-* *Naturalis Biodiversity Center*: Naturalis contributed to training and capacity enhancement activities using GBIF training materials in the COST Action MOBILISE 
+* *Naturalis Biodiversity Center*: Naturalis contributed to training and capacity enhancement activities using GBIF training materials in the COST Action MOBILISE.
 
 * *Netherlands*: NLBIF has motivated data providers to take more responsibility for their data and manage their data on the NLBIF IPT or start hosting their own IPT.
 
@@ -106,25 +105,21 @@ In process, collaboration CESP2018_011 ""Increasing capacities to develop Nation
 
 * *France*: GBIF France will continue support for capacity enhancement activities and  workshops. 
 
-* *iDigBio*: "iDigBio will continue its collaboration and relationship with The Carpentries.
-
-iDigBio has several workshops, webinars, symposia, and other events planned."
-
+* *iDigBio*: iDigBio will continue its collaboration and relationship with The Carpentries. iDigBio has several workshops, webinars, symposia, and other events planned.
 
 * *Japan*: Provide two workshop for data carpentry and more usecases to be collected.
 
 ** Mexico*: 
 
-* *Naturalis Biodiversity Center*: Further training and capacity enhancement activities will be organised through the COST Action MOBILISE 
+* *Naturalis Biodiversity Center*: Further training and capacity enhancement activities will be organised through the COST Action MOBILISE.
 
 * *Netherlands*: The 2019 activities on 1b will be continued.
 
 * *Norway*:BioDATA will during 2020 organize data mobilization training events in Armenia (April 2020) and in Ukraine (October 2020).
 
-**South Africa*: SANBI-GBIF will continue to conduct training workshops and develop communities of practice in identified biodiversity informatics areas.
+* *South Africa*: SANBI-GBIF will continue to conduct training workshops and develop communities of practice in identified biodiversity informatics areas.
 
-* *Spain*: We will replicate the Data Use For Decision Making workshop for the Iberoamerican community in coordination with other nodes from the region. 
-We will continue to provide support for GBIF coordinated training through our e-learning platform, as well as for other members of the network (e.g. GBIF South Africa). We will work together with the Secretariat to expand the functionalities of the GBIF.ES e-learning platform. We will attend and support future workshops and efforts to improve documentation around the Living Atlases platform.
+* *Spain*: We will replicate the Data Use For Decision Making workshop for the Iberoamerican community in coordination with other nodes from the region. We will continue to provide support for GBIF coordinated training through our e-learning platform, as well as for other members of the network (e.g. GBIF South Africa). We will work together with the Secretariat to expand the functionalities of the GBIF.ES e-learning platform. We will attend and support future workshops and efforts to improve documentation around the Living Atlases platform.
 
 * *Sweden*: Experiences gained from the above will be integrated in educational and outreach activities nationally and elsewhere. Participation in the development of biodiversity informatics training curriculae will continue.
 
