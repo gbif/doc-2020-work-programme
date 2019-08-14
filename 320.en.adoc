@@ -77,34 +77,41 @@ GBIF France coordinated the CESP project : ""International Living Atlases worksh
 
 ===== 2020 Participant plans
 
-* *Andorra*: 
-* *Argentina*:
-* *Australia*:
-* *Belgium*:
-* *Benin*: 
-* *Biodiversity Heritage Library*:
-* *Canada*: 
-* *Canadensys*: 
-* *Colombia*:
-* *Consortium of European Taxonomic Facilities*:
-* *France*:
-* *Germany*:
-* *iDigBio*:
-* *Integrated Taxonomic Information System*:
-* *International Centre for Integrated Mountain Development*:
-* *Japan*
-* *Mexico*:
-* *Naturalis Biodiversity Center*:
-* *Netherlands*
-* *Norway*:
-* *Spain*:
-* *Species 2000*:
-* *Sweden*: 
-* *South Africa*:
-* *Switzerland*:
-* *United States*: 
-* *Zimbabwe*: 
+* *Andorra*: We will attend to improve Capacities and Tools of ALA-Andorra
 
+* *Argentina*: Mentor to new nodes
+
+* *Australia*: Continued support for the Living Atlases Community, providing support and guidance to the Living Atlas coordinators.
+
+* *Belgium*: 
+
+* *Benin*: In the framework of our master program, courses are being registered and will be provided to JRS Biodiversity Foundation, our donor. It will be then popularized and disseminated to be available for the general public.
+
+* *Canada*: CBIF will contribute to discussions/evaluations about lightweight national portals and potentially collaborate with GBIF to further develop/support/sustain an option that would be suitable for Canada and other countries.
+
+* *Canadensys*: We will continue to be involved as much as we can in the different initiatives developed by GBIF. It is important to give back to the community as much as we can.
+
+* *Colombia*: Ventanas departamentales / Regional windows"": During the first quarter of 2020 will be released the version 1.1. The second department will be Boyacá. This window is a tool for exploring the data and information available about a specific department and sow the seed to develop a very useful tool for decision-making and territorial management at the regional level, through appropriation, awareness and empowerment. Data repatriation: Data repatriation of new occurrences between January - December 2019.
+
+* *France*: GBIF France will continue to participate in the activities of the Living Atlases Community. 
+
+* *iDigBio*: iDigBio finds the monthly GBIF webinars valuable and plans to continue attending. iDigBio is currently in a sustainability planning process. As part of these efforts, iDigBio will consider capacity self-assessment as an information tool. In addition, iDigBio plans to evaluate Living Atlases as a potential long-term portal infrastructure. Lastly, iDigBio will consider taking advantage of the node mentorship program. 
+
+* *Japan*: Continuous improvement of S-Net system (domestic website for searching natural history specimens).
+
+* *Mexico*: "Continue to update data occurrences in published datasets. Continue to gather new occurrences for publish in Mexican node"
+
+* *Naturalis Biodiversity Center*: 
+
+* *Netherlands*: To be decided.
+
+* *Norway*: As part of the BioDATA project, GBIF Norway will provide node mentoring services to partner countries who make progress towards joining GBIF as new members (see also Activity 1e).
+
+* *Spain*: We will keep on supporting the Living Atlases community: support coordinators to find a model of governance for the community; assist other data managers of the different Atlas around the world. We will work to develop online exercises on different modules of the Atlas to continue improving LA documentation for users.
+
+* *Sweden*: Continued development and addition of ALA tools will be shared through the new Swedish "Bioatlas" and by sharing code at GitHub. Support to other nodes employing techniques where we may be of help will continue/increase.
+
+* *South Africa*: SANBI-GBIF will highlight the role of GBIF and engage the scientific community at the annual Biodiversity Information Management and Foundational Biodiversity Information Programme Forum, on the Biodiversity Open Ambassador programme 
 
 ==== Rationale
 
