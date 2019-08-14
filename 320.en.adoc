@@ -22,7 +22,34 @@ The GBIF network has initiated a programme creating a new role, the Biodiversity
 
 ===== 2019 Participant contributions
 
-* *Tecala*: Do something really important.
+* *Andorra*: 
+* *Argentina*:
+* *Australia*:
+* *Belgium*:
+* *Benin*: 
+* *Biodiversity Heritage Library*:
+* *Canada*: 
+* *Canadensys*: 
+* *Colombia*:
+* *Consortium of European Taxonomic Facilities*:
+* *France*:
+* *Germany*:
+* *iDigBio*:
+* *Integrated Taxonomic Information System*:
+* *International Centre for Integrated Mountain Development*:
+* *Japan*
+* *Mexico*:
+* *Naturalis Biodiversity Center*:
+* *Netherlands*
+* *Norway*:
+* *Spain*:
+* *Species 2000*:
+* *Sweden*: 
+* *South Africa*:
+* *Switzerland*:
+* *United States*: 
+* *Zimbabwe*: 
+
 
 ==== 2020 Work items
 
@@ -35,7 +62,34 @@ The GBIF network has initiated a programme creating a new role, the Biodiversity
 
 ===== 2020 Participant plans
 
-* *Tecala*: Do something big.
+* *Andorra*: 
+* *Argentina*:
+* *Australia*:
+* *Belgium*:
+* *Benin*: 
+* *Biodiversity Heritage Library*:
+* *Canada*: 
+* *Canadensys*: 
+* *Colombia*:
+* *Consortium of European Taxonomic Facilities*:
+* *France*:
+* *Germany*:
+* *iDigBio*:
+* *Integrated Taxonomic Information System*:
+* *International Centre for Integrated Mountain Development*:
+* *Japan*
+* *Mexico*:
+* *Naturalis Biodiversity Center*:
+* *Netherlands*
+* *Norway*:
+* *Spain*:
+* *Species 2000*:
+* *Sweden*: 
+* *South Africa*:
+* *Switzerland*:
+* *United States*: 
+* *Zimbabwe*: 
+
 
 ==== Rationale
 
