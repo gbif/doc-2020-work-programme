@@ -34,7 +34,27 @@ The Secretariat continues to offer support to BID data publishers at the technic
 
 ===== 2019 Participant contributions
 
-* *Tecala*: Did something really important.
+* *Argentina*: Participation, as a jury, of the evaluations of the IDB and BIFA projects. As well as a jury of the Ebbe Nielsen awards. On the other hand, participation in 2 CESP programs (one as a participant, the other as a coordinator). Trainer at the last BID meeting in Caribbean and at the Global Nodes Meeting.
+
+* *Australia*: ALA hosted a week long workshop/hackathon with developers from GBIF Brazil in Canberra (December 2018) to help them in the development of the Atlas based portal for Brazil.
+
+* *Benin*: "We coordinated the implementation of the BID regional and national projects. In the framework of BID Regional project, we coordinated data mobilization and data uses in a consortium of 6 African countries. In the framework of a CESP program with Nigeria, we received and trained in Benin, the GBIF node of Nigeria.
+
+* *Canadensys*: We have participated in the five-year CESP review but we have not applied for funding during the 2019 call. The CESP program is a great incentive to promote projects between different nodes. 
+
+* *Consortium of European Taxonomic Facilities*: CETAF is a driving force behind the European DiSSCo Initiative, which aims at creating a Europe-wide research infrastructure to mobilise, unify and deliver bio- and geo-diversity information. The CETAF Secretariat is actively participating in several projects related to the implementation of DiSSCo, inter alia SYNTHESYS+ and MOBILISE.
+
+* *Germany*: Several German GBIF Node institutions actively participate in projects contributing to the European DiSSCo Initiative, that aims at creating a Europe-wide research infrastructure to mobilise, unify and deliver bio- and geo-diversity information. 
+Strong engagement also in CETAF, GGBN and BioCASE.
+
+* *Netherlands*: Evaluated CESP 2019 call.
+
+* *South Africa*: Further engagement with regards to funding allocation will continue. The Africa Coordination Mechanism (ACM) 5 year strategy is seen as a catalytic investment. Sustainability will be built into the 1st phase, so there will be less concern about what happens subsequently, as this would have been built into the model. The ACM Business Case and Regional Engagement Strategy is a model that could be adopted in other regions of the world. In the 1st three years, through the ACM, GBIF-Africa, through SANBI-GBIF will explore the need and feasibility of developing a bigger platform that can provide for a strengthening of a community of practice for all African biodiversity informatics initiatives, to enhance and make more efficient use of the data. This will be done through leveraging additional regional and global partnerships and initiatives. Data mobilisation funding through FBIP large and small grants ± € 645 000 will continue in 2019. 4. ABC Prize money to be awarded in 2019.
+
+* *Sweden*: Contribution by staff participation in-kind at meetings, conference sessions, workshops etc. 
+
+* *Zimbabwe*: Applied and obtained CESP funding for GBIF Zimbabwe in collaboration with GBIF Spain.
+
 
 ==== 2020 Work items
 
@@ -49,7 +69,31 @@ The Secretariat continues to offer support to BID data publishers at the technic
 
 ===== 2020 Participant plans
 
-* *Tecala*: Do something big.
+* *Argentina*: Participation in 2 CESP programs (one as participant, one as coordinator), coordinating national co-financing for CESP, coordinated from Argentina.
+
+* *Belgium*: Help establishment of a second phase of BID in collaboration with the European Union
+
+* *Benin*: Continue to exert the mentorship among partners
+
+* *Canadensys*: We will not lead a proposal for a CESP grant in 2020, but, depending on the needs, we could act as mentor in another proposal. We are also opened to act as mentor for a project in the BID program, but we do not have a project in mind currently.
+
+* *Consortium of European Taxonomic Facilities*:Participation in DiSSCo-related projects continues.
+
+* *Germany*:Participation in DiSSCo-related projects, CETAF, GGBN and BioCASE continues.
+
+* *iDigBio*: iDigBio will continue its integration and coordination efforts with GBIF, ALA, and DiSSCo.
+
+* *Norway*: The GBIF CESP OpenPSD project developed by the GBIF Nodes from Spain, Portugal, Norway, Colombia, and France will engage and document best practices for mobilizing biodiversity data from the private sector (see also Activity 1d, 3b and 3c).
+All of the Nordic and Baltic GBIF nodes contribute to the Nordic-Baltic collaboration on e-infrastructures for Biodiversity Informatics (DeepDive2 project proposal) funded by the Nordic e-Infrastructure Collaboration (NeIC) of the Nordic Research Council (NordForsk) (see also Activity 2a, 2b, 3b, 4a, 4b and 4c).
+
+* *South Africa*: Develop funding strategies to support the Africa Coordinating Mechanism Business Case.  Continued data mobilisation funding through FBIP large and small grants of ± € 645 000 will continue in 2020. The ABC2 project has been approved by the JRS and will be initiated in 2019 and continue into 2020.  
+
+* *Spain*: GBIF Spain will be involved in 3 CESP projects that will take place from June 2019 to June 2020. We will coordinate the OpenPSD CESP project to mobilize data from private sector. We will be available to help in the second phase of BID programme if this takes place.
+
+* *Sweden*: GBIF-Sweden will continue to contribute by offering opportunities for ist staff members to participate in coordinated activities aimed at expand the scale and scope of GBIF.
+
+* *Zimbabwe*: Implementation of CESP project.
+
 
 ==== Rationale
 
