@@ -19,7 +19,33 @@ The _alliance for biodiversity knowledge_ was established as an outcome of the 2
 
 ===== 2019 Participant contributions
 
-* *Tecala*: Did something really important.
+* *Argentina*: Coordination, as a regional representative, in the reports from each node for the joint regional report
+
+* *Australia*: Analysis of GBIF pipelines was undertaken, and project plans for further work with GBIF's code base have been made. 
+
+* *Benin*: We advanced in data mobilization and data uses, we encouraged institutions to register on GBIF site so as to become more visible.
+
+* *Canada*: CBIF participated in the North American Nodes Meeting where discussions of ways to better coordinate regional, country and continental activities with GBIF plans took place. We currently also contribute to plan implementation through supporting the efforts of the HOD for SPNHC and TDWG (Dr. Macklin). Dr. Macklin is also the current Chair of TDWG and is working with GBIF to advance mutual goals in standards development and biodiversity informatics. We also contribute as a member of the Steering Committee (via TDWG) for Biodiversity_Next 2019, a critical forum for discussion of the goals of GBIF and the Alliance.
+
+* *Canadensys*: Our team has helped in the translation of the documentation for the Alliance.
+
+* *France*: Co-organization with Norway of the EU nodes meeting in Oslo.
+Election of the new EU representative and Deputy.
+
+* *iDigBio*: iDigBio hosted the regional meeting of participant nodes in North America in association with the 2019 Digital Data in Biodiversity Research Conference.
+
+* *Naturalis Biodiversity Center*: A meeting was held between the DiSSCo coordination office and GBIF Secreatariat to discuss coordination of implementation activities. Naturalis provided D2.3 Design of a collection digitisation dashboard in ICEDIG which provides input for further development of GrSciCol hosted by GBIF. 
+
+* *Netherlands*: NLBIF has adopted the DiSSCo-NL ntf lead and as such integrates GBIF and national DiSSCo activities.
+
+* *Norway*: GBIF Norway funded, hosted and organized the 2019 European GBIF Nodes meeting in Oslo in May 2019 (see also Activity 1c and 1e). GBIF Norway and the GBIF Norway network partners serve on GBIF committees as elected vice-chair for the GBIF Science committee and as vice-chair for the European GBIF Nodes committee.
+
+* *South Africa*: Strategic engagements/meetings between SANBI-GBIF Node Manager and South African Head of Delegation will continue in order to evolve the South African Node planning, and Africa portfolio of work and to elaborate the Science Diplomacy role SANBI-GBIF can play. Phase 2 (of national data platform) commenced in October 2018 (24 months), which looks at the implementation phase of the NBIS.
+
+* *Spain*: The GBIF.ES web page hosts activity reports from European Nodes that can be useful for other reporting activities Nodes. We have been trying to coordinate efforts on how to integrate EU Nodes services in the EOSC.  We have communicated the progress done by GBIF in developing a global alliance for biodiversity knowledge in our national context. 
+
+
+* *Sweden*: GBIF-Sweden has participated in regional meetings, and at conferences adding to the implementation of prescribed GBIF activities. By providing the 1st vice chair of the Nodes Steering Group, GBIF-Sweden contributes to leading the work of connecting interested world-wide.
 
 ==== 2020 Work items
 
