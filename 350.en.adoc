@@ -44,7 +44,6 @@ Election of the new EU representative and Deputy.
 
 * *Spain*: The GBIF.ES web page hosts activity reports from European Nodes that can be useful for other reporting activities Nodes. We have been trying to coordinate efforts on how to integrate EU Nodes services in the EOSC.  We have communicated the progress done by GBIF in developing a global alliance for biodiversity knowledge in our national context. 
 
-
 * *Sweden*: GBIF-Sweden has participated in regional meetings, and at conferences adding to the implementation of prescribed GBIF activities. By providing the 1st vice chair of the Nodes Steering Group, GBIF-Sweden contributes to leading the work of connecting interested world-wide.
 
 ==== 2020 Work items
@@ -56,7 +55,32 @@ Election of the new EU representative and Deputy.
 
 ===== 2020 Participant contributions
 
-* *Tecala*: Do something really important.
+* *Argentina*: Continue contributing to national, regional and global activities.
+
+* *Australia*: Review GBIF's data pipelines work and data registry as part of  an Atlas infrastructure review and refresh. Aim to align with GBIF where possible.
+
+* *Benin*: Capacity building, data mobilization, data uses
+
+* *Canada*: CBIF will continue to build on the progress made in 2019. We will also contribute through membership on the Steering Committee (via TDWG) for the Biodiversity Summit 2020 in Washington DC, a critical forum for discussion of the goals of GBIF and the Alliance.
+
+* *Canadensys*: We will continue to help and be involved in the Alliance as much as we can.
+
+* *iDigBio*:iDigBio plans to continue attending, supporting, and/or hosting regional meetings in North America. iDigBio also plans to continue offering the annual Digital Data Conference as a venue for the regional meetings.
+
+* *Naturalis Biodiversity Center*: DiSSCo is coordinating with GBIF, iDigBio and IGSN to establish a global solution for Digital Specimen identifiers and other infrastructures. In SYNTHESYS+ ELViS development it will be investigated whether linkages can be achieved between ELViS and GBIF collection data (specimen datasets and collection metadata).Naturalis would like to share its developments using AI in species identification and work on using environmental DNA for biomonitoring with the GBIF community.
+
+* *Netherlands*: Continue the above
+
+* *Norway*: GBIF Norway contributes staff resources to the DiSSCo National Task Force (NTF) representing Norway in the DiSSCo Prepare process. GBIF Norway maintain liaison with international organization in the agrobiodiversity community to promote and actively support the harmonization with GBIF provided and solutions endorsed standards (see also Activity 2a, 3c and 5b).
+
+* *South Africa*: Further engagements with SANBI-GBIF Node Manager and HoD to evolve the Node planning and Africa portfolio.
+
+* *Spain*:Collaboration with EU Nodes and EOSC to explore best ways to integrate Node’s services in the EOSC.
+
+* *Sweden*: GBIF-Sweden will continue to take part in leading and contributing to the development of interconnections at national and international levels (GBIC 2 follow-up etc. incl. participation in Synthesys+). 
+
+* *United States*: USGS will continue to be involved in and contribute to advancing and contributing to the ideas around the GBIC2 workshop sharing implementation and infrastructure suggestions as they pertain to the US and the various global communities of practice.  
+* *Zimbabwe*: Develop and finalise a five year strategic plan and 2020 action plan.
 
 ==== Rationale
 
