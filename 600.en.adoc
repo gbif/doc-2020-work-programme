@@ -15,7 +15,13 @@ Documentation for all stages in the GBIF data ingestion process to start Q3/Q420
 
 ===== 2019 Participant contributions
 
-* *Tecala*: Did something really important.
+* *Biodiversity Heritage Library*: Make progress on adding BHL Europe data to BHL. Minimal progress has been made.  Developed a plan for a rapid ingest of BHL Europe materials.
+
+* *iDigBio*: iDigBio partnered with the Society of Herbarium Curators to conduct a Strategic Planning for Herbaria short course. The goal was to produce a strategic plan for each represented herbarium, including vision, mission, stakeholders, strategies, goals, objectives, evaluation, and sustainability, among other things. iDigBio has been working with the community on alternative data storage solutions, such as CyVerse.
+
+* *Mexico*:In process, mentoring and collaboration with UNIBIO-Instituto de Biología UNAM publisher for reactivate data publish and rescue orphaned datasets.
+
+* *Norway*: GBIF Norway contributed to best practices guidelines and implementation of specimen-level DOIs in collaboration with the UN Food and Agriculture Organization in coordination with the GBIFS (see also activity 3a, 4b, and 5b).
 
 ==== 2020 Work items
 
@@ -23,7 +29,13 @@ Documentation for all stages in the GBIF data ingestion process to start Q3/Q420
 
 ===== 2020 Participant plans
 
-* *Tecala*: Do something big.
+* *Biodiversity Heritage Library*: Implement the plan for rapid ingest of BHL Europe materials.
+
+* *Canadensys*: We will follow the recommendations from GBIF in order to ensure data persistence. 
+
+* *iDigBio*: iDigBio is working to improve its data mobilization efforts and workflows, including moving towards IPT as the preferred publishing mechanism.iDigBio will continue to work with the community on alternative data storage solutions and strategies.
+
+* *Naturalis Biodiversity Center*: Persistant identifiers for specimen related data will be implemented in ELViS.
 
 ==== Rationale
 
