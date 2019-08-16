@@ -17,7 +17,23 @@ Data analysis explored options for species density/species richness representati
 
 ===== 2019 Participant contributions
 
-* *Tecala*: Did something really important.
+* *Australia*: Collaboration with the SDG community and implement platform-based solutions to improve the value,  applicability and accessibility of citizen science data for SDG's.
+
+* *Belgium*: Explore and prototype a tool, based on occurrences API, that will return a species list from a user-defined polygon. Postponed. 
+
+* *Colombia*: Support to consolidate the IPBES National Assessment, particulary in the chapter 2 - Status of Colombian Biodiversity  http://humboldt.org.co/es/actualidad/item/1257-convocatoria-evaluacion-ipbes-colombia
+Status and trend of Colombian biodiveristy: An annual publication from the data published. https://cifras.biodiversidad.co/.
+
+* *iDigBio*: iDigBio plans to participate in the WeDigBio event in October 2019. Worldwide Engagement for Digitizing Biocollections, or WeDigBio, is a global data campaign, virtual science festival, and local outreach opportunity, all rolled into one.
+
+* *South Africa*: SANBI-GBIF will engage with the IPBES Chair for data and knowledge, to reinforce a stronger IPBES perspective to the ACM work, as it shows the data needs and the potential. The IPBES Africa Assessment reinforces the need for investment in biodiversity information and the ACM.
+
+* *Sweden*: GBIF-Sweden has contributed to the GEO-6 reports and will continue to do so at the level of co-authoring and evaluating contents.
+
+* *United States*: Chairing session at Biodiversity_Next to better connect policy makers with relevant data streams.
+
+* *Zimbabwe*: National biodiversity report for CBD
+
 
 ==== 2020 Work items
 
@@ -29,7 +45,24 @@ Data analysis explored options for species density/species richness representati
 
 ===== 2020 Participant plans
 
-* *Tecala*: Do something big.
+* *Australia*: Continuing to collaborate with the SDG community and implement platform-based solutions to improve the value,  applicability and accessibility of citizen science data for SDG's.
+
+* *Belgium*: Explore and prototype a tool, based on occurrences API, that will return a species list from a user-defined polygon.
+
+* *Benin*: 
+* *Biodiversity Heritage Library*:
+* *Canada*: 
+* *Canadensys*: We would like to work with GBIF and other organisations to establish standardized links to leaf spectral data obtained on the ground and through imagery at various levels (linked to a pan-canadian project called CABO, http://www.caboscience.org/)
+
+* *iDigBio*: iDigBio plans to continue participation in the annual WeDigBio events each October.
+
+* *Netherlands*: NLBIF will promote the contribution of long-term monitoring data to GBIF.
+
+* *Spain*: Organizing a thematic workshop to promote the publication of sampling-event based data addressed to public administrations.
+
+* *Sweden*: GBIF-Sweden has contributed to the GEO-6 reports and will continue to do so at the level of co-authoring and evaluating contents.
+
+* *Switzerland*: Continuation of data digitization activities in relation with running programs of the Federal Office of Environment.
 
 ==== Rationale
 
