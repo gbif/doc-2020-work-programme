@@ -20,15 +20,17 @@ The adoption of Operational Taxonomic Unit (OTU) identifiers from the UNITE fung
 * *Australia*: Continued work on improving access to the Australian checklists. These data are available now in darwin core archives to feed into Catalogue of Life plus.
 
 * *Benin*: "Many checklists have been published on medicinal plans and agroforestry species:
+
 1. https://www.gbif.org/dataset/81a257d9-9522-410e-b921-8c9283dbb939
 2. https://www.gbif.org/dataset/6ac09c4d-bf7b-4e47-9c2d-f5abf6e89aa0
 3. https://www.gbif.org/dataset/dba21dbc-ea38-4bbf-b50f-ba3d256e1f73
 
-Many checklists published also concerned, invasive alien species and threatened species
+Many checklists published also concerned, invasive alien species and threatened species:
+
 1.	https://www.gbif.org/dataset/3d4ac01a-51a9-4ec9-8599-230a27e58758
 2.	https://www.gbif.org/dataset/de5e3fb2-3922-40ba-9773-e45a6850ffeb
 3.	https://www.gbif.org/dataset/0a20bf65-4c0f-42ce-b6e4-2218c0ea5833
-"
+
 * *Biodiversity Heritage Library*: Participated in GlobalNames Workshop and Catalogue of Life Plus meetings.
 
 * *Canadensys*: The Canadensys team has maintained Vascan (https://data.canadensys.net/vascan/), the Database of Vascular Plants of Canada, which is used in the GBIF backbone, and is an important resource for biologists and botanists in Canada and elsewhere. Vascan continues to be actively curated and up to date based on recent publications.
