@@ -14,7 +14,17 @@ Explored metadata-only dataset publication of the datasets proposed through http
 
 ===== 2019 Participant contributions
 
-* *Tecala*: Did something really important.
+* *Canadensys*: We have accepted to take care of orphan datasets from Canadian institutions currently published through outdated protocols (DiGir, Tapir) by CBIF. We are waiting for CBIF approval to start the ingestion process.
+
+* *Colombia*: Rescue of data dataset from Biota Colombiana Journal. Dataset before the implementation of data paper model. All datasets published through https://ipt.biodiversidad.co/iavh/
+
+* *Integrated Taxonomic Information System*: ITIS' taxonomic workbench development will provide the biodiversity community with a tool that provides a stable and long-term solution for updating and maintaining taxonomic information.
+
+* *International Centre for Integrated Mountain Development*: Migrated 14 checklist data to HKH-BIF. Our IPT registered earlier in 2012 became   dormant so had to be reinstalled and re-registered. So we had to move our earlier published datasets into this current HKH-BIF platform. 
+
+* *Sweden*: As in 3c.
+
+* *United States*: Several projects--including iDigBio, VertNET, BISON--working with researchers to rescue, QA/QC and provide access to U.S.-originating datasets.
 
 ==== 2020 Work items
 
@@ -23,7 +33,15 @@ Explored metadata-only dataset publication of the datasets proposed through http
 
 ===== 2020 Participant plans
 
-* *Tecala*: Do something big.
+* *Canadensys*: We will temporarily host the CBIF orphaned datasets until CBIF is ready to host them again. 
+
+* *Integrated Taxonomic Information System*: In 2020 ITIS plans to release its taxonomic workbench that will provide the biodiversity community with a tool that provides a stable and long-term solution for updating and maintaining taxonomic information.
+
+* *Netherlands*: Once the NLBIF website is renewed it will be used to further promote the vision and mission of GBIF and NLBIF, including the rescue of datasets.
+
+* *Sweden*: As in 3c.
+
+* *United States*: BISON will focus on rescuing amphibian data. 
 
 ==== Rationale
 
