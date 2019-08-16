@@ -38,7 +38,7 @@ The Secretariat continues to offer support to BID data publishers at the technic
 
 * *Australia*: ALA hosted a week long workshop/hackathon with developers from GBIF Brazil in Canberra (December 2018) to help them in the development of the Atlas based portal for Brazil.
 
-* *Benin*: "We coordinated the implementation of the BID regional and national projects. In the framework of BID Regional project, we coordinated data mobilization and data uses in a consortium of 6 African countries. In the framework of a CESP program with Nigeria, we received and trained in Benin, the GBIF node of Nigeria.
+* *Benin*: We coordinated the implementation of the BID regional and national projects. In the framework of BID Regional project, we coordinated data mobilization and data uses in a consortium of 6 African countries. In the framework of a CESP program with Nigeria, we received and trained in Benin, the GBIF node of Nigeria.
 
 * *Canadensys*: We have participated in the five-year CESP review but we have not applied for funding during the 2019 call. The CESP program is a great incentive to promote projects between different nodes. 
 
