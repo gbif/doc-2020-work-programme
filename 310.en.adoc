@@ -36,8 +36,6 @@ The Secretariat has established a community-based Documentation Editorial Panel,
 
 ===== 2019 Participant contributions
 
-* *Andorra*: 
-
 * *Argentina*: Participation as mentor and trainer (national, regional and global), workshops with the Environment Secretariat for training.
 
 * *Australia*: The Atlas co-coordinated the CESP Paris workshop (March 2019) with GBIF France and GBIF Spain which provided training for the GBIF node staff on spatial components of the Atlas including the Spatial Portal. The Atlas developed training materials to support this workshop that can be used for future events. 
@@ -45,8 +43,6 @@ The Secretariat has established a community-based Documentation Editorial Panel,
 * *Belgium*: Completed set of explainer texts in multiple languages: French and Dutch translations.
 
 * *Benin*: One workshop was achieved in May 2019 to train national partners on data mobilization, data uses as well as registration on GBIF site to become more visible on GBIF site. At 5 least NGOs register on GBIF site this year. The master program in biodiversity informatics is doing great in in-depth capacity building of students from Benin and other African countries.
-
-* *Canada*: 
 
 * *Canadensys*: Canadensys, in partnership with iDigBio and GBIF Spain, and partially funded by the CESP program, has developed a series of workshops in Canada in order to strengthen the stakeholders knowledge about data mobilization, data cleaning and data-use. These workshops have been focused on the region, but  the documentation developed can be easily adapted and reused outside North America. The documentation is available in both English and French.
 
@@ -68,7 +64,7 @@ In process, collaboration CESP2018_011 ""Increasing capacities to develop Nation
 
 * *Norway*:BioDATA is a three-year project (2018-2021) managed by GBIF Norway in collaboration with the Norwegian Research School in Biosystematics (ForBio) and the GBIF Secretariat, that is funded by the Norwegian Agency for International Cooperation and Quality Enhancement in Higher Education (DIKU). BioDATA build biodiversity data management skills across the former Soviet Union region and includes partners, students, and training events in Belarus, Tajikistan, Armenia, Ukraine and Norway (see also Activity 1e). BioDATA is reusing GBIF BID training materials and have completed the translation of the training curriculum to Russian together with the GBIF.ru team. A light-weight Raspberry Pi IPT server was developed for BioDATA training purposes at venues with unstable and low bandwidth Internet connections (See also activity 1e and 3b).
 
-**South Africa*: SANBI-GBIF is recruiting a Biodiversity Informatics Support Officer to support training and engagement portfolio of work. This will support national and regional efforts and tie into GBIF helpdesk requirements as needed.
+* *South Africa*: SANBI-GBIF is recruiting a Biodiversity Informatics Support Officer to support training and engagement portfolio of work. This will support national and regional efforts and tie into GBIF helpdesk requirements as needed.
 
 * *Spain*: The e-learning platform of GBIF.ES has been used to host training modules for BIF and BIFA programmes, as well as for other capacity programmes within the network such as Biodiversity Data Management Skills for Students (BioDATA) and Biodiversity Information Management and Reporting (BIMR), reaching communities in Eurasia and South-East Europe respectively. GBIF Argentina has also used our e-learning platform to offer a course on biodiversity data quality and publication. We trained staff from Secretariat in using the Spanish e-learning platform. GBIF Spain is organizing an online workshop on R open to be run in November 2019 addressed to the national and international community. GBIF Spain co-coordinated with ALA and GBIF France the Living Atlas International Workshop that took place in Paris (March 2019) and used our informatics infrastructure to test the exercises.
 
@@ -96,20 +92,13 @@ In process, collaboration CESP2018_011 ""Increasing capacities to develop Nation
 
 * *Benin*: "Capacity building through workshops and in the framework of the master program in biodiversity informatics Data mobilization Data uses.
 
-* *Canada*: 
-
 * *Canadensys*: Canadensys will continue to work on developing the documentation about data-cleaning, publication and data-use. This documentation will be published on our community page (https://community.canadensys.net/) but will be available to reuse for other institutions or nodes. This documentation will probably be published as short blog post on specific topics.
-
-* *Colombia*: 
- 
 
 * *France*: GBIF France will continue support for capacity enhancement activities and  workshops. 
 
 * *iDigBio*: iDigBio will continue its collaboration and relationship with The Carpentries. iDigBio has several workshops, webinars, symposia, and other events planned.
 
 * *Japan*: Provide two workshop for data carpentry and more usecases to be collected.
-
-** Mexico*: 
 
 * *Naturalis Biodiversity Center*: Further training and capacity enhancement activities will be organised through the COST Action MOBILISE.
 
@@ -126,7 +115,6 @@ In process, collaboration CESP2018_011 ""Increasing capacities to develop Nation
 * *United States*: USGS will continue to participate as a teacher in workshops and meetings to advance data curation skills globally and across domains.
 
 * *Zimbabwe*: Data mobilisation workshop in January 2020 Data access workshop in March 2020
-
 
 ==== Rationale
 
