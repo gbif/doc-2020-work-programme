@@ -28,8 +28,6 @@ The GBIF network has initiated a programme creating a new role, the Biodiversity
 
 * *Australia*: The Atlas assisted in the recruitment of two Living Atlas Coordinator.positions with GBIF's funding; a Technical and Administrative position. These positions will help develop the community further by organising the governance arrangements around the Atlas tools and improving support and documentation for nodes attempting to use the Atlas tools for their biodiversity informatics portals.
 
-* *Belgium*: 
-
 * *Benin*: In the framework of our master program, courses are being registered and will be provided to JRS Biodiversity Foundation, our donor. It will be then popularized and disseminated to be available for the general public.
 
 * *Canada*: CBIF is reviewing use cases and considering options for a new Canadian biodiversity portal. We participated in the workshop "Living Atlases workshop (CESP) 2019" held in Paris, France in April. CBIF participates in the Biodiversity Open Data Ambassador and has included GBIF materials in talks at conferences/meetings on biodiversity informatics topics. 
@@ -82,8 +80,6 @@ GBIF France coordinated the CESP project : ""International Living Atlases worksh
 * *Argentina*: Mentor to new nodes
 
 * *Australia*: Continued support for the Living Atlases Community, providing support and guidance to the Living Atlas coordinators.
-
-* *Belgium*: 
 
 * *Benin*: In the framework of our master program, courses are being registered and will be provided to JRS Biodiversity Foundation, our donor. It will be then popularized and disseminated to be available for the general public.
 
