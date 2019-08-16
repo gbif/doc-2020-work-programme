@@ -13,7 +13,17 @@ It has now been 20 years since the OECD Megascience Forum recommended the establ
 
 ==== 2019 Participant contributions
 
-* *Tecala*: Did something really important.
+* *Canadensys*: Anne Bruneau and Carole Sinou have been interviewed for the external review of GBIF.Did something really important.
+
+* *Colombia*: Use of GBIF API to incorporate in the  monthly reports citation of datasets by publishers.Example June: https://datastudio.google.com/u/0/reporting/1yqaSRnp8ANAjZ488CAg1Zlv_sAYQGPiS/page/Ge2V.
+
+* *iDigBio*: iDigBioconducts an annual survey of its internal team as well as the collections community, broader scientific community, partners, stakeholders, and others interested in the national digitization effort. The survey is conducted to help track progress toward goals, identify community needs, solicit community feedback, and measure the impact of iDigBio’s activities. iDigBio tracks data use in literature and publishes graphs on its website showing publications resulting from ADBC funding.
+
+* *South Africa*: The efforts to reinforce the data-science-policy value chain through the ABC projects and the Foundational Biodiversity Information Programme of SANBI, will continue into 2019.
+
+* *Spain*: The Spanish Atlas has added DOI support for occurrence data downloads. It also downloads a file with providers that must be cited.
+
+* * Sweden*: At the national level GBIF-Sweden continuously evaluates impact.
 
 ==== 2020 Work items
 
@@ -22,7 +32,12 @@ It has now been 20 years since the OECD Megascience Forum recommended the establ
 
 ==== 2020 Participant plans
 
-* *Tecala*: Do something big.
+* *iDigBio*: iDigBio will continue to conduct its annual community survey.
+iDigBio will continue to track and publish data use statistics.
+
+* *South Africa*: The efforts to reinforce the data-science-policy value chain through the ABC projects and the Foundational Biodiversity Information Programme of SANBI, will continue into 2019.
+
+* * Sweden*: At the national level GBIF-Sweden continuously evaluates impact.
 
 ==== Rationale
 
