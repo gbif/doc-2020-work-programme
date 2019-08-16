@@ -14,7 +14,18 @@ A pilot handle-based server was deployed demonstrating GBIF infrastructure is ca
 
 ===== 2019 Participant contributions
 
-* *Tecala*: Did something really important.
+* *Canadensys*: We have started using uuid for new collections.
+
+* *Colombia*: Data curation in more than 1 million of occurrences published through GBIF Colombia using work routines with Google Refine.
+
+* *Germany*: In cooperation with CETAF member institutions: semantic enrichment of linked open (specimen) data published via CETAF IDs (see https://doi.org/10.1038/546033d). 
+The Botanical Node continues to support the AnnoSys system for structured annotation of individual specimens, which is accessible via 13 biodiversity data portals.
+
+* *iDigBio*: iDigBio continues to refine its GitHub workflow for maintaining its collections catalog.
+
+* *Mexico*: Tools for data cleaning and assessment taxonomic and geographic data.
+
+* *Spain*: We released new version of Elysia, software application to manage natural history collections developed by GBIF.ES, with new features and improvements such us as a more direct process to export collection’s data from Elysia to the Darwin Core standard. Elysia is also available in English.
 
 ==== 2020 Work items
 
@@ -23,7 +34,23 @@ A pilot handle-based server was deployed demonstrating GBIF infrastructure is ca
 
 ===== 2020 Participant plans
 
-* *Tecala*: Do something big.
+* *Argentina*: Develop strategy and support mechanisms for expert communities to curate sections of GBIF data
+
+* *Canada*: Implementation of data annotation and attribution services in the DINA  Collection Management System currently under development.
+
+* *Canadensys*: We will continue to use uuid or other identifier using GBIF's recommendations.
+
+* *Germany*: Further promotion of CETAF Identifiers and semantic enrichment activities. Continued support and promotion of AnnoSys. 
+
+* *iDigBio*: iDigBio will be continuing to streamline its collections catalog and data mobilization workflows.
+
+* *International Centre for Integrated Mountain Development*: Enhancing data quality of Herbarium Specimens and museum collections- regional training for HKH member countries. ** Need to explore possible collaborations with Chinese Academy of Science and other Asian Node member countries.
+
+* *Naturalis Biodiversity Center*: Naturalis will lead on ELViS development that will enable data curation in collections for loans, visits and digitisation on demand in DiSSCo.
+
+* *Norway*: GBIF Norway aims to maintain, and further improve, a machine-readable persistent identifier (PID) resolver for as many entities as we have resources to cover within the Norwegian data streams to GBIF. Dependent of continued stable funding, we aim to provide machine actionable data annotation services from this service (see also activity 2a, 3b and 4b).
+
+* *Spain*: Promoting the use of Elysia out of our national borders.
 
 ==== Rationale
 
