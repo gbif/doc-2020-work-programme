@@ -65,8 +65,6 @@ iDigBio is planning a second annual iDigTRiO Biology Conference and Fair for Feb
 
 * *Japan*: Provide one workshop to expand the GBIF-related biodiversity informatics community. 
 
-* *Mexico*:
-
 * *Naturalis Biodiversity Center*: Naturalis plans to implement augmented user profiles based on ORCID in ELViS, to be developed in SYNTHESYS+
 
 
