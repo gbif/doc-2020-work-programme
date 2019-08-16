@@ -13,7 +13,38 @@ Identifiers have been used over the years by the community and are referenced in
 
 ===== 2019 Participant contributions
 
-* *Tecala*: Did something really important.
+* *Argentina*: Since 2003 Argentina have a catalog of institutions and collections and keeps growing.
+
+* *Benin*: Three metadata have been published in the framework of our joint CESP project with GBIF France
+1- Inventaire et dénombrement des oiseaux du Parc Naturel Communautaire de la Vallée du Sitatunga (Sud Bénin)
+https://www.gbif.org/dataset/3194e21c-447a-410d-bb09-31398482de1f
+2- List of plant species of forest formation in Benin 
+https://www.gbif.org/dataset/d882e391-10f9-43f6-b0f9-29636396ba9e
+3- Inventory of plant species produced in CERF nurseries
+https://www.gbif.org/dataset/f7598557-adb5-4827-9c28-8025da802dc4 
+
+* *Canada*: CBIF staff contribute to the Collections Description standard.
+
+* *Canadensys*: Metadata on Canadian collections are relatively up to date on the Canadensys website (through the IPT and the ALA framework)
+
+* *iDigBio*: Several iDigBio staff are involved with the Natural Collections Description (NCD) group.
+iDigBio maintains a comprehensive list of known biodiversity collections in the United States.
+
+* *Japan*: Preliminary questionnaire provided to data providers for future stock of data.
+
+* *Mexico*: Colecciones Biológicas científicas Mexicanas” www.biodiversidad.gob.mx/especies/colecciones/ is a web portal with 747 metadata of scientific Mexican collections in 237 national institutions. The collection metadata was depeloped with standard international Natural Collections Description (NCD).
+
+* *Naturalis Biodiversity Center*: Naturalis led the development of the DiSSCo Prepare proposal which includes preparations towards a catalogue of the European collections. As part of a project financed by the Dutch research council (NWO, ALWIN.005), Naturalis together with NLBIF, and the foundation for Dutch Natural History Collections has created a collections dashboard for the Netherlands. This dashboard is the first online representation of the natural history collections in the Netherlands that are digitized as well as not yet digitized. The dashboard will be published in the country page of DiSSCo.eu and NLBIF.nl.
+
+* *Netherlands*: NLBIF is part of TDWG NCD that furthers the CD (Collection Description) standard https://www.tdwg.org/community/cd/ to describe natural history collections. A preliminary standard has been implemented in a dashboard that shows the Dutch national collection as part of the NLBIF activities under DiSSCo-NL.
+
+* *Spain*: We maintain, improve and keep updated the Spanish registry of biodiversity collections and databases that currently hosts 230 institutions and 471 collections/databases. This metadata repository is a first step for data mobilization and it as available at https://www.gbif.es/registro-instituciones/.
+
+* *Sweden*: In collaboration between The Swedish Museum of Natural History GBIF-Sweden runs the development of a web-based collection management system (DINA web). 
+
+* *Switzerland*: Contribution to the report of the Swiss Acadamy of Sciences : National significance of natural history collections in Switzerland.
+
+* *United States*: Continued significant investment and contribution from ABCD, iDigBio including hosting an annual conference and working directly with collection managers.
 
 ==== 2020 Work items
 
@@ -24,7 +55,26 @@ Identifiers have been used over the years by the community and are referenced in
 
 ===== 2020 Participant plans
 
-* *Tecala*: Do something really important.
+* *Argentina*: Keep working with our catalog and collaborate with the GRBio / GRSciColl initiative presented at GBIF.
+
+* *Canada*: CBIF will continue to contribute to the Collections Description standard.
+
+* *Canadensys*: If needed, we can help review and update information about Canadian Collections on the Global Register of Biodiversity Collections (GRBio)/Global Register of Scientific Collections (GRSciColl) dataset. We will maintain the collections' metadata up-to-date on Canadensys.
+
+* *Germany*:
+* *iDigBio*: iDigBio will continue to support the Natural Collections Description (NCD) group. iDigBio will continue maintaining its list of U.S. collections. Ultimately, iDigBio’s goal is to integrate this list with the result from the GBIF/GRBio/GRSciColl collaboration.
+
+* *Japan*: Evaluation of questionnaire to know/analyses the status. 
+
+* *Naturalis Biodiversity Center*: Naturalis is planning to establish a proto-version of the future DiSSCo collections catalogue and is investigating to use GBIF as one of the authoritative sources of data. For the catalogue a minimum information specification for collections (MICS) needs to be developed in conjunction with work on the TDWG CD standard and based on the work already done in ICEDIG.
+
+* *South Africa*: The Natural Science Collections Facility, Funded by the Department of Science and Technology plays a key role in the development of catalogues for collections.
+
+* *Sweden*: Expanding DINA web to cover not only biological objects (insluding sequence data) but also paleontology and geology will continue in 2019.
+
+* *Switzerland*: Update of Swiss GRSciColl records. Promotion and support of collection metadata acquisition.
+
+* *United States*: ABCD, iDigBio to continue work in advancing and facilitating sharing of catalogue collections.
 
 ==== Rationale
 
