@@ -10,7 +10,16 @@ Continued consideration of recommendations from the Data Fitness for Use reports
 
 ===== 2019 Participant contributions
 
-* *Tecala*: Did something really important.
+* *Canadensys*: Answering the needs from our users and data holders, we have developed documentation for the Canadensys Explorer based on ALA framework, and for data-cleaning. We have also worked on translation of the GBIF website and some documentation for both GBIF and ALA.
+
+* *iDigBio*: iDigBio representatives participated in the Harnessing Natural History Collections Data workshop that led to the report released in April 2019. The report is entitled “Extending U.S. Biodiversity Collections to Promote Research and Education” and articulates a national vision to leverage digital data from biodiversity collections for novel and innovative uses.
+An iDigBio representative was appointed to the National Academies of Sciences, Engineering and Medicine committee investigating the value and future of biological collections. The committee will review how National Science Foundation-supported collections of organisms are used in research and education and how to maintain them so that they continue to benefit science and society in the future.
+
+* *Japan*: Documents and administrative process reviewed and refined to increase user-friendliness and efficience.
+
+* *Norway*: GBIF Norway maintained follow-up activities (with focus on Nordic and European crop wild relative communities) based on the recommendations from the 2016 fitness for use task group reports (see also activity 3a).
+
+* *United States*: Contributed feedback through Github and feedback mechanisms on the website to help identify needs of the communities we work with.
 
 ==== 2020 Work items
 
@@ -19,7 +28,15 @@ Continued consideration of recommendations from the Data Fitness for Use reports
 
 ===== 2020 Participant plans
 
-* *Tecala*: Do something big.
+* *Canadensys*: We will continue helping in the different translation project when needed, as well as creating documentation answering the needs of our users.
+
+* *iDigBio*: iDigBio has several workshops, webinars, symposia, and other events planned.
+
+* *Japan*: Periodical review of documents and administrative process.
+
+* *Netherlands*: The NLBIF node manager as Open Biodiversity Data Ambassador will document user needs for GBIF data wherever relevant. 
+
+* *Norway*: Dependent on continued and stable national funding for 2020, the wider Norwegian GBIF community will capture, document and improve the GBIF fitness for use in academic and applied research on ecological monitoring using the sampling event data model (see also activity 2a).
 
 ==== Rationale
 
