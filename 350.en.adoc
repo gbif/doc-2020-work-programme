@@ -15,7 +15,7 @@ The Secretariat has been involved at many organization levels (Steering Committe
 
 The Secretariat is developing standardized annual information requests based on the GBIF Strategic Plan and Implementation Plan structure aimed at capturing relevant updates and work plans from Participant nodes. The work is intended to improve the visibility of the GBIF Participants, and especially of the nodes, on GBIF.org and to better reflect the network as a whole, particularly with regard to the active contributions toward work programme implementation. 
 
-The _alliance for biodiversity knowledge_ was established as an outcome of the 2018 GBIC2 conference hosted by GBIF in Copenhagen. The Secretariat has reconstituted the GBIC2 steering committee as the steering committee for the alliance. In conjunction with external stakeholders, the Secretariat is developing a virtual workshop infrastructure and will be hosting the first of a series of virtual workshops under this infrastructure later in 2019. The Secretariat is also driving efforts to develop and disseminate alliance communication materials and to build expertise networks for managing virtual workshops and networking models.
+The _alliance_ for biodiversity knowledge was established as an outcome of the 2018 GBIC2 conference hosted by GBIF in Copenhagen. The Secretariat has reconstituted the GBIC2 steering committee as the steering committee for the _alliance_. In conjunction with external stakeholders, the Secretariat is developing a virtual workshop infrastructure and will be hosting the first of a series of virtual workshops under this infrastructure later in 2019. The Secretariat is also driving efforts to develop and disseminate _alliance_ communication materials and to build expertise networks for managing virtual workshops and networking models.
 
 ===== 2019 Participant contributions
 
@@ -25,9 +25,9 @@ The _alliance for biodiversity knowledge_ was established as an outcome of the 2
 
 * *Benin*: We advanced in data mobilization and data uses, we encouraged institutions to register on GBIF site so as to become more visible.
 
-* *Canada*: CBIF participated in the North American Nodes Meeting where discussions of ways to better coordinate regional, country and continental activities with GBIF plans took place. We currently also contribute to plan implementation through supporting the efforts of the HOD for SPNHC and TDWG (Dr. Macklin). Dr. Macklin is also the current Chair of TDWG and is working with GBIF to advance mutual goals in standards development and biodiversity informatics. We also contribute as a member of the Steering Committee (via TDWG) for Biodiversity_Next 2019, a critical forum for discussion of the goals of GBIF and the Alliance.
+* *Canada*: CBIF participated in the North American Nodes Meeting where discussions of ways to better coordinate regional, country and continental activities with GBIF plans took place. We currently also contribute to plan implementation through supporting the efforts of the HOD for SPNHC and TDWG (Dr. Macklin). Dr. Macklin is also the current Chair of TDWG and is working with GBIF to advance mutual goals in standards development and biodiversity informatics. We also contribute as a member of the Steering Committee (via TDWG) for Biodiversity_Next 2019, a critical forum for discussion of the goals of GBIF and the _alliance_.
 
-* *Canadensys*: Our team has helped in the translation of the documentation for the Alliance.
+* *Canadensys*: Our team has helped in the translation of the documentation for the _alliance_.
 
 * *France*: Co-organization with Norway of the EU nodes meeting in Oslo.
 Election of the new EU representative and Deputy.
@@ -42,7 +42,7 @@ Election of the new EU representative and Deputy.
 
 * *South Africa*: Strategic engagements/meetings between SANBI-GBIF Node Manager and South African Head of Delegation will continue in order to evolve the South African Node planning, and Africa portfolio of work and to elaborate the Science Diplomacy role SANBI-GBIF can play. Phase 2 (of national data platform) commenced in October 2018 (24 months), which looks at the implementation phase of the NBIS.
 
-* *Spain*: The GBIF.ES web page hosts activity reports from European Nodes that can be useful for other reporting activities Nodes. We have been trying to coordinate efforts on how to integrate EU Nodes services in the EOSC.  We have communicated the progress done by GBIF in developing a global alliance for biodiversity knowledge in our national context. 
+* *Spain*: The GBIF.ES web page hosts activity reports from European Nodes that can be useful for other reporting activities Nodes. We have been trying to coordinate efforts on how to integrate EU Nodes services in the EOSC.  We have communicated the progress done by GBIF in developing a global _alliance_ for biodiversity knowledge in our national context. 
 
 * *Sweden*: GBIF-Sweden has participated in regional meetings, and at conferences adding to the implementation of prescribed GBIF activities. By providing the 1st vice chair of the Nodes Steering Group, GBIF-Sweden contributes to leading the work of connecting interested world-wide.
 
@@ -50,8 +50,8 @@ Election of the new EU representative and Deputy.
 
 *	Convene SYNTHESYS+ workshops and integrate outcomes with relevant Work Programme activities.
 *	Continue implementation and refinement of the standardized annual information requests from Participant nodes and display up to date content on revised country pages of GBIF.org.
-*	Lead some and participate in all alliance for biodiversity knowledge virtual workshops that will be defined in key areas to increased alignment of GBIF with other networks and infrastructures. 
-*	Manage and improve the virtual conferences infrastructure used by the alliance for biodiversity knowledge. Work with steering committee on a governance structure and prioritizing the alliance efforts. Expand communication effort through conferences and the ambassador network (minimum €10,000). Provide technical, communication and administrative support for the alliance.
+*	Lead some and participate in all _alliance_ for biodiversity knowledge virtual workshops that will be defined in key areas to increased alignment of GBIF with other networks and infrastructures. 
+*	Manage and improve the virtual conferences infrastructure used by the _alliance_ for biodiversity knowledge. Work with steering committee on a governance structure and prioritizing the _alliance_ efforts. Expand communication effort through conferences and the ambassador network (minimum €10,000). Provide technical, communication and administrative support for the _alliance_.
 
 ===== 2020 Participant contributions
 
@@ -61,9 +61,9 @@ Election of the new EU representative and Deputy.
 
 * *Benin*: Capacity building, data mobilization, data uses
 
-* *Canada*: CBIF will continue to build on the progress made in 2019. We will also contribute through membership on the Steering Committee (via TDWG) for the Biodiversity Summit 2020 in Washington DC, a critical forum for discussion of the goals of GBIF and the Alliance.
+* *Canada*: CBIF will continue to build on the progress made in 2019. We will also contribute through membership on the Steering Committee (via TDWG) for the Biodiversity Summit 2020 in Washington DC, a critical forum for discussion of the goals of GBIF and the _alliance_.
 
-* *Canadensys*: We will continue to help and be involved in the Alliance as much as we can.
+* *Canadensys*: We will continue to help and be involved in the _alliance_ as much as we can.
 
 * *iDigBio*:iDigBio plans to continue attending, supporting, and/or hosting regional meetings in North America. iDigBio also plans to continue offering the annual Digital Data Conference as a venue for the regional meetings.
 
