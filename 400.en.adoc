@@ -33,8 +33,28 @@ Proposed SYNTHESYS+ workshops are to focus on modernizing standards activities t
 During 2019, the informatics team has continued the redesign and implementation of GBIF data ingestion pipelines. Data growth required significant changes to the backend to ensure GBIF can 1) continue to grow with data volume, 2) accommodate new feature deployments that require full data reprocessing, and 3) look to expand data content types.
 
 ===== 2019 Participant contributions
+ 
+* *Argentina*: Promote development of a shared domain model for sharing and linking all components of biodiversity information.
 
-* *Tecala*: Did something really important.
+* *Australia*: "Work is ongoing, and the Atlas continues to contribute to the work of the TDWG Biodiversity Data Quality Interest Group and Citizen Science Interest Group. The Atlas continues to be a seminal contributor to the international collaboration project which is developing and implementing the PPSR-Core data and metadata standard for citizen science. This project aims to provide a robust mechanism for data and metadata standardisation and exchange for the citizen science domain, which is also compatible with, and leverages, other existing standards and protocols.
+
+* *Canada*: CBIF plays an active role in developing, reviewing and implementing standards. Staff contribute to the Collections Description (CD) standard, DarwinCore, Taxon Concept Schema (TCS), Data quality and controlled vocabulary standards, annotation and attribution standards, genomic standards, and others. Dr. Macklin is the current chair of TDWG and is working closely with GBIF to insure alignment to GBIF requirements and to seek funding to further mutual work.
+
+* *Germany*: Two German GBIF Nodes finalised the new Version of the TDWG Standard ABCD (Access to biological collection data, https://abcd.tdwg.org/3.0/). The Botanical Node houses the technical Secretariat of the Global Genome Biodiversity Network, significantly contributing to standard development for DNA- and Tissue samples.
+
+* *iDigBio*: "Several representatives of iDigBio participated in the GBIC2 conference. iDigBio, GBIF, ALA, and DiSSCo are making a concerted effort to coordinate efforts. Several iDigBio staff are involved with the Natural Collections Description (NCD) group.
+
+* *Naturalis Biodiversity Center*: Naturalis participates in modernising data standards through TDWG and active participation in the TDWG CD taskgroup.
+
+* *Netherlands*: NLBIF is engaged in TDWG CD (Collection Description) which will likely feed into GrBio/GRSciColl which is adopted by GBIF. 
+
+* *Norway*: The wider Norwegian GBIF community contributed to the implementation of the sampling event data model for environmental monitoring and survey-based data with focus on national implementation while contributing to the international standardization process (see also activity 3b).
+
+* *Spain*: We have started to explore how to serve species information under the Plinian Core Standard in the Living Atlas platform. Involved in the TDWG Species Information Interest working group.
+
+* *Sweden*: Being part of a national research infrastructure for biodiversity data provisioning, GBIF-Sweden has started working on taxonomic and other data standards for various kinds of "new" data types (molecular data, tracking data, sensor data).
+
+* *United States*: Continued to advance sampling event with extended measurement or fact extension for documenting data associated with biological observations but not appropriate for occurrence only Darwin Core.
 
 ==== 2020 Work items
 
