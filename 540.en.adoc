@@ -12,7 +12,13 @@ In 2019, the focus is on the development of standard workflows and simple recomm
 
 ===== 2019 Participant contributions
 
-* *Tecala*: Did something really important.
+* *Canadensys*: Canadensys publishes on its IPT data, such as specimens consulted for taxonomic revisions and georeferenced observations used in other research, using doi’s that are included in peer reviewed publications.
+
+* *Colombia*: Continued support to Biota Colombiana with the data paper model, a national scientific journal. http://revistas.humboldt.org.co/index.php/biota
+
+* *iDigBio*: iDigBio began developing comprehensive citation guidance for data obtained from its portal. The draft citation guidance is available on the Data menu in the Beta Portal.
+
+* *South Africa*: SANBI-GBIF will integrate data paper publication within Bothalia - African Biodiversity and Conservation Journal
 
 ==== 2020 Work items
 
@@ -21,7 +27,9 @@ In 2019, the focus is on the development of standard workflows and simple recomm
 
 ===== 2020 Participant plans
 
-* *Tecala*: Do something big.
+* *Canadensys*: We will continue to use doi to link datasets and to keep track with the publications using data published on Canadensys.
+
+* *iDigBio*: iDigBio will continue to refine its citation guidance in response to feedback.
 
 ==== Rationale
 
