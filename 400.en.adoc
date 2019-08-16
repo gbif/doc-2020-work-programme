@@ -72,7 +72,30 @@ During 2019, the informatics team has continued the redesign and implementation 
 
 ===== 2020 Participant plans
 
-* *Tecala*: Do something big.
+* *Andorra*: It is little bit hard for us to contribute in improve the participation on Building of data stantards. Nevertherless we are open to addapt our data to the newest standars.
+
+* *Argentina*: Promote development of a shared domain model for sharing and linking all components of biodiversity information.
+
+* *Australia*: Align with international projects in establishing and using standardised tests and reporting.
+
+* *Belgium*: Help documenting a unified information model that covers the scope of GBIF content.
+
+* *Biodiversity Heritage Library*: Review options for implementing IIIF.
+
+* *Canada*: CBIF will continue to contribute to the standards work outlined in the 2019 progress report.
+
+* *Germany*: ABCD 3.0: German GBIF Nodes contribute to a new working group which aims to integrate ABCD and DarwinCore. Continued activities in GGBN. 
+
+* *iDigBio*: iDigBio will continue its integration and coordination efforts with GBIF, ALA, and DiSSCo. iDigBio will continue to support the Natural Collections Description (NCD) group.
+
+* *Naturalis Biodiversity Center*: DiSSCo seeks to join forces with GBIF and other infrastructures to work on interoperability standards for natural scienfic collections.
+Naturalis plans to revive the BD Integration IG in RDA and to involve the the GBIF community in rewriting the chapter to create recommendations for modernizing GBIF community data standards in a multidisciplinary setting.
+
+* *Netherlands*: Continue TDWG CD activities.
+
+* *Norway*: Dependent on continued stable funding for GBIF activities in Norway, GBIF Norway will contribute to modernize and expand the support in GBIF for new data types for genome and eDNA data linked to “material samples”; and data types for ecological data sets based on the “sampling event” model (see also Activity 3b).
+
+* *Sweden*: GBIF-Sweden will further work on taxonomic and other data standards for various kinds of "new" data types (molecular data, tracking data, sensor data).
 
 ==== Rationale
 
