@@ -15,6 +15,4 @@ The Implementation Plan is reviewed and refined each year.
 \\ insert flow chart \\
 
 The Implementation Plan is presented here with updates reflecting progress during 2019 and planned activities for 2020 (the 2020 Annual Work Programme).
-The Annual Work Programme 2020 is summarized below. The revised Implementation Plan begins on **page 18**.
-
-\\ add hyperlink in place of page ref \\
+The Annual Work Programme 2020 is summarized below, and the revised <<gbif_implementation_plan_2017_2021>> is here.
