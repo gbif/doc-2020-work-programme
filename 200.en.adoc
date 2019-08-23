@@ -1,6 +1,6 @@
 == GBIF Annual Work Programme 2020
 
-Information on activities planned for 2020 is included under each of the Activity sections included in the <<__gbif_implementation_plan_2017_2021>>.
+Information on activities planned for 2020 is included under each of the Activity sections included in the <<_gbif_implementation_plan_2017_2021>>.
 
 For convenience, this information has also been collated as an <<_overview_of_2020_work_items>> of the items for which approval is sought from the Governing Board at GB26.
 
