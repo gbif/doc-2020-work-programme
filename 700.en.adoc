@@ -11,7 +11,9 @@
 
 ==== 2019 Progress
 
-The BioDATA project is a training programme for higher-education students from Tajikistan, Belarus, Ukraine, and Armenia that offers an intensive course of study leading to their certification in biodiversity data management. Launched in 2018 and running through 2021, the Finnish-funded programme has already engaged 23 volunteer mentors and is training half of the programme’s planned 64 students on GBIF publishing and data skills by the end of 2019. Altay State University, supported by a GBIFS letter, received funding to integrate GBIF and data education in regular biology training for the BSc and MSc programme, with 70 students expected to take part each year.
+The BioDATA project is a training programme for higher-education students from Tajikistan, Belarus, Ukraine, and Armenia that offers an intensive course of study leading to their certification in biodiversity data management. Launched in 2018 and running through 2021, the Norwegian-funded programme has already engaged 23 volunteer mentors and is training half of the programme’s planned 64 students on GBIF publishing and data skills by the end of 2019. The project received high scores and maximum funding and therefore expanded to train additional peeople in the target region: 2 participants from Kyrgyzstan and 2 from Uzbekistan joined the Dushanbe training, and 2 from Moldova are confirmed for the 2019 training in Minsk.
+
+In Russia, Altay State University, supported by a GBIFS letter, received competitive funding to integrate GBIF and data education in regular biology training for the BSc and MSc programme, with 70 students expected to take part each year. As ASU is already a holder of a similar grant, implementation delayed until 2020, and links to TDWG curriculum group are encouraged.
 
 ===== 2019 Participant contributions
 
