@@ -4,7 +4,7 @@
 :numbered:
 :revnumber: {git-metadata-sha-short}
 :revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
-:title-logo-image: img/es.header-cover-figure.jpg
+:title-logo-image: img/logo-gbif.svg
 :icons: font
 :pagenums:
 :license: https://creativecommons.org/licenses/by/4.0
