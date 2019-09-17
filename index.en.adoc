@@ -2,8 +2,8 @@
 :toc: left
 :toclevels: 2
 :numbered:
-:revnumber: {git-metadata-sha-short}
-:revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
+:revnumber: 1
+:revdate: {git-metadata-date}
 :title-logo-image: img/logo-gbif.svg
 :icons: font
 :pagenums:
