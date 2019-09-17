@@ -15,8 +15,11 @@ Scenario 2 differs from the submitted budget in the following ways.  It also ass
 |=== 
 | Scenario | Baseline (#1) | Optimistic (#2)
 
-| Income assumptions | Participants pay at a similar level | Modifications from Baseline +
+^| Income assumptions 
+^| Participants pay at a similar level 
+^| Modifications from Baseline +
 Additional Voting Participants or Supplementary funds €320K/year
+
 | WP expenditure 
 >| €413,000 
 >| €660,000
