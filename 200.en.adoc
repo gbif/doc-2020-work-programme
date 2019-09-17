@@ -6,7 +6,7 @@ For convenience, this information has also been collated as an <<_overview_of_20
 
 === Financial situation
 
-The Secretariat estimates a carry-over of €992,558 at the beginning of 2020. This amount is smaller than the carry-over from 2018 (€1,556,714) due primarily to requested increase in 2019 spending on external contracts and workshop (€719.000) in the work programme. Given the level of capital held by GBIF and the uncertainty of contributions, the 2020 budget includes a smaller allocation (€413,000) for contracted activities in the work programme expenditure (i.e. non-salary costs allocated to calls, workshops, contracts, etc.) than proposed for 2019 at GB25, and €300,000 less than the actual 2019 spend after budget revisions. Staffing levels do not change in the 2020 budget. The planned expenditure for 2020 is €483,806 greater than the income projected in the budget. This is considered to represent a responsible balance between advancing GBIF’s mission and reserving some funds against future risks (€508,752 net capital forecast for the end of 2020).
+The Secretariat estimates a carry-over of €992,558 at the beginning of 2020. This amount is smaller than the carry-over from 2018 (€1,556,714) due primarily to requested increase in 2019 spending on external contracts and workshop (€719.000) in the work programme. Given the level of capital held by GBIF and the uncertainty of contributions, the 2020 budget includes a smaller allocation (€413,000) for contracted activities in the work programme expenditure (i.e. non-salary costs allocated to calls, workshops, contracts, etc.) than proposed for 2019 at GB25, and €300,000 less than the actual 2019 spend after budget revisions. Staffing levels do not change in the 2020 budget. The planned expenditure for 2020 is €471,806 greater than the income projected in the budget. This is considered to represent a responsible balance between advancing GBIF’s mission and reserving some funds against future risks (€520,752 net capital forecast for the end of 2020).
 
 This budget narrative also includes a second scenario that considers a brighter financial situation. It outlines priority areas of spending on contracted and workshop activities that would be submitted in subsequent 2020 budget revisions, should conditions allow. 
 
@@ -14,8 +14,6 @@ Scenario 2 differs from the submitted budget in the following ways.  It also ass
 
 \\ insert budget table \\
 === Secretariat staffing
-
-Grouped by department
 
 === Planned expenditure
 
