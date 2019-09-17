@@ -4,7 +4,7 @@ This document serves both as the 2020 revision of the GBIF Implementation Plan f
 
 The relationship between these documents is represented by the following graphic.
 
-The [Strategic Plan](https://www.gbif.org/strategic-plan) (agreed in 2015 at GB22) established five priorities for GBIF’s work.
+The https://www.gbif.org/strategic-plan[Strategic Plan] (agreed in 2015 at GB22) established five priorities for GBIF’s work.
 
 The Implementation Plan presented here in this document identifies 22 activities which GBIF must undertake to address these priorities during the five-year period (and a set of specific tasks under each activity).
 
