@@ -12,7 +12,7 @@ Each year, GBIF reviews progress against these activities and available resource
 
 The Implementation Plan is reviewed and refined each year.
 
-image::img/annual-flowchart.png
+image::img/annual-flowchart.png[]
 
 The Implementation Plan is presented here with updates reflecting progress during 2019 and planned activities for 2020 (the 2020 Annual Work Programme).
 The Annual Work Programme 2020 is summarized below, and the revised <<_gbif_implementation_plan_2017_2021>> is here.
