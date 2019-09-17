@@ -12,7 +12,15 @@ This budget narrative also includes a second scenario that considers a brighter 
 
 Scenario 2 differs from the submitted budget in the following ways.  It also assumes an additional €300,000 in external funds or increased contributions from voting participants. This budget includes €660,000 for contracted and workshop activities in the work programme expenditures. The planned expenditure under scenario 2 for 2020 is €409,940 greater than the income projected in the budget. This is also considered to represent a responsible balance between advancing GBIF’s mission and reserving some funds against future risks (€582,618 net capital forecast for the end of 2020).
 
-\\ insert budget table \\
+|=== 
+| Scenario | Baseline (#1) | Optimistic (#2)
+
+| Income assumptions | Participants pay at a similar level | Modifications from Baseline:<br />Additional Voting Participants or Supplementary funds €320K/year
+| WP expenditure | >€413,000 | >€660,000
+| 2020 reserve | >€520,752 | >€594,618
+
+|===
+
 === Secretariat staffing
 
 === Planned expenditure
