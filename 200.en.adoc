@@ -74,21 +74,16 @@ If funding allows, the Secretariat will request that the following items be inco
 *	Engage with academic based projects that use or could use better GBIF data in their pipelines and protocols. If funding allows hold a workshop to stimulate use (€25,000).
 *	Hackathon and workshop to align GBIF with post-2020 Biodiversity Framework (€40,000). The event would develop tools from CESP-CHM project to improve links to data from GBIF.
 
-==== External funds
-*	Based on a successful negotiation with EU DEVCO, the Secretariat will continue with a BID call for proposals.
-
 === Secretariat staffing
 
-Staff increases in recent years have enabled the Secretariat to maintain an increasing level of service. We currently have 27 staff (three of whom work part-time) and are in the process of recruiting an additional informatics position. In addition to the Director and Deputy Director, the Secretariat is now structured as four teams, as follows:
+Staffing levels will remain the same in 2020 with the  increases in recent years have enabled the Secretariat to maintain an increasing level of service. We currently have 27 staff (three of whom work part-time) and are in the process of recruiting an additional informatics position. In addition to the Director and Deputy Director, the Secretariat is now structured as four teams, as follows:
 
 * Participation and Engagement (seven staff)
 * Data Products (four staff)
 * Informatics (seven staff, one contractor, one additional staff position to be filled)
 * Administration (six staff, plus student support)
 
-All staff work towards accomplishing the goals of the five Priority Areas in the 2017-2021 Strategic Plan, with most staff working towards multiple areas. The Secretariat does not currently allocate salary to the Work Programme Priority budget areas. The 2020 budget Work Programme categories only represent non-salaried items such as external contracts and workshops. During 2019 our estimate of all staff work the across five Priority Areas is represented below.
-
-\\ insert chart of staff effort across work programme \\
+All staff work towards accomplishing the goals of the five Priority Areas in the 2017-2021 Strategic Plan, with most staff working towards multiple areas. 
 
 === Overview of 2020 Work Items
 
