@@ -15,7 +15,7 @@ It has now been 20 years since the OECD Megascience Forum recommended the establ
 
 * *Canadensys*: Anne Bruneau and Carole Sinou have been interviewed for the external review of GBIF.Did something really important.
 
-* *Colombia*: Use of GBIF API to incorporate in the  monthly reports citation of datasets by publishers.Example June: https://datastudio.google.com/u/0/reporting/1yqaSRnp8ANAjZ488CAg1Zlv_sAYQGPiS/page/Ge2V.
+* *Colombia*: Use of GBIF API to incorporate in the  monthly reports citation of datasets by publishers. Example June: https://datastudio.google.com/u/0/reporting/1yqaSRnp8ANAjZ488CAg1Zlv_sAYQGPiS/page/Ge2V.
 
 * *iDigBio*: iDigBioconducts an annual survey of its internal team as well as the collections community, broader scientific community, partners, stakeholders, and others interested in the national digitization effort. The survey is conducted to help track progress toward goals, identify community needs, solicit community feedback, and measure the impact of iDigBio’s activities. iDigBio tracks data use in literature and publishes graphs on its website showing publications resulting from ADBC funding.
 
@@ -23,11 +23,11 @@ It has now been 20 years since the OECD Megascience Forum recommended the establ
 
 * *Spain*: The Spanish Atlas has added DOI support for occurrence data downloads. It also downloads a file with providers that must be cited.
 
-* * Sweden*: At the national level GBIF-Sweden continuously evaluates impact.
+* *Sweden*: At the national level GBIF-Sweden continuously evaluates impact.
 
 ==== 2020 Work items
 
-*	Implement recommendations of the 20-year review and use it as a basis for the development of the next five-year strategic plan for the period 2022-2026.
+*	Implement recommendations of the 20-year review and use it as a basis for the development of the next five-year strategic plan for the period 2022–2026.
 *	Contract out study of use of GBIF-mediated data in the academic literature with a goal to identify areas of impact, links to research funding sources and networks of researchers. This information will be used to fine-tune GBIF value proposition message and align Work Programme to further impact (€20,000). 
 
 ==== 2020 Participant plans
@@ -37,7 +37,7 @@ iDigBio will continue to track and publish data use statistics.
 
 * *South Africa*: The efforts to reinforce the data-science-policy value chain through the ABC projects and the Foundational Biodiversity Information Programme of SANBI, will continue into 2019.
 
-* * Sweden*: At the national level GBIF-Sweden continuously evaluates impact.
+* *Sweden*: At the national level GBIF-Sweden continuously evaluates impact.
 
 ==== Rationale
 

@@ -19,26 +19,28 @@ The adoption of Operational Taxonomic Unit (OTU) identifiers from the UNITE fung
 
 * *Australia*: Continued work on improving access to the Australian checklists. These data are available now in darwin core archives to feed into Catalogue of Life plus.
 
-* *Benin*: "Many checklists have been published on medicinal plans and agroforestry species:
+* *Benin*: “Many checklists have been published on medicinal plans and agroforestry species:
 
 1. https://www.gbif.org/dataset/81a257d9-9522-410e-b921-8c9283dbb939
 2. https://www.gbif.org/dataset/6ac09c4d-bf7b-4e47-9c2d-f5abf6e89aa0
 3. https://www.gbif.org/dataset/dba21dbc-ea38-4bbf-b50f-ba3d256e1f73
 
++
 Many checklists published also concerned, invasive alien species and threatened species:
 
-1.	https://www.gbif.org/dataset/3d4ac01a-51a9-4ec9-8599-230a27e58758
-2.	https://www.gbif.org/dataset/de5e3fb2-3922-40ba-9773-e45a6850ffeb
-3.	https://www.gbif.org/dataset/0a20bf65-4c0f-42ce-b6e4-2218c0ea5833
+1. https://www.gbif.org/dataset/3d4ac01a-51a9-4ec9-8599-230a27e58758
+2. https://www.gbif.org/dataset/de5e3fb2-3922-40ba-9773-e45a6850ffeb
+3. https://www.gbif.org/dataset/0a20bf65-4c0f-42ce-b6e4-2218c0ea5833
 
 * *Biodiversity Heritage Library*: Participated in GlobalNames Workshop and Catalogue of Life Plus meetings.
 
 * *Canadensys*: The Canadensys team has maintained Vascan (https://data.canadensys.net/vascan/), the Database of Vascular Plants of Canada, which is used in the GBIF backbone, and is an important resource for biologists and botanists in Canada and elsewhere. Vascan continues to be actively curated and up to date based on recent publications.
 
-* *Colombia*: Publication and update of different national species checklists, supported by specialist groups and biological collections. Birds: https://ipt.biodiversidad.co/sib/resource?r=aco_listaavescolombia2017
-Mammals: https://ipt.biodiversidad.co/sib/resource?r=mamiferos_col
-Freshwater Fishes: https://ipt.biodiversidad.co/sib/resource?r=ictiofauna_colombiana_dulceacuicola
-Endangered species: https://ipt.biodiversidad.co/sib/resource?r=resolucion1912-2017mads.
+* *Colombia*: Publication and update of different national species checklists, supported by specialist groups and biological collections.
+** Birds: https://ipt.biodiversidad.co/sib/resource?r=aco_listaavescolombia2017
+** Mammals: https://ipt.biodiversidad.co/sib/resource?r=mamiferos_col
+** Freshwater Fishes: https://ipt.biodiversidad.co/sib/resource?r=ictiofauna_colombiana_dulceacuicola
+** Endangered species: https://ipt.biodiversidad.co/sib/resource?r=resolucion1912-2017mads.
 
 * *France*: Update of TAXREF, the French national checklist.
 
@@ -49,7 +51,7 @@ The global Caryophyllales Network is coordinated at the Botanical Node. It will 
 
 * *Japan*: Additional data and revision to be continued. Endangered Species (National and local in Japan) checking application to be developed.
 
-* *Mexico*: Consolidation of the first two national species lists for GBIF Mexican node: “Aves de México” and “Helmintos parásitos de vertebrados”. Publish in process through participation in CESP2018_011 ""Increasing capacities to develop National Species Checklists in the Latin America and the Caribbean Region"".
+* *Mexico*: Consolidation of the first two national species lists for GBIF Mexican node: “Aves de México” and “Helmintos parásitos de vertebrados”. Publish in process through participation in CESP2018_011 “Increasing capacities to develop National Species Checklists in the Latin America and the Caribbean Region”.
 Website snib.mx development include lists of species with distribution in Mexico for download. A total 102, 866 valid or accepted species and 8,543 valid or accepted infra species.
 
 * *Naturalis Biodiversity Center*: Naturalis is working together with GBIF and NLBIF to coordinate and carry out  work under the NLBIF-funded Catalogue of Life Plus (CoL+) project, led by Olaf Banki. The existing processes for constructing the monthly and annual Catalogue of Life checklists and for constructing the GBIF taxonomic backbone have been replaced with a single solution that delivers both products (together forming a “provisional checklist”). This new infrastructure is currently in beta testing and will be taken in production in 2019. The new infrastructure includes handling of existing GBIF checklistbank capabilities (registry integration, images, descriptions and the infrastructure has be developed to have updates to the provisional checklist being reflected directly in the GBIF data index and vice versa. Naturalis is working with Catalogue of Life to develope and increase participation of a a responsive expert community for the names infrastructure.

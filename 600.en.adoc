@@ -9,9 +9,9 @@
 
 ==== 2019 Progress
 
-The exploration of necessary steps to achieve CoreTrustSeal data repository certification is starting in Q4/2019. This includes the data management services within GBIF.org, but also seeks to identify a set of trusted repositories for publishing datasets within the GBIF network. 
+The exploration of necessary steps to achieve CoreTrustSeal data repository certification is starting in Q4 2019. This includes the data management services within GBIF.org, but also seeks to identify a set of trusted repositories for publishing datasets within the GBIF network. 
 
-Documentation for all stages in the GBIF data ingestion process to start Q3/Q42019, following deployment of the informatics infrastructure upgrade (pipelines project).
+Documentation for all stages in the GBIF data ingestion process to start Q3/Q4 2019, following deployment of the informatics infrastructure upgrade (pipelines project).
 
 ===== 2019 Participant contributions
 
@@ -19,7 +19,7 @@ Documentation for all stages in the GBIF data ingestion process to start Q3/Q420
 
 * *iDigBio*: iDigBio partnered with the Society of Herbarium Curators to conduct a Strategic Planning for Herbaria short course. The goal was to produce a strategic plan for each represented herbarium, including vision, mission, stakeholders, strategies, goals, objectives, evaluation, and sustainability, among other things. iDigBio has been working with the community on alternative data storage solutions, such as CyVerse.
 
-* *Mexico*:In process, mentoring and collaboration with UNIBIO-Instituto de Biología UNAM publisher for reactivate data publish and rescue orphaned datasets.
+* *Mexico*: In process, mentoring and collaboration with UNIBIO-Instituto de Biología UNAM publisher for reactivate data publish and rescue orphaned datasets.
 
 * *Norway*: GBIF Norway contributed to best practices guidelines and implementation of specimen-level DOIs in collaboration with the UN Food and Agriculture Organization in coordination with the GBIFS (see also activity 3a, 4b, and 5b).
 
@@ -33,7 +33,7 @@ Documentation for all stages in the GBIF data ingestion process to start Q3/Q420
 
 * *Canadensys*: We will follow the recommendations from GBIF in order to ensure data persistence. 
 
-* *iDigBio*: iDigBio is working to improve its data mobilization efforts and workflows, including moving towards IPT as the preferred publishing mechanism.iDigBio will continue to work with the community on alternative data storage solutions and strategies.
+* *iDigBio*: iDigBio is working to improve its data mobilization efforts and workflows, including moving towards IPT as the preferred publishing mechanism. iDigBio will continue to work with the community on alternative data storage solutions and strategies.
 
 * *Naturalis Biodiversity Center*: Persistant identifiers for specimen related data will be implemented in ELViS.
 

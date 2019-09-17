@@ -54,8 +54,8 @@ MetBaN (https://github.com/sproft/MetBaN/tree/v0.1.0) is a bioinformatic pipelin
 
 * *Biodiversity Heritage Library*: Review options for transcribing from within BHL.
 
-* *Germany*: "GFBio activities continue with the aim of ensuring the sustainability of the infrastructure.
-MetBan will be fully operable. In consultation with GGBN network partners, advance the integration of GGBN and GBIF with respect to DNA- and tissue samples. 
+* *Germany*: “GFBio activities continue with the aim of ensuring the sustainability of the infrastructure.
+MetBan will be fully operable. In consultation with GGBN network partners, advance the integration of GGBN and GBIF with respect to DNA and tissue samples. 
 
 * *Japan*: Seek for the data to be used in education (high school biology). 
 
@@ -63,7 +63,7 @@ MetBan will be fully operable. In consultation with GGBN network partners, advan
 
 * *Norway*: Dependent on continued stable research infrastructure funding for GBIF activities in Norway, GBIF Norway will mobilize and implement new data streams for genome, environmental DNA, and ecological data from Norwegian data publishers in GBIF (see also Activity 2a).
 
-* *South Africa*:iNaturalist platform being put in place for Southern Africa by SANBI-GBIF.  Also a Node of IBOL is being developed, by the South African community, with a catalytic meeting at the annual BIM-FBIP Forum.  This will facilitate the mobilisation of molecular data.
+* *South Africa*: iNaturalist platform being put in place for Southern Africa by SANBI-GBIF.  Also a Node of IBOL is being developed, by the South African community, with a catalytic meeting at the annual BIM-FBIP Forum.  This will facilitate the mobilisation of molecular data.
 
 * *Sweden*: GBIF-Sweden seeks to expand activities within the above mentioned fields of work in 2020.
 

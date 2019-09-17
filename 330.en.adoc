@@ -1,4 +1,4 @@
-=== Activity 1d - Equip data publishers
+=== Activity 1d: Equip data publishers
 
 ==== Tasks
 [lowerroman]
@@ -33,7 +33,7 @@ The Integrated Publishing Toolkit (IPT) is being maintained to deal with bug fix
 * *Germany*: Mobilising biodiversity data: By mid of 2019 more than 47 million occurrences within 35,000 datasets covering 252 countries and areas have been made available by 40 publishers from Germany. By end of 2019 occurrence data, especially for the vascular plants for Bavaria (“Flora von Bayern Initiative”) will be significantly extended and the dataset for German fungi will be updated. German GBIF-Nodes continue to develop the DCOLL initiative with the aim of digitising all German natural history collections (large-scale funding approval pending) and collaborate in the corresponding European Initiative (DiSSCo). 
 Continuous support for Data providers using the BioCASe software for data publishing in GBIF, Europeana, GGBN, and other special interest networks. Implementation of further routines for data quality control are implemented in the Diversity Workbench software suite and in JACQ.
 
-* *iDigBio*:As of the end of May 2019, iDigBio had approximately 71 datasets in various stages of mobilization. As part of our data mobilization efforts, iDigBio staff periodically provide IPT help, support, and training to data publishers. iDigBio partnered with Environmental Data Initiative (EDI), Earth Science Information Partners (ESIP), DataONE, GBIF, NEON and Arctic Data Center on a Data Help Desk at the 2019 meeting of the Ecological Society of America. The goal was to engage participants one-on-one about their questions, comments and concerns about using these data in their discipline and area of research.
+* *iDigBio*: As of the end of May 2019, iDigBio had approximately 71 datasets in various stages of mobilization. As part of our data mobilization efforts, iDigBio staff periodically provide IPT help, support, and training to data publishers. iDigBio partnered with Environmental Data Initiative (EDI), Earth Science Information Partners (ESIP), DataONE, GBIF, NEON and Arctic Data Center on a Data Help Desk at the 2019 meeting of the Ecological Society of America. The goal was to engage participants one-on-one about their questions, comments and concerns about using these data in their discipline and area of research.
 
 * *Japan*: New IPT server established, and started to provide data to GBIF. Tools to convert/check data from Excel to DwC provided.
 
@@ -49,7 +49,7 @@ GBIF Sweden assisted GBIF Norway with the assessment of proposals and selection 
 
 * *South Africa*: Strategic engagements/meetings between SANBI-GBIF Node Manager and South African Head of Delegation will continue in order to evolve the South African Node planning, and Africa portfolio of work and to elaborate the Science Diplomacy role SANBI-GBIF can play. Phase 2 (of national data platform) commenced in October 2018 (24 months), which looks at the implementation phase of the NBIS.
 
-* *Spain*: We are using our IPT installation in test mode to help other Nodes and providers in the data publication process.* 
+* *Spain*: We are using our IPT installation in test mode to help other Nodes and providers in the data publication process.
 
 * *Sweden*: GBIF-Sweden hosts IPT installations of successively more data providers nationally.
 

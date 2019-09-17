@@ -27,7 +27,7 @@ During 2019, Angola and Belarus joined the community as Associate Participants, 
 * *France*: Help for French translations: GBIF.org, workshop materials
 Co-organised with Norway and the NSG chairs, invitation of the project leader of a Balkan project and few observers of Balkan and eastern countries to the EU nodes meeting in Oslo, Norway (may 2019).
 
-* *Germany*:[National and International] German GBIF Node institutions are participating in numerous international collaborations and are constantly promoting participation in countries that have not yet joined GBIF. 
+* *Germany*: [National and International] German GBIF Node institutions are participating in numerous international collaborations and are constantly promoting participation in countries that have not yet joined GBIF. 
 
 * *iDigBio*: The iDigBio Node Manager currently serves as the Regional Representative for participant nodes in North America.iDigBio has a leadership role with the Biodiversity Collections Network (BCoN), which aims to expand the efforts of the NSF Advancing Digitization of Biodiversity Collections (ADBC) program. iDigBio will be hosting the annual ADBC Summit in October 2019, which brings together representatives from NSF’s Advancing Digitization of Biodiversity Collections (ADBC) program.
 
@@ -65,7 +65,7 @@ NLBIF has funded a project aimed at connecting the Ukrainian UkrBin data http://
 
 * *Consortium of European Taxonomic Facilities*:
 
-* *France*:translations to be continued
+* *France*: Translations to be continued
 
 * *Germany*: Continued promotion of GBIF in national and international initiatives. 
 

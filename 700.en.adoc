@@ -62,9 +62,9 @@ As part of a project financed by the Dutch research council (NWO, ALWIN.005), Na
 
 * *France*: Participations to master and doctoral modules to be continued.
 
-* *iDigBio*: "iDigBio will host the 2020 Digital Data Conference at Indiana University, Bloomington. iDigBio will continue to facilitate guest blogs on its website. iDigBio is planning a 2020 Biodiversity Summit, which will be a collaborative meeting of the ADBC community, GBIF governing board, TDWG, and the National Museum of Natural History (Smithsonian). The meeting will feature the evolution and accomplishments of specimen-based science and the impact of digitization. This international event will be an excellent opportunity to highlight to a global audience the excellent work that our ADBC community is doing on behalf of U.S. collections.
+* *iDigBio*: “iDigBio will host the 2020 Digital Data Conference at Indiana University, Bloomington. iDigBio will continue to facilitate guest blogs on its website. iDigBio is planning a 2020 Biodiversity Summit, which will be a collaborative meeting of the ADBC community, GBIF governing board, TDWG, and the National Museum of Natural History (Smithsonian). The meeting will feature the evolution and accomplishments of specimen-based science and the impact of digitization. This international event will be an excellent opportunity to highlight to a global audience the excellent work that our ADBC community is doing on behalf of U.S. collections.
 
-* *International Centre for Integrated Mountain Development*: Publication of Data Paper / Use of GBIF-mediated biodiversity data – with partners. (Birds diversity in the HKH )  
+* *International Centre for Integrated Mountain Development*: Publication of Data Paper / Use of GBIF-mediated biodiversity data – with partners. (Birds diversity in the HKH)  
 
 * *Japan*: Continue to increase numbers of data from Japan.
 

@@ -1,6 +1,6 @@
 == Overview
 
-This document serves both as the 2020 revision of the GBIF Implementation Plan for the period 2017-2021 and also as the GBIF Annual Work Programme 2020. Both elements are based upon the GBIF Strategic Plan for 2017-2021.
+This document serves both as the 2020 revision of the GBIF Implementation Plan for the period 2017–2021 and also as the GBIF Annual Work Programme 2020. Both elements are based upon the GBIF Strategic Plan for 2017–2021.
 
 The relationship between these documents is represented by the following graphic.
 

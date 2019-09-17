@@ -47,7 +47,7 @@ The Secretariat has established a community-based Documentation Editorial Panel,
 * *Canadensys*: Canadensys, in partnership with iDigBio and GBIF Spain, and partially funded by the CESP program, has developed a series of workshops in Canada in order to strengthen the stakeholders knowledge about data mobilization, data cleaning and data-use. These workshops have been focused on the region, but  the documentation developed can be easily adapted and reused outside North America. The documentation is available in both English and French.
 
 * *Colombia*: Biodiversity Data Publication Training Workshop: This workshop provided information and training for publishing biodiversity data through SiB Colombia and GBIF online platforms. The workshop took place on November 30, 2019 at Corporación Autónoma Regional del Risaralda, Quindío. The objective of the workshop was to support GBIF-Colombia’s partners (particularly envirnmental authorities and ONG) achieving greater visibility at the national and international level publishing biodiversity data.
-A total of 15 participants attended the workshop. Through the workshop aims, participants were informed on the recent activities of GBIF Colombia and the importance of biodiversity data publishing. Participants were invited to keep supporting GBIF-Colombia in its ongoing and future activities. https://sibcolombia.net/taller-sirap/ Biodiversity Data Publication Training Workshop: This workshop provided information and training for publishing biodiversity data through SiB Colombia and GBIF online platforms. The workshop took place on April 24-26, 2019 at Universidad Industrial de Santander, Bucaramanga. The objective of the workshop was to support GBIF-Colombia’s partners (particularly biological collections) achieving greater visibility at the national and international level publishing biodiversity data. A total of 23 participants attended the workshop. Through the workshop aims, participants were informed on the recent activities of GBIF Colombia and the importance of biodiversity data publishing. Participants were invited to keep supporting GBIF-Colombia in its ongoing and future activities. https://sibcolombia.net/taller-uis-2019/ .
+A total of 15 participants attended the workshop. Through the workshop aims, participants were informed on the recent activities of GBIF Colombia and the importance of biodiversity data publishing. Participants were invited to keep supporting GBIF-Colombia in its ongoing and future activities. https://sibcolombia.net/taller-sirap/ Biodiversity Data Publication Training Workshop: This workshop provided information and training for publishing biodiversity data through SiB Colombia and GBIF online platforms. The workshop took place on April 24–26, 2019 at Universidad Industrial de Santander, Bucaramanga. The objective of the workshop was to support GBIF-Colombia’s partners (particularly biological collections) achieving greater visibility at the national and international level publishing biodiversity data. A total of 23 participants attended the workshop. Through the workshop aims, participants were informed on the recent activities of GBIF Colombia and the importance of biodiversity data publishing. Participants were invited to keep supporting GBIF-Colombia in its ongoing and future activities. https://sibcolombia.net/taller-uis-2019/.
 
 * *France*: GBIF France supplied trainers and mentors for workshops organized by GBIF during 2019 under BID and BIFA for capacity enhancement in data publishing and use. Togo and France : Implementation of a capacity enhancement project to increase the online presence of GBIF Togo. Designing a dedicated, dynamic online site, devoted to biodiversity and news from Togo, based on ALA tools.
 
@@ -55,14 +55,14 @@ A total of 15 participants attended the workshop. Through the workshop aims, par
 
 * *Japan*: Provided two workshop for data carpentry and GBIF/S-Net website use.
 
-* *Mexico*: Development website snib.mx for accesing and download occurrences data  and national list of species with distribution in Mexico.Preparation tutorials for use geoportal.conabio.gob.mx it is a geographical portal with thematic maps and occurrences maps.
-In process, collaboration CESP2018_011 ""Increasing capacities to develop National Species Checklists in the Latin America and the Caribbean Region""  with the publish “Aves de México” and “Helmintos parásitos de vertebrados” national list of Mexican species.
+* *Mexico*: Development website snib.mx for accesing and download occurrences data  and national list of species with distribution in Mexico. Preparation tutorials for use geoportal.conabio.gob.mx it is a geographical portal with thematic maps and occurrences maps.
+In process, collaboration CESP2018_011 “Increasing capacities to develop National Species Checklists in the Latin America and the Caribbean Region”  with the publish “Aves de México” and “Helmintos parásitos de vertebrados” national list of Mexican species.
 
 * *Naturalis Biodiversity Center*: Naturalis contributed to training and capacity enhancement activities using GBIF training materials in the COST Action MOBILISE.
 
 * *Netherlands*: NLBIF has motivated data providers to take more responsibility for their data and manage their data on the NLBIF IPT or start hosting their own IPT.
 
-* *Norway*:BioDATA is a three-year project (2018-2021) managed by GBIF Norway in collaboration with the Norwegian Research School in Biosystematics (ForBio) and the GBIF Secretariat, that is funded by the Norwegian Agency for International Cooperation and Quality Enhancement in Higher Education (DIKU). BioDATA build biodiversity data management skills across the former Soviet Union region and includes partners, students, and training events in Belarus, Tajikistan, Armenia, Ukraine and Norway (see also Activity 1e). BioDATA is reusing GBIF BID training materials and have completed the translation of the training curriculum to Russian together with the GBIF.ru team. A light-weight Raspberry Pi IPT server was developed for BioDATA training purposes at venues with unstable and low bandwidth Internet connections (See also activity 1e and 3b).
+* *Norway*: BioDATA is a three-year project (2018–2021) managed by GBIF Norway in collaboration with the Norwegian Research School in Biosystematics (ForBio) and the GBIF Secretariat, that is funded by the Norwegian Agency for International Cooperation and Quality Enhancement in Higher Education (DIKU). BioDATA build biodiversity data management skills across the former Soviet Union region and includes partners, students, and training events in Belarus, Tajikistan, Armenia, Ukraine and Norway (see also Activity 1e). BioDATA is reusing GBIF BID training materials and have completed the translation of the training curriculum to Russian together with the GBIF.ru team. A light-weight Raspberry Pi IPT server was developed for BioDATA training purposes at venues with unstable and low bandwidth Internet connections (See also activity 1e and 3b).
 
 * *South Africa*: SANBI-GBIF is recruiting a Biodiversity Informatics Support Officer to support training and engagement portfolio of work. This will support national and regional efforts and tie into GBIF helpdesk requirements as needed.
 
@@ -72,7 +72,7 @@ In process, collaboration CESP2018_011 ""Increasing capacities to develop Nation
 
 * *United States*: Contributed to Marine Biodiversity Observation Network Pole to Pole workshop to train Central and South American country representatives in aligning data to Darwin Core and sharing via IPT.
 
-* *Zimbabwe*: Trained stakeholders (data holders and data users) on GBIF data access - January 2019.
+* *Zimbabwe*: Trained stakeholders (data holders and data users) on GBIF data access – January 2019.
 
 ==== 2020 Work items
 
@@ -90,7 +90,7 @@ In process, collaboration CESP2018_011 ""Increasing capacities to develop Nation
 
 * *Belgium*: Complete set of explainer texts in multiple languages: French and Dutch translations.
 
-* *Benin*: "Capacity building through workshops and in the framework of the master program in biodiversity informatics Data mobilization Data uses.
+* *Benin*: “Capacity building through workshops and in the framework of the master program in biodiversity informatics Data mobilization Data uses.
 
 * *Canadensys*: Canadensys will continue to work on developing the documentation about data-cleaning, publication and data-use. This documentation will be published on our community page (https://community.canadensys.net/) but will be available to reuse for other institutions or nodes. This documentation will probably be published as short blog post on specific topics.
 
@@ -104,7 +104,7 @@ In process, collaboration CESP2018_011 ""Increasing capacities to develop Nation
 
 * *Netherlands*: The 2019 activities on 1b will be continued.
 
-* *Norway*:BioDATA will during 2020 organize data mobilization training events in Armenia (April 2020) and in Ukraine (October 2020).
+* *Norway*: BioDATA will during 2020 organize data mobilization training events in Armenia (April 2020) and in Ukraine (October 2020).
 
 * *South Africa*: SANBI-GBIF will continue to conduct training workshops and develop communities of practice in identified biodiversity informatics areas.
 

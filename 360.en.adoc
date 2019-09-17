@@ -49,7 +49,7 @@ Strong engagement also in CETAF, GGBN and BioCASE.
 
 * *Netherlands*: Evaluated CESP 2019 call.
 
-* *South Africa*: Further engagement with regards to funding allocation will continue. The Africa Coordination Mechanism (ACM) 5 year strategy is seen as a catalytic investment. Sustainability will be built into the 1st phase, so there will be less concern about what happens subsequently, as this would have been built into the model. The ACM Business Case and Regional Engagement Strategy is a model that could be adopted in other regions of the world. In the 1st three years, through the ACM, GBIF-Africa, through SANBI-GBIF will explore the need and feasibility of developing a bigger platform that can provide for a strengthening of a community of practice for all African biodiversity informatics initiatives, to enhance and make more efficient use of the data. This will be done through leveraging additional regional and global partnerships and initiatives. Data mobilisation funding through FBIP large and small grants ± € 645 000 will continue in 2019. 4. ABC Prize money to be awarded in 2019.
+* *South Africa*: Further engagement with regards to funding allocation will continue. The Africa Coordination Mechanism (ACM) 5 year strategy is seen as a catalytic investment. Sustainability will be built into the 1st phase, so there will be less concern about what happens subsequently, as this would have been built into the model. The ACM Business Case and Regional Engagement Strategy is a model that could be adopted in other regions of the world. In the 1st three years, through the ACM, GBIF-Africa, through SANBI-GBIF will explore the need and feasibility of developing a bigger platform that can provide for a strengthening of a community of practice for all African biodiversity informatics initiatives, to enhance and make more efficient use of the data. This will be done through leveraging additional regional and global partnerships and initiatives. Data mobilisation funding through FBIP large and small grants ± €645,000 will continue in 2019. 4. ABC Prize money to be awarded in 2019.
 
 * *Sweden*: Contribution by staff participation in-kind at meetings, conference sessions, workshops etc. 
 
@@ -65,7 +65,7 @@ Strong engagement also in CETAF, GGBN and BioCASE.
 *	Develop and implement strategic plan for targeting external funding streams for capacity enhancement projects. This will be based on 2019 external consultation and using the results of BID Phase 1 closing meetings. If budget allows an additional (€22,000) will be allocated to this effort. The strategy will work with all GBIF regions to target potential funding streams that support additional capacity enhancement for data mobilization and use, building on the BID and BIFA models.
 *	Make refinements to the newly selected grant management system, FLUXX, to streamline project calls, assessment, selection, implementation, budgeting and reporting, to ensure it meets the needs of the community.
 *	Launch 2020 calls for the Ebbe Nielsen Challenge and Young Researchers Awards (€44,000), considering recommendations from the Science Committee based on the 2019 programmes. Explore the possibility of soliciting additional donor/sponsor co-funding.
-*	Begin Secretariat planning to establish a workflow using digital documentation to develop the 2021 work programme and 2022-2026 strategic plan. This planning will address the recommendations of the 2019 20-year review.
+*	Begin Secretariat planning to establish a workflow using digital documentation to develop the 2021 work programme and 2022–2026 strategic plan. This planning will address the recommendations of the 2019 20-year review.
 
 ===== 2020 Participant plans
 
@@ -77,20 +77,20 @@ Strong engagement also in CETAF, GGBN and BioCASE.
 
 * *Canadensys*: We will not lead a proposal for a CESP grant in 2020, but, depending on the needs, we could act as mentor in another proposal. We are also opened to act as mentor for a project in the BID program, but we do not have a project in mind currently.
 
-* *Consortium of European Taxonomic Facilities*:Participation in DiSSCo-related projects continues.
+* *Consortium of European Taxonomic Facilities*: Participation in DiSSCo-related projects continues.
 
-* *Germany*:Participation in DiSSCo-related projects, CETAF, GGBN and BioCASE continues.
+* *Germany*: Participation in DiSSCo-related projects, CETAF, GGBN and BioCASE continues.
 
 * *iDigBio*: iDigBio will continue its integration and coordination efforts with GBIF, ALA, and DiSSCo.
 
 * *Norway*: The GBIF CESP OpenPSD project developed by the GBIF Nodes from Spain, Portugal, Norway, Colombia, and France will engage and document best practices for mobilizing biodiversity data from the private sector (see also Activity 1d, 3b and 3c).
 All of the Nordic and Baltic GBIF nodes contribute to the Nordic-Baltic collaboration on e-infrastructures for Biodiversity Informatics (DeepDive2 project proposal) funded by the Nordic e-Infrastructure Collaboration (NeIC) of the Nordic Research Council (NordForsk) (see also Activity 2a, 2b, 3b, 4a, 4b and 4c).
 
-* *South Africa*: Develop funding strategies to support the Africa Coordinating Mechanism Business Case.  Continued data mobilisation funding through FBIP large and small grants of ± € 645 000 will continue in 2020. The ABC2 project has been approved by the JRS and will be initiated in 2019 and continue into 2020.  
+* *South Africa*: Develop funding strategies to support the Africa Coordinating Mechanism Business Case.  Continued data mobilisation funding through FBIP large and small grants of ± €645,000 will continue in 2020. The ABC2 project has been approved by the JRS and will be initiated in 2019 and continue into 2020.  
 
 * *Spain*: GBIF Spain will be involved in 3 CESP projects that will take place from June 2019 to June 2020. We will coordinate the OpenPSD CESP project to mobilize data from private sector. We will be available to help in the second phase of BID programme if this takes place.
 
-* *Sweden*: GBIF-Sweden will continue to contribute by offering opportunities for ist staff members to participate in coordinated activities aimed at expand the scale and scope of GBIF.
+* *Sweden*: GBIF-Sweden will continue to contribute by offering opportunities for its staff members to participate in coordinated activities aimed at expand the scale and scope of GBIF.
 
 * *Zimbabwe*: Implementation of CESP project.
 

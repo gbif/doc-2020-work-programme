@@ -14,7 +14,7 @@ Explored metadata-only dataset publication of the datasets proposed through http
 
 ===== 2019 Participant contributions
 
-* *Canadensys*: We have accepted to take care of orphan datasets from Canadian institutions currently published through outdated protocols (DiGir, Tapir) by CBIF. We are waiting for CBIF approval to start the ingestion process.
+* *Canadensys*: We have accepted to take care of orphan datasets from Canadian institutions currently published through outdated protocols (DiGIR, TaPIR) by CBIF. We are waiting for CBIF approval to start the ingestion process.
 
 * *Colombia*: Rescue of data dataset from Biota Colombiana Journal. Dataset before the implementation of data paper model. All datasets published through https://ipt.biodiversidad.co/iavh/
 

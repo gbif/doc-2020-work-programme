@@ -1,6 +1,7 @@
-== GBIF Implementation Plan 2017-2021
+[#_gbif_implementation_plan_2017_2021]
+== GBIF Implementation Plan 2017–2021
 
-The GBIF Strategic Plan 2017-2021 presents five broad overlapping priorities for the GBIF network. Each of these priorities sets a direction and guides activities for the coming period. This document here presents an Implementation Plan to enable the GBIF community as a whole to make significant progress in each priority area. It establishes the framework for GBIF’s Annual Work Programmes over the period of the Strategic Plan.
+The GBIF Strategic Plan 2017–2021 presents five broad overlapping priorities for the GBIF network. Each of these priorities sets a direction and guides activities for the coming period. This document here presents an Implementation Plan to enable the GBIF community as a whole to make significant progress in each priority area. It establishes the framework for GBIF’s Annual Work Programmes over the period of the Strategic Plan.
 
 The following notes provide context for the activities outlined here.
 
@@ -93,7 +94,7 @@ Please advise the Secretariat at the earliest possible opportunity of any such p
 
 === Implementation Plan Structure
 
-The Implementation Plan is structured around the five priorities identified in the GBIF Strategic Plan 2017-2021. These are presented here in reverse order from their sequence in the Strategic Plan, and numbered accordingly. This reordering allows the Implementation Plan to place its initial focus squarely on the global network of GBIF Participants and data publishers, building on these foundations to address in turn GBIF’s informatics, content mobilization, curation and delivered products.
+The Implementation Plan is structured around the five priorities identified in the GBIF Strategic Plan 2017–2021. These are presented here in reverse order from their sequence in the Strategic Plan, and numbered accordingly. This reordering allows the Implementation Plan to place its initial focus squarely on the global network of GBIF Participants and data publishers, building on these foundations to address in turn GBIF’s informatics, content mobilization, curation and delivered products.
 
 For each of the five priorities, the plan presents a series of numbered Activities. These are the major areas where GBIF needs to develop further in the coming period. A rationale and implementation approach is presented for each Activity.
 

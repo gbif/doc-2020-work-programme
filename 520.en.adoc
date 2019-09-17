@@ -27,30 +27,30 @@ An instance of BioCollect has been established in Queensland to support project-
 
 * *Canadensys*: Not directly in link with the items in the work program, but the workshops developed during the CESP program were intended to reach and engage data holders from Canada and the United States. Participation during more general events in Montréal have also helped engage citizens.
 
-* *Colombia*: "Work with the Colombian community of iNaturalist suppoting the City Natua Challenge 2019 in Bogotá and Medellín.
+* *Colombia*: “Work with the Colombian community of iNaturalist suppoting the City Natua Challenge 2019 in Bogotá and Medellín.
 https://sibcolombia.net/reto-naturalista-urbano-2019/
 https://www.inaturalist.org/blog/25956-colombia-inaturalist-world
 To June, 119 national organizations as data publishers through GBIF Colombia.
 
 * *Consortium of European Taxonomic Facilities*: The helpdesk offered by the BioCASe secretariat (which also functions as CETAF's participant node for GBIF) is consulting and assisting potential new data providers in the process of sharing their collection and observation data with GBIF. This explicitly includes providers from countries not yet participating in GBIF, such as Italy and Albania.
 
-* *France*: "Data publishing support to TOTAL Company Contribution to two CESP projects:
-- ""OpenPSD - Engage and promote the private sector in open biodiversity data publication”, lead by GBIF Spain
-- ""To use the CBD’s CHM infrastructure and network in order to strengthen biodiversity data acquisition and data sharing"", lead by the French Head of CHM  focal point (Denis Duclos, DREI, MNHN, Paris). 
+* *France*: “Data publishing support to TOTAL Company Contribution to two CESP projects:
+- “OpenPSD - Engage and promote the private sector in open biodiversity data publication”, lead by GBIF Spain
+- “To use the CBD’s CHM infrastructure and network in order to strengthen biodiversity data acquisition and data sharing”, lead by the French Head of CHM  focal point (Denis Duclos, DREI, MNHN, Paris). 
 
-* *Germany*: "A Workshop for German herbaria focussing on digitisation and data infrastructure was organised by the German Botanical Node. The Mycological Node organised training workshops for users of the Diversity Workbench software. 
+* *Germany*: “A Workshop for German herbaria focussing on digitisation and data infrastructure was organised by the German Botanical Node. The Mycological Node organised training workshops for users of the Diversity Workbench software. 
 
 * *iDigBio*: Data mobilization is a core activity of iDigBio, including reaching out to collections.
 
 * *Japan*: Expanded through meeting occasions.
 
-* *Mexico*:Increase data publishing to be continued, approximately 500, 000 more occurrences records. 
+* *Mexico*: Increase data publishing to be continued, approximately 500, 000 more occurrences records. 
 
 * *Naturalis Biodiversity Center*: DiSSCo applied to be come an other associate participant so it can engage its data holders to supply data to GBIF As part of a project financed by the Dutch research council (NWO, ALWIN.005), Naturalis together with NLBIF, and the Foundation for Dutch Natural History Collections have facilitated the signing of a declaration to work together on a Netherlands biodiversity information infrastructure. This declaration is signed by all members of the DiSSCo/NL consortium and the Foundation for Dutch Natural History Collections. The DiSSCo/NL consortium will be coordinated by NLBIF.
 
 * *Netherlands*: NLBIF, as DiSSCo-NL ntf lead has engaged with all Natural History Museums in the Netherlands to develop a National Collection Dashboard. In a follow up DiSSCo-NL partners will be supported to contribute their digitised collections to GBIF.
 
-* *South Africa*: SANBI-GBIF and the Systematics Division will implement the 2019 National Biodiversity Information Management and Foundational Biodiversity Information Management Forum (BIMF-FBIP Forum).SANBI-GBIF 2019 Training event will be conducted alongside the BIMF-FBIP Forum.SANBI-GBIF will conduct a national training event, which will also include regional representation, as well as trainers which form part of the GBIF mentors network. This will support the development of communities of practice in data management nationally and regionally and aligns with the objective to develop the Centre for Biodiversity Information Management.
+* *South Africa*: SANBI-GBIF and the Systematics Division will implement the 2019 National Biodiversity Information Management and Foundational Biodiversity Information Management Forum (BIMF-FBIP Forum).SANBI-GBIF 2019 Training event will be conducted alongside the BIMF-FBIP Forum. SANBI-GBIF will conduct a national training event, which will also include regional representation, as well as trainers which form part of the GBIF mentors network. This will support the development of communities of practice in data management nationally and regionally and aligns with the objective to develop the Centre for Biodiversity Information Management.
 
 * *Sweden*: GBIF-Sweden keeps searching for and approaching new potential data providers.
 
@@ -96,7 +96,7 @@ Explore funds to support students in the Central Department of Botany to mobiliz
 
 * *Sweden*: By approaching citizen science groups, researchers and management practitioners substantially more data and data types are going to be published in the coming years.
 
-* *Switzerland*:Ensure data publishing for all major collection-holding institutions of Switzerland. Continuation of efforts towards a partnership with collection holding and research institutions active in DNA sequencing (linkage of sequence data, DNA-samples and reference specimens). Collaboration with national biodiversity data centers in order to capture and use species trait data.
+* *Switzerland*: Ensure data publishing for all major collection-holding institutions of Switzerland. Continuation of efforts towards a partnership with collection holding and research institutions active in DNA sequencing (linkage of sequence data, DNA-samples and reference specimens). Collaboration with national biodiversity data centers in order to capture and use species trait data.
 
 * *Zimbabwe*: Capacity enhancement workshops e.g. Darwin core standards, data quality tools and IPT.
 

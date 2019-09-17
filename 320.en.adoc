@@ -1,4 +1,4 @@
-=== Activity 1c - Equip Participant nodes
+=== Activity 1c: Equip Participant nodes
 
 ==== Tasks
 
@@ -26,26 +26,26 @@ The GBIF network has initiated a programme creating a new role, the Biodiversity
 
 * *Argentina*: Capacity self-assessment ready, mentor to new nodes.
 
-* *Australia*: The Atlas assisted in the recruitment of two Living Atlas Coordinator.positions with GBIF's funding; a Technical and Administrative position. These positions will help develop the community further by organising the governance arrangements around the Atlas tools and improving support and documentation for nodes attempting to use the Atlas tools for their biodiversity informatics portals.
+* *Australia*: The Atlas assisted in the recruitment of two Living Atlas Coordinator positions with GBIF's funding; a Technical and Administrative position. These positions will help develop the community further by organising the governance arrangements around the Atlas tools and improving support and documentation for nodes attempting to use the Atlas tools for their biodiversity informatics portals.
 
 * *Benin*: In the framework of our master program, courses are being registered and will be provided to JRS Biodiversity Foundation, our donor. It will be then popularized and disseminated to be available for the general public.
 
-* *Canada*: CBIF is reviewing use cases and considering options for a new Canadian biodiversity portal. We participated in the workshop "Living Atlases workshop (CESP) 2019" held in Paris, France in April. CBIF participates in the Biodiversity Open Data Ambassador and has included GBIF materials in talks at conferences/meetings on biodiversity informatics topics. 
+* *Canada*: CBIF is reviewing use cases and considering options for a new Canadian biodiversity portal. We participated in the workshop “Living Atlases workshop (CESP) 2019” held in Paris, France in April. CBIF participates in the Biodiversity Open Data Ambassador and has included GBIF materials in talks at conferences/meetings on biodiversity informatics topics. 
 
 * *Canadensys*: Our node manager (Carole Sinou) is involved as a trainer in the BID and Global Nodes Training. The Canadensys team is also involved in the Living Atlases Community and Carole is part of the interim steering group. Anne Bruneau (HoD) and Carole will participate in the GB26 and Biodiversity_Next conference.
 
-* *Colombia*: Ventanas departamentales / Regional windows"": Starting from a need for regionalization of SiB Colombia that has been latent for some time, during the first quarter of 2019 the first instance to explore biodiversity at departmental level in the country was launched. The first department is Santander. This window is a tool for exploring the data and information available about a specific department and sow the seed to develop a very useful tool for decision-making and territorial management at the regional level, through appropriation, awareness and empowerment.Data repatriation: from September 2018, the SiB Colombia has been working in the data repatriation process to the national data portal. In the first quarter of 2019, we repatriate 3.773.350 occurrences from eBird, iNaturalist, Xeno-canto and GBIF.org (https://sibcolombia.net/integracion-datos-2018/). In the  third quarter we hope to support the hosting of a strategic GBIF dataset from CIAT - A global database for the distributions of crop wild relatives. https://doi.org/10.15468/jyrthk Participation in CESP: Increasing capacities to develop National Species Checklists in the Latin America and the Caribbean Region. 
+* *Colombia*: Ventanas departamentales / Regional windows: Starting from a need for regionalization of SiB Colombia that has been latent for some time, during the first quarter of 2019 the first instance to explore biodiversity at departmental level in the country was launched. The first department is Santander. This window is a tool for exploring the data and information available about a specific department and sow the seed to develop a very useful tool for decision-making and territorial management at the regional level, through appropriation, awareness and empowerment.Data repatriation: from September 2018, the SiB Colombia has been working in the data repatriation process to the national data portal. In the first quarter of 2019, we repatriate 3,773,350 occurrences from eBird, iNaturalist, Xeno-canto and GBIF.org (https://sibcolombia.net/integracion-datos-2018/). In the  third quarter we hope to support the hosting of a strategic GBIF dataset from CIAT - A global database for the distributions of crop wild relatives. https://doi.org/10.15468/jyrthk Participation in CESP: Increasing capacities to develop National Species Checklists in the Latin America and the Caribbean Region. 
 
-* *France*: GBIF France helped to developp a portal based on the ALA software for GBIF Togo. 
-GBIF France coordinated the CESP project : ""International Living Atlases workshop: how to improve data use with Atlas of Living Australia modules"" and co-organised with ALA the Paris workshop in April 2019. GBIF France will supply mentor for workshops organised by GBIF under BID and GNM on managing a GBIF participant node.
+* *France*: GBIF France helped to develop a portal based on the ALA software for GBIF Togo. 
+GBIF France coordinated the CESP project : “International Living Atlases workshop: how to improve data use with Atlas of Living Australia modules” and co-organised with ALA the Paris workshop in April 2019. GBIF France will supply mentor for workshops organised by GBIF under BID and GNM on managing a GBIF participant node.
 
 * *iDigBio*: iDigBio has been participating in the monthly GBIF webinars when feasible. If live participation was not possible, the recordings have been utilized. iDigBio will be participating in the Node Training at GB26.
 
-* *International Centre for Integrated Mountain Development*: "Joint organization of 2018 Global Biodiversity Information Facility (GBIF) Asia Regional Nodes Meeting in Kathmandu on 17-18 September 2018. (https://www.gbif.org/event/EEvUGytWxw48WQgkAwCkg/2018-gbif-asia-regional-nodes-meeting)Reactivated HKH-BIF  (re-registration with GBIF). Participated in GBIF Network Webinar#1: Understood some elements of sequenced based data mobilization, and received introduction on Biodiversity Information for Development and BIFA.
+* *International Centre for Integrated Mountain Development*: Joint organization of 2018 Global Biodiversity Information Facility (GBIF) Asia Regional Nodes Meeting in Kathmandu on 17–18 September 2018 (https://www.gbif.org/event/EEvUGytWxw48WQgkAwCkg/2018-gbif-asia-regional-nodes-meeting). Reactivated HKH-BIF (re-registration with GBIF). Participated in GBIF Network Webinar#1: Understood some elements of sequenced based data mobilization, and received introduction on Biodiversity Information for Development and BIFA.
 
 * *Japan*: Continuous improvement of S-Net system (domestic website for searching natural history specimens).
 
-* *Mexico*: Develop websites Enciclovida ( www.enciclovida.mx), SNIB´s geoportal (http://geoportal.conabio.gob.mx/) and SNIB (www.snib.mx)
+* *Mexico*: Develop websites Enciclovida (http://enciclovida.mx), SNIB's geoportal (http://geoportal.conabio.gob.mx/) and SNIB (http://www.snib.mx)
 
 * *Naturalis Biodiversity Center*: 
 
@@ -87,7 +87,7 @@ GBIF France coordinated the CESP project : ""International Living Atlases worksh
 
 * *Canadensys*: We will continue to be involved as much as we can in the different initiatives developed by GBIF. It is important to give back to the community as much as we can.
 
-* *Colombia*: Ventanas departamentales / Regional windows"": During the first quarter of 2020 will be released the version 1.1. The second department will be Boyacá. This window is a tool for exploring the data and information available about a specific department and sow the seed to develop a very useful tool for decision-making and territorial management at the regional level, through appropriation, awareness and empowerment. Data repatriation: Data repatriation of new occurrences between January - December 2019.
+* *Colombia*: Ventanas departamentales / Regional windows: During the first quarter of 2020 will be released the version 1.1. The second department will be Boyacá. This window is a tool for exploring the data and information available about a specific department and sow the seed to develop a very useful tool for decision-making and territorial management at the regional level, through appropriation, awareness and empowerment. Data repatriation: Data repatriation of new occurrences between January – December 2019.
 
 * *France*: GBIF France will continue to participate in the activities of the Living Atlases Community. 
 
@@ -95,7 +95,7 @@ GBIF France coordinated the CESP project : ""International Living Atlases worksh
 
 * *Japan*: Continuous improvement of S-Net system (domestic website for searching natural history specimens).
 
-* *Mexico*: "Continue to update data occurrences in published datasets. Continue to gather new occurrences for publish in Mexican node"
+* *Mexico*: “Continue to update data occurrences in published datasets. Continue to gather new occurrences for publish in Mexican node"
 
 * *Naturalis Biodiversity Center*: 
 
@@ -105,7 +105,7 @@ GBIF France coordinated the CESP project : ""International Living Atlases worksh
 
 * *Spain*: We will keep on supporting the Living Atlases community: support coordinators to find a model of governance for the community; assist other data managers of the different Atlas around the world. We will work to develop online exercises on different modules of the Atlas to continue improving LA documentation for users.
 
-* *Sweden*: Continued development and addition of ALA tools will be shared through the new Swedish "Bioatlas" and by sharing code at GitHub. Support to other nodes employing techniques where we may be of help will continue/increase.
+* *Sweden*: Continued development and addition of ALA tools will be shared through the new Swedish “Bioatlas” and by sharing code at GitHub. Support to other nodes employing techniques where we may be of help will continue/increase.
 
 * *South Africa*: SANBI-GBIF will highlight the role of GBIF and engage the scientific community at the annual Biodiversity Information Management and Foundational Biodiversity Information Programme Forum, on the Biodiversity Open Ambassador programme 
 

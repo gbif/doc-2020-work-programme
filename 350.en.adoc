@@ -65,7 +65,7 @@ Election of the new EU representative and Deputy.
 
 * *Canadensys*: We will continue to help and be involved in the _alliance_ as much as we can.
 
-* *iDigBio*:iDigBio plans to continue attending, supporting, and/or hosting regional meetings in North America. iDigBio also plans to continue offering the annual Digital Data Conference as a venue for the regional meetings.
+* *iDigBio*: iDigBio plans to continue attending, supporting, and/or hosting regional meetings in North America. iDigBio also plans to continue offering the annual Digital Data Conference as a venue for the regional meetings.
 
 * *Naturalis Biodiversity Center*: DiSSCo is coordinating with GBIF, iDigBio and IGSN to establish a global solution for Digital Specimen identifiers and other infrastructures. In SYNTHESYS+ ELViS development it will be investigated whether linkages can be achieved between ELViS and GBIF collection data (specimen datasets and collection metadata).Naturalis would like to share its developments using AI in species identification and work on using environmental DNA for biomonitoring with the GBIF community.
 
@@ -75,7 +75,7 @@ Election of the new EU representative and Deputy.
 
 * *South Africa*: Further engagements with SANBI-GBIF Node Manager and HoD to evolve the Node planning and Africa portfolio.
 
-* *Spain*:Collaboration with EU Nodes and EOSC to explore best ways to integrate Node’s services in the EOSC.
+* *Spain*: Collaboration with EU Nodes and EOSC to explore best ways to integrate Node’s services in the EOSC.
 
 * *Sweden*: GBIF-Sweden will continue to take part in leading and contributing to the development of interconnections at national and international levels (GBIC 2 follow-up etc. incl. participation in Synthesys+). 
 

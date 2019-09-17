@@ -36,13 +36,13 @@ During 2019, the informatics team has continued the redesign and implementation 
  
 * *Argentina*: Promote development of a shared domain model for sharing and linking all components of biodiversity information.
 
-* *Australia*: "Work is ongoing, and the Atlas continues to contribute to the work of the TDWG Biodiversity Data Quality Interest Group and Citizen Science Interest Group. The Atlas continues to be a seminal contributor to the international collaboration project which is developing and implementing the PPSR-Core data and metadata standard for citizen science. This project aims to provide a robust mechanism for data and metadata standardisation and exchange for the citizen science domain, which is also compatible with, and leverages, other existing standards and protocols.
+* *Australia*: “Work is ongoing, and the Atlas continues to contribute to the work of the TDWG Biodiversity Data Quality Interest Group and Citizen Science Interest Group. The Atlas continues to be a seminal contributor to the international collaboration project which is developing and implementing the PPSR-Core data and metadata standard for citizen science. This project aims to provide a robust mechanism for data and metadata standardisation and exchange for the citizen science domain, which is also compatible with, and leverages, other existing standards and protocols.
 
 * *Canada*: CBIF plays an active role in developing, reviewing and implementing standards. Staff contribute to the Collections Description (CD) standard, DarwinCore, Taxon Concept Schema (TCS), Data quality and controlled vocabulary standards, annotation and attribution standards, genomic standards, and others. Dr. Macklin is the current chair of TDWG and is working closely with GBIF to insure alignment to GBIF requirements and to seek funding to further mutual work.
 
 * *Germany*: Two German GBIF Nodes finalised the new Version of the TDWG Standard ABCD (Access to biological collection data, https://abcd.tdwg.org/3.0/). The Botanical Node houses the technical Secretariat of the Global Genome Biodiversity Network, significantly contributing to standard development for DNA- and Tissue samples.
 
-* *iDigBio*: "Several representatives of iDigBio participated in the GBIC2 conference. iDigBio, GBIF, ALA, and DiSSCo are making a concerted effort to coordinate efforts. Several iDigBio staff are involved with the Natural Collections Description (NCD) group.
+* *iDigBio*: “Several representatives of iDigBio participated in the GBIC2 conference. iDigBio, GBIF, ALA, and DiSSCo are making a concerted effort to coordinate efforts. Several iDigBio staff are involved with the Natural Collections Description (NCD) group.
 
 * *Naturalis Biodiversity Center*: Naturalis participates in modernising data standards through TDWG and active participation in the TDWG CD taskgroup.
 
@@ -52,7 +52,7 @@ During 2019, the informatics team has continued the redesign and implementation 
 
 * *Spain*: We have started to explore how to serve species information under the Plinian Core Standard in the Living Atlas platform. Involved in the TDWG Species Information Interest working group.
 
-* *Sweden*: Being part of a national research infrastructure for biodiversity data provisioning, GBIF-Sweden has started working on taxonomic and other data standards for various kinds of "new" data types (molecular data, tracking data, sensor data).
+* *Sweden*: Being part of a national research infrastructure for biodiversity data provisioning, GBIF-Sweden has started working on taxonomic and other data standards for various kinds of “new” data types (molecular data, tracking data, sensor data).
 
 * *United States*: Continued to advance sampling event with extended measurement or fact extension for documenting data associated with biological observations but not appropriate for occurrence only Darwin Core.
 
@@ -95,7 +95,7 @@ Naturalis plans to revive the BD Integration IG in RDA and to involve the the GB
 
 * *Norway*: Dependent on continued stable funding for GBIF activities in Norway, GBIF Norway will contribute to modernize and expand the support in GBIF for new data types for genome and eDNA data linked to “material samples”; and data types for ecological data sets based on the “sampling event” model (see also Activity 3b).
 
-* *Sweden*: GBIF-Sweden will further work on taxonomic and other data standards for various kinds of "new" data types (molecular data, tracking data, sensor data).
+* *Sweden*: GBIF-Sweden will further work on taxonomic and other data standards for various kinds of “new” data types (molecular data, tracking data, sensor data).
 
 ==== Rationale
 
