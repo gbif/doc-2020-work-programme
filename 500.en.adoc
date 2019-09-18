@@ -62,7 +62,7 @@ https://www.gbif.org/dataset/search?q=Boyac%C3%A1%20BIO
 
 * *iDigBio*: iDigBio will continue its work to expand knowledge of what is contained within collections so that it is easier to determine the remaining volume of work.
 
-* *International Centre for Integrated Mountain Development*: Advancing Biodiversity Informatics Capacities in the HKH- Regional Workshop (define data gap map for Asia) - **Need to explore possibilities of collaboration with GBIF, relevant institutions in HKH regional member countries, and Asian Node.
+* *International Centre for Integrated Mountain Development*: Advancing Biodiversity Informatics Capacities in the HKH- Regional Workshop (define data gap map for Asia): explore possibilities of collaboration with GBIF, relevant institutions in HKH regional member countries, and Asian Node.
 
 * *Japan*: Gap analyses to be carried out in some model collections.
 
