@@ -76,7 +76,7 @@ https://www.gbif.org/dataset/search?q=Boyac%C3%A1%20BIO
 
 * *United States*: Work with the Global Ocean Observing System and GEO BON to identify priority datasets related to Essential Ocean and Essential Biodiversity Variables.
 
-* *Zimbabwe*: Citizen science
+* *Zimbabwe*: Citizen science will be a focus.
 
 
 ==== Rationale
