@@ -19,8 +19,6 @@ Data analysis explored options for species density/species richness representati
 
 * *Australia*: Collaboration with the SDG community and implement platform-based solutions to improve the value,  applicability and accessibility of citizen science data for SDG's.
 
-* *Belgium*: Explore and prototype a tool, based on occurrences API, that will return a species list from a user-defined polygon. Postponed. 
-
 * *Colombia*: Support to consolidate the IPBES National Assessment, particulary in the chapter 2 - Status of Colombian Biodiversity  http://humboldt.org.co/es/actualidad/item/1257-convocatoria-evaluacion-ipbes-colombia
 Status and trend of Colombian biodiveristy: An annual publication from the data published. https://cifras.biodiversidad.co/.
 
@@ -48,10 +46,7 @@ Status and trend of Colombian biodiveristy: An annual publication from the data 
 * *Australia*: Continuing to collaborate with the SDG community and implement platform-based solutions to improve the value,  applicability and accessibility of citizen science data for SDG's.
 
 * *Belgium*: Explore and prototype a tool, based on occurrences API, that will return a species list from a user-defined polygon.
-
-* *Benin*: 
-* *Biodiversity Heritage Library*:
-* *Canada*: 
+ 
 * *Canadensys*: We would like to work with GBIF and other organisations to establish standardized links to leaf spectral data obtained on the ground and through imagery at various levels (linked to a pan-canadian project called CABO, http://www.caboscience.org/)
 
 * *iDigBio*: iDigBio plans to continue participation in the annual WeDigBio events each October.
