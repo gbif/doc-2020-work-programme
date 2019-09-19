@@ -50,7 +50,7 @@ The Botanical Node continues to support the AnnoSys system for structured annota
 
 * *Norway*: GBIF Norway aims to maintain, and further improve, a machine-readable persistent identifier (PID) resolver for as many entities as we have resources to cover within the Norwegian data streams to GBIF. Dependent of continued stable funding, we aim to provide machine actionable data annotation services from this service (see also activity 2a, 3b and 4b).
 
-* *Spain*: Promoting the use of Elysia out of our national borders.
+* *Spain*: Promoting the use of Elysia out of our national borders. 
 
 ==== Rationale
 
