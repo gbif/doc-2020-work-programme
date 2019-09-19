@@ -62,8 +62,6 @@ iDigBio maintains a comprehensive list of known biodiversity collections in the 
 
 * *Canadensys*: If needed, we can help review and update information about Canadian Collections on the Global Register of Biodiversity Collections (GRBio)/Global Register of Scientific Collections (GRSciColl) dataset. We will maintain the collections' metadata up-to-date on Canadensys.
 
-* *Germany*:
-
 * *iDigBio*: iDigBio will continue to support the Natural Collections Description (NCD) group. iDigBio will continue maintaining its list of U.S. collections. Ultimately, iDigBio’s goal is to integrate this list with the result from the GBIF/GRBio/GRSciColl collaboration.
 
 * *Japan*: Evaluation of questionnaire to know/analyses the status. 
