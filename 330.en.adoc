@@ -30,7 +30,7 @@ The Integrated Publishing Toolkit (IPT) is being maintained to deal with bug fix
 
 * *France*: GBIF France offers data hosting and maintains IPT instances for 14 southern countries. 
 
-* *Germany*: Mobilising biodiversity data: By mid of 2019 more than 47 million occurrences within 35,000 datasets covering 252 countries and areas have been made available by 40 publishers from Germany. By end of 2019 occurrence data, especially for the vascular plants for Bavaria (“Flora von Bayern Initiative”) will be significantly extended and the dataset for German fungi will be updated. German GBIF-Nodes continue to develop the DCOLL initiative with the aim of digitising all German natural history collections (large-scale funding approval pending) and collaborate in the corresponding European Initiative (DiSSCo). 
+* *Germany*: Mobilizing biodiversity data: By mid of 2019 more than 47 million occurrences within 35,000 datasets covering 252 countries and areas have been made available by 40 publishers from Germany. By end of 2019 occurrence data, especially for the vascular plants for Bavaria (“Flora von Bayern Initiative”) will be significantly extended and the dataset for German fungi will be updated. German GBIF-Nodes continue to develop the DCOLL initiative with the aim of digitizing all German natural history collections (large-scale funding approval pending) and collaborate in the corresponding European Initiative (DiSSCo). 
 Continuous support for Data providers using the BioCASe software for data publishing in GBIF, Europeana, GGBN, and other special interest networks. Implementation of further routines for data quality control are implemented in the Diversity Workbench software suite and in JACQ.
 
 * *iDigBio*: As of the end of May 2019, iDigBio had approximately 71 datasets in various stages of mobilization. As part of our data mobilization efforts, iDigBio staff periodically provide IPT help, support, and training to data publishers. iDigBio partnered with Environmental Data Initiative (EDI), Earth Science Information Partners (ESIP), DataONE, GBIF, NEON and Arctic Data Center on a Data Help Desk at the 2019 meeting of the Ecological Society of America. The goal was to engage participants one-on-one about their questions, comments and concerns about using these data in their discipline and area of research.
@@ -42,7 +42,7 @@ In progress publish two national checklist “Aves de México” and “Helminto
 
 * *Naturalis Biodiversity Center*: Naturalis has discussed with GBIF Secretariat to provide an IPT through DiSSCo for serving collection data from countries in Europe participating in DiSSCo that have no GBIF node yet.
 
-* *Netherlands*: Through several workshops NLBIF has engaged with most of the Dutch Natural history musea and explained the ease of DwC and the possibility publication in the Biodiversity Data Journal. In the second half of 2019 this will have follow up and expected contributions of data to GBIF. Furthermore, NLBIF supports and promotes data publishers in hosting their own IPTs. And NLBIF is supporting data publishers to add multimedia files to their GBIF records.
+* *Netherlands*: Through several workshops NLBIF has engaged with most of the Dutch Natural history museums and explained the ease of DwC and the possibility publication in the Biodiversity Data Journal. In the second half of 2019 this will have follow up and expected contributions of data to GBIF. Furthermore, NLBIF supports and promotes data publishers in hosting their own IPTs. And NLBIF is supporting data publishers to add multimedia files to their GBIF records.
 
 * *Norway*: GBIF Norway provides a helpdesk for data publishers in Norway, and will continue to host datasets for selected data publishers outside of Norway upon request – including data hosting requests from BioDATA partners. 
 GBIF Sweden assisted GBIF Norway with the assessment of proposals and selection of data publishing co-funding grants for mobilizing Norwegian biodiversity data in GBIF. 
@@ -68,7 +68,7 @@ GBIF Sweden assisted GBIF Norway with the assessment of proposals and selection 
 
 * *Argentina*: Argentina has a collection catalogue (and institutions) since 2003. We keep updating it. Try to reduce the number of IPT to centralize all the data sets in one IPT.
 
-* *Australia*: Develop a community of practice in the management of trait information. Develop a roadmap for trait mobilisation activities.
+* *Australia*: Develop a community of practice in the management of trait information. Develop a roadmap for trait mobilization activities.
 
 * *Belgium*: Host IPT installations.
 
@@ -78,7 +78,7 @@ GBIF Sweden assisted GBIF Norway with the assessment of proposals and selection 
 
 * *France*: GBIF France will continue to support data hosting and publishing services for southern countries.
 
-* *Germany*: Independent of the success of the DCOLL Initiative, German GBIF Nodes will continue to support digitisation efforts in collections and publications of observation datasets. Expected are significantly increased numbers in occurrence data of vascular plants, further digitisation of German collections, fully referenced diatom data from the of the German Barcode of Life Initiative and further improvements in the JACQ (Virtual herbaria) and Diversity Workbench software. Continuing BioCASE Helpdesk. Implementation of ABCD 3.0 in BioCASE and beyond.
+* *Germany*: Independent of the success of the DCOLL Initiative, German GBIF Nodes will continue to support digitization efforts in collections and publications of observation datasets. Expected are significantly increased numbers in occurrence data of vascular plants, further digitization of German collections, fully referenced diatom data from the of the German Barcode of Life Initiative and further improvements in the JACQ (Virtual herbaria) and Diversity Workbench software. Continuing BioCASe Helpdesk. Implementation of ABCD 3.0 in BioCASe and beyond.
 
 * *iDigBio*: iDigBio is currently in a sustainability planning process. As part of these efforts, iDigBio will evaluate data holder capacity self assessment as a method of improving our ongoing data mobilization processes.
 

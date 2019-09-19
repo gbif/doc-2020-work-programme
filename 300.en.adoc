@@ -41,7 +41,7 @@ The Secretariat has been carrying out an evaluation of the https://discourse.gbi
 
 * *United States*: US Node Manager joined GBIF Community Forum and contributes to relevant discussions. 
 
-* *Zimbabwe*: In January 2019, GBIF Zimbabwe set up a technical committee composed of people with relevant skills and knowledge required for the effectiveness of the Node. These include, ecologists, entomologists, microbilogists, bioinformaticians, wildlife ecologists, itchiologists and herpatologists.
+* *Zimbabwe*: In January 2019, GBIF Zimbabwe set up a technical committee composed of people with relevant skills and knowledge required for the effectiveness of the Node. These include, ecologists, entomologists, microbiologists, bioinformaticians, wildlife ecologists, ichthyologists and herpetologists.
 Launched a website for GBIF Zimbabwe and created twitter account.
 
 ==== 2020 Work items
@@ -81,7 +81,7 @@ Launched a website for GBIF Zimbabwe and created twitter account.
 
 GBIF is the result of work by thousands of people in agencies and institutions worldwide. This network’s long-term sustainability depends on demonstrating the value of such contributions and justifying continued investment of effort.
 
-The GBIF Secretariat can enhance efforts to develop capacity within the network and build an effective distributed help desk system that acknowledges and showcases relevant skills and experience that people across the network possess. Users of GBIF data products would also benefit from showcasing the network’s indispensible human resources and their impact on assessing and improving biodiversity data.
+The GBIF Secretariat can enhance efforts to develop capacity within the network and build an effective distributed help desk system that acknowledges and showcases relevant skills and experience that people across the network possess. Users of GBIF data products would also benefit from showcasing the network’s indispensable human resources and their impact on assessing and improving biodiversity data.
 
 For these reasons, the next round of improvements to GBIF.org should enhance the network’s capacity to serve as a hub for the GBIF community by identifying its active contributors, integrating information on their relevant GBIF activities, and supporting broader knowledge exchange and skill development.
 

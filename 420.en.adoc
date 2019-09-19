@@ -3,7 +3,7 @@
 ==== Tasks
 [lowerroman]
 . Partner with other biodiversity informatics initiatives to deliver a single, comprehensive catalogue of the world’s natural history collections
-. Use collection metadata as a first stage in content mobilisation from natural history collections, including identification or development and adoption of necessary data standards
+. Use collection metadata as a first stage in content mobilization from natural history collections, including identification or development and adoption of necessary data standards
 
 ==== 2019 Progress
 
@@ -13,7 +13,7 @@ Identifiers have been used over the years by the community and are referenced in
 
 ===== 2019 Participant contributions
 
-* *Argentina*: Since 2003 Argentina have a catalog of institutions and collections and keeps growing.
+* *Argentina*: Since 2003 Argentina have a catalogue of institutions and collections and keeps growing.
 
 * *Benin*: Three metadata have been published in the framework of our joint CESP project with GBIF France
 
@@ -33,7 +33,7 @@ iDigBio maintains a comprehensive list of known biodiversity collections in the 
 
 * *Japan*: Preliminary questionnaire provided to data providers for future stock of data.
 
-* *Mexico*: “Colecciones Biológicas científicas Mexicanas” http://www.biodiversidad.gob.mx/especies/colecciones/ is a web portal with 747 metadata of scientific Mexican collections in 237 national institutions. The collection metadata was depeloped with standard international Natural Collections Description (NCD).
+* *Mexico*: “Colecciones Biológicas científicas Mexicanas” http://www.biodiversidad.gob.mx/especies/colecciones/ is a web portal with 747 metadata of scientific Mexican collections in 237 national institutions. The collection metadata was developed with standard international Natural Collections Description (NCD).
 
 * *Naturalis Biodiversity Center*: Naturalis led the development of the DiSSCo Prepare proposal which includes preparations towards a catalogue of the European collections. As part of a project financed by the Dutch research council (NWO, ALWIN.005), Naturalis together with NLBIF, and the foundation for Dutch Natural History Collections has created a collections dashboard for the Netherlands. This dashboard is the first online representation of the natural history collections in the Netherlands that are digitized as well as not yet digitized. The dashboard will be published in the country page of DiSSCo.eu and NLBIF.nl.
 
@@ -43,7 +43,7 @@ iDigBio maintains a comprehensive list of known biodiversity collections in the 
 
 * *Sweden*: In collaboration between The Swedish Museum of Natural History GBIF-Sweden runs the development of a web-based collection management system (DINA web). 
 
-* *Switzerland*: Contribution to the report of the Swiss Acadamy of Sciences: National significance of natural history collections in Switzerland.
+* *Switzerland*: Contribution to the report of the Swiss Academy of Sciences: National significance of natural history collections in Switzerland.
 
 * *United States*: Continued significant investment and contribution from ABCD, iDigBio including hosting an annual conference and working directly with collection managers.
 
@@ -56,7 +56,7 @@ iDigBio maintains a comprehensive list of known biodiversity collections in the 
 
 ===== 2020 Participant plans
 
-* *Argentina*: Keep working with our catalog and collaborate with the GRBio / GRSciColl initiative presented at GBIF.
+* *Argentina*: Keep working with our catalogue and collaborate with the GRBio / GRSciColl initiative presented at GBIF.
 
 * *Canada*: CBIF will continue to contribute to the Collections Description standard.
 
@@ -70,7 +70,7 @@ iDigBio maintains a comprehensive list of known biodiversity collections in the 
 
 * *South Africa*: The Natural Science Collections Facility, Funded by the Department of Science and Technology plays a key role in the development of catalogues for collections.
 
-* *Sweden*: Expanding DINA web to cover not only biological objects (insluding sequence data) but also paleontology and geology will continue in 2019.
+* *Sweden*: Expanding DINA web to cover not only biological objects (including sequence data) but also palaeontology and geology will continue in 2019.
 
 * *Switzerland*: Update of Swiss GRSciColl records. Promotion and support of collection metadata acquisition.
 
@@ -78,7 +78,7 @@ iDigBio maintains a comprehensive list of known biodiversity collections in the 
 
 ==== Rationale
 
-Natural history collections are the largest source of data on biodiversity outside nature itself. Collectively the worlds natural history collections number about 3 billion specimens and document over 300 years of active human exploration of biodiversity on earth. In addition the fossil remains provide us with glimpses into the very far past before humans existed. The collections and their ancillary materials (images, collectors’ notes, sequences, measurements, etc.), contain colossal amounts of data that should be digitized and shared. Only about 10% of the world’s collections have been digitized and only a portion of digitized collections are shared publicly through the internet. A large number of current GBIF publishers comprise natural history museums and herbaria. The Secretariat will work with Participants to deliver the most comprehensive catalogue possible of collections, including metadata to publicize undigitized collections as a first step towards their digitisation and mobilisation.
+Natural history collections are the largest source of data on biodiversity outside nature itself. Collectively the worlds natural history collections number about 3 billion specimens and document over 300 years of active human exploration of biodiversity on earth. In addition the fossil remains provide us with glimpses into the very far past before humans existed. The collections and their ancillary materials (images, collectors’ notes, sequences, measurements, etc.), contain colossal amounts of data that should be digitized and shared. Only about 10% of the world’s collections have been digitized and only a portion of digitized collections are shared publicly through the internet. A large number of current GBIF publishers comprise natural history museums and herbaria. The Secretariat will work with Participants to deliver the most comprehensive catalogue possible of collections, including metadata to publicize undigitized collections as a first step towards their digitization and mobilization.
 
 ==== Approach
 

@@ -4,8 +4,8 @@
 [lowerroman]
 . Develop better integration between nodes activities and Governing Board processes
 . Expand regional meetings to serve as GBIF community Implementation Planning conferences and opportunities to develop fundable programmes of work
-. Increase alignment between GBIF work programmes and activities of each GBIF Organisational Participant and Affiliate
-. Explore increased alignment and joint organisation of workshops with other networks such as TDWG, SPNHC, GEO BON, RDA, etc.
+. Increase alignment between GBIF work programmes and activities of each GBIF Organizational Participant and Affiliate
+. Explore increased alignment and joint organization of workshops with other networks such as TDWG, SPNHC, GEO BON, RDA, etc.
 
 ==== 2019 Progress
 
@@ -33,9 +33,9 @@ The _alliance_ for biodiversity knowledge was established as an outcome of the 2
 
 * *iDigBio*: iDigBio hosted the regional meeting of participant nodes in North America in association with the 2019 Digital Data in Biodiversity Research Conference.
 
-* *Naturalis Biodiversity Center*: A meeting was held between the DiSSCo coordination office and GBIF Secreatariat to discuss coordination of implementation activities. Naturalis provided D2.3 Design of a collection digitisation dashboard in ICEDIG which provides input for further development of GrSciCol hosted by GBIF. 
+* *Naturalis Biodiversity Center*: A meeting was held between the DiSSCo coordination office and GBIF Secretariat to discuss coordination of implementation activities. Naturalis provided D2.3 Design of a collection digitization dashboard in ICEDIG which provides input for further development of GRSciCol hosted by GBIF. 
 
-* *Netherlands*: NLBIF has adopted the DiSSCo-NL ntf lead and as such integrates GBIF and national DiSSCo activities.
+* *Netherlands*: NLBIF has adopted the DiSSCo-NL NTF lead and as such integrates GBIF and national DiSSCo activities.
 
 * *Norway*: GBIF Norway funded, hosted and organized the 2019 European GBIF Nodes meeting in Oslo in May 2019 (see also Activity 1c and 1e). GBIF Norway and the GBIF Norway network partners serve on GBIF committees as elected vice-chair for the GBIF Science committee and as vice-chair for the European GBIF Nodes committee.
 
@@ -76,11 +76,11 @@ The _alliance_ for biodiversity knowledge was established as an outcome of the 2
 
 * *Spain*: Collaboration with EU Nodes and EOSC to explore best ways to integrate Node’s services in the EOSC.
 
-* *Sweden*: GBIF-Sweden will continue to take part in leading and contributing to the development of interconnections at national and international levels (GBIC 2 follow-up etc. incl. participation in Synthesys+). 
+* *Sweden*: GBIF-Sweden will continue to take part in leading and contributing to the development of interconnections at national and international levels (GBIC 2 follow-up etc. incl. participation in SYNTHESYS+). 
 
 * *United States*: USGS will continue to be involved in and contribute to advancing and contributing to the ideas around the GBIC2 workshop sharing implementation and infrastructure suggestions as they pertain to the US and the various global communities of practice.
 
-* *Zimbabwe*: Develop and finalise a five year strategic plan and 2020 action plan.
+* *Zimbabwe*: Develop and finalize a five year strategic plan and 2020 action plan.
 
 ==== Rationale
 

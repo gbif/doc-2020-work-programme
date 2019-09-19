@@ -19,8 +19,8 @@ Data analysis explored options for species density/species richness representati
 
 * *Australia*: Collaboration with the SDG community and implement platform-based solutions to improve the value,  applicability and accessibility of citizen science data for SDG's.
 
-* *Colombia*: Support to consolidate the IPBES National Assessment, particulary in the chapter 2 - Status of Colombian Biodiversity  http://humboldt.org.co/es/actualidad/item/1257-convocatoria-evaluacion-ipbes-colombia
-Status and trend of Colombian biodiveristy: An annual publication from the data published. https://cifras.biodiversidad.co/.
+* *Colombia*: Support to consolidate the IPBES National Assessment, particularly in the chapter 2 - Status of Colombian Biodiversity  http://humboldt.org.co/es/actualidad/item/1257-convocatoria-evaluacion-ipbes-colombia
+Status and trend of Colombian biodiversity: An annual publication from the data published. https://cifras.biodiversidad.co/.
 
 * *iDigBio*: iDigBio plans to participate in the WeDigBio event in October 2019. Worldwide Engagement for Digitizing Biocollections, or WeDigBio, is a global data campaign, virtual science festival, and local outreach opportunity, all rolled into one.
 
@@ -47,7 +47,7 @@ Status and trend of Colombian biodiveristy: An annual publication from the data 
 
 * *Belgium*: Explore and prototype a tool, based on occurrences API, that will return a species list from a user-defined polygon.
  
-* *Canadensys*: We would like to work with GBIF and other organisations to establish standardized links to leaf spectral data obtained on the ground and through imagery at various levels (linked to a pan-canadian project called CABO, http://www.caboscience.org/)
+* *Canadensys*: We would like to work with GBIF and other organizations to establish standardized links to leaf spectral data obtained on the ground and through imagery at various levels (linked to a pan-Canadian project called CABO, http://www.caboscience.org/)
 
 * *iDigBio*: iDigBio plans to continue participation in the annual WeDigBio events each October.
 
@@ -65,4 +65,4 @@ One of GBIF’s key roles is as organizer or global evidence for species distrib
 
 ==== Approach
 
-This activity depends on the activities defined for all goals, in order to improve the comprehensiveness, coverage and quality of data accessed through the GBIF network. An additional area for enhancement will be GBIF.org search interfaces and presentation (via maps and other visualisations) of sampling event data. Such interfaces should ensure that researchers can properly evaluate and assess data suitable for biodiversity assessment activities. Additionally GBIF needs to be active within GEO BON to ensure that there is close alignment and evolution between the concepts and implementation of EBVs and the data and services offered by GBIF.
+This activity depends on the activities defined for all goals, in order to improve the comprehensiveness, coverage and quality of data accessed through the GBIF network. An additional area for enhancement will be GBIF.org search interfaces and presentation (via maps and other visualizations) of sampling event data. Such interfaces should ensure that researchers can properly evaluate and assess data suitable for biodiversity assessment activities. Additionally GBIF needs to be active within GEO BON to ensure that there is close alignment and evolution between the concepts and implementation of EBVs and the data and services offered by GBIF.
