@@ -24,7 +24,7 @@ The Integrated Publishing Toolkit (IPT) is being maintained to deal with bug fix
 
 * *Australia*: The Atlas worked with the collections to identify the trait data available in existing database held in data managements systems by natural history collections. In addition, the Atlas engaged with members of the research community in Australia to discuss use of traits.
 
-* *Belgium*: hosted IPT installations for two African nodes.
+* *Belgium*: Hosted IPT installations for two African nodes.
 
 * *Benin*: Capacity building is achieved to data publishers during our workshops in achieving data format, data cleaning, and data publishing as well. They are also assisted and encouraged to register on GBIF site. When they are ready to publish their data, they are intensively assisted by members of GBIF Benin to have data in adequate format, and cleaned before publishing.
 
@@ -70,7 +70,7 @@ GBIF Sweden assisted GBIF Norway with the assessment of proposals and selection 
 
 * *Australia*: Develop a community of practice in the management of trait information. Develop a roadmap for trait mobilisation activities.
 
-* *Belgium*: host IPT installations.
+* *Belgium*: Host IPT installations.
 
 * *Benin*: Capacity building in data mobilization and data uses.
 
