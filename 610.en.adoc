@@ -58,7 +58,7 @@ Exploring of suitable measures to indicate metadata completeness and appropriate
 * *Argentina*: Training workshops in different areas of the country for data providers. Permanent help desk in the publication and data quality. Develop regular data set reports for data publishers and nodes.
 
 * *Australia*: GBIF work plan participation response GBIF work plan participation response 100% 10 SDG 2 of 2 Context:
-AA5 Continuing to collaborate with the SDG community and implement platform-based solutions to improve the value, applicability and accessibility of citizen science data for SDG's.Further review work is scheduled for this year as part of ALA infrastructure refresh., Focus areas will be data registries and occurrence data processing and data quality.Screen reader support enabled. Further review work is scheduled for this year as part of ALA infrastructure refresh., Focus areas will be data registries and occurrence data processing and data quality.Anonymous Wombat has joined the document.
+AA5 Continuing to collaborate with the SDG community and implement platform-based solutions to improve the value, applicability and accessibility of citizen science data for SDG's.Further review work is scheduled for this year as part of ALA infrastructure refresh., Focus areas will be data registries and occurrence data processing and data quality.Screen reader support enabled. Further review work is scheduled for this year as part of ALA infrastructure refresh. Focus areas will be data registries and occurrence data processing and data quality. Anonymous Wombat has joined the document.
 
 * *Canada*: CBIF staff will continue to contribute to the work of the TDWG Biodiversity Data Quality Interest Group on data quality standards and controlled vocabularies.
 
