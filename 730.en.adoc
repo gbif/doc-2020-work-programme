@@ -32,8 +32,7 @@ It has now been 20 years since the OECD Megascience Forum recommended the establ
 
 ==== 2020 Participant plans
 
-* *iDigBio*: iDigBio will continue to conduct its annual community survey.
-iDigBio will continue to track and publish data use statistics.
+* *iDigBio*: iDigBio will continue to conduct its annual community survey. iDigBio will continue to track and publish data use statistics.
 
 * *South Africa*: The efforts to reinforce the data-science-policy value chain through the ABC projects and the Foundational Biodiversity Information Programme of SANBI, will continue into 2019.
 
