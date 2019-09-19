@@ -88,8 +88,7 @@ During 2019, the informatics team has continued the redesign and implementation 
 
 * *iDigBio*: iDigBio will continue its integration and coordination efforts with GBIF, ALA, and DiSSCo. iDigBio will continue to support the Natural Collections Description (NCD) group.
 
-* *Naturalis Biodiversity Center*: DiSSCo seeks to join forces with GBIF and other infrastructures to work on interoperability standards for natural scienfic collections.
-Naturalis plans to revive the BD Integration IG in RDA and to involve the the GBIF community in rewriting the chapter to create recommendations for modernizing GBIF community data standards in a multidisciplinary setting.
+* *Naturalis Biodiversity Center*: DiSSCo seeks to join forces with GBIF and other infrastructures to work on interoperability standards for natural scienfic collections. Naturalis plans to revive the BD Integration IG in RDA and to involve the the GBIF community in rewriting the chapter to create recommendations for modernizing GBIF community data standards in a multidisciplinary setting.
 
 * *Netherlands*: Continue TDWG CD activities.
 
