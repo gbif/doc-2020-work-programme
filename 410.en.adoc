@@ -44,8 +44,7 @@ Many checklists published also concerned, invasive alien species and threatened 
 
 * *France*: Update of TAXREF, the French national checklist.
 
-* *Germany*: A project implementing the registration system for algal names (PhycoBank) was concluded and the fully functional application is now being tested within the phycological community. 
-The global Caryophyllales Network is coordinated at the Botanical Node. It will produce a complete taxonomic backbone for this order, comprising about 5% of flowering plants. 
+* *Germany*: A project implementing the registration system for algal names (PhycoBank) was concluded and the fully functional application is now being tested within the phycological community.  The global Caryophyllales Network is coordinated at the Botanical Node. It will produce a complete taxonomic backbone for this order, comprising about 5% of flowering plants. 
 
 * *Integrated Taxonomic Information System*: Through the Catalogue of Life Partnership and through the CoL Global Team, ITIS was integral to the planning and implementation of the Catalogue of Life Plus initiative.  
 
@@ -83,14 +82,13 @@ Species 2000 and GBIF are organising a symposium on getting towards a joint glob
 
 * *Australia*: Further work to improve the currency of taxonomic information in the Atlas based on the Australian checklists.
 
-* *Benin*: Still at work.
+* *Benin*: Continue previous work programme.
 
 * *Biodiversity Heritage Library*: Continue to participate in GlobalNames Workshop and Catalogue of Life Plus meetings. Implementation of new Global Names services in BHL.
 
 * *Canadensys*: We would strongly encourage CoL+ to continue taking into consideration the Canadian expertise for vascular plant taxa.
 
-* *Germany*: Updated list of fungi and fungal-like organisms from Germany compiled by the German Mycological Society (DGfM) available via GBIF. Algal names from the PhycoBank algal registrations system available via GBIF. Application to General Nomenclature Committee to recognise PhycoBank as a global repository for algal names. 
-Complete taxonomic backbone for Caryophyllales available, inter alia through World Flora Online. 
+* *Germany*: Updated list of fungi and fungal-like organisms from Germany compiled by the German Mycological Society (DGfM) available via GBIF. Algal names from the PhycoBank algal registrations system available via GBIF. Application to General Nomenclature Committee to recognise PhycoBank as a global repository for algal names.  Complete taxonomic backbone for Caryophyllales available, inter alia through World Flora Online. 
 
 
 * *Integrated Taxonomic Information System*: ITIS is developing and will deploy in 2020 an online taxonomic workbench that will allow for the development of taxonomies based on expert communities.  This effort will support taxonomic sectors which currently lack adequate support and will improve alignment with other checklist efforts.  This is part of the ITIS' commitment to the CoL+ (GBIF's names infrastructure.)
