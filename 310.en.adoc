@@ -102,8 +102,6 @@ In process, collaboration CESP2018_011 “Increasing capacities to develop Natio
 
 * *Naturalis Biodiversity Center*: Further training and capacity enhancement activities will be organised through the COST Action MOBILISE.
 
-* *Netherlands*: The 2019 activities on 1b will be continued.
-
 * *Norway*: BioDATA will during 2020 organize data mobilization training events in Armenia (April 2020) and in Ukraine (October 2020).
 
 * *South Africa*: SANBI-GBIF will continue to conduct training workshops and develop communities of practice in identified biodiversity informatics areas.
@@ -114,7 +112,7 @@ In process, collaboration CESP2018_011 “Increasing capacities to develop Natio
 
 * *United States*: USGS will continue to participate as a teacher in workshops and meetings to advance data curation skills globally and across domains.
 
-* *Zimbabwe*: Data mobilisation workshop in January 2020 Data access workshop in March 2020
+* *Zimbabwe*: Data mobilisation workshop in January 2020 Data access workshop in March 2020.
 
 ==== Rationale
 
