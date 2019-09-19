@@ -22,8 +22,7 @@
 * *Colombia*: Training Workshop with the National Institute of Health to publishing data relating to vectors and hosts of human diseases. The workshop took place on september 20, 2018 at National Institute of Health, Bogotá. A total of 10 participants attended the workshop. https://sibcolombia.net/taller-sirap/ https://sibcolombia.net/taller-ins/
 
 * *Germany*: As part of GFBio (German Federation for Biological Data, www.gfbio.org): establishment of workflows and software infrastructure for archiving and publishing data sets from national biodiversity research projects. GFBio includes the provision of observation and collection data to GBIF via the established GBIF-D data centres and BioCASE/ABCD interfaces. 
-The German Botanical Node hosts the technical secretariat of the Global Genome Biodiversity Network. 90 Biobanks provide more than 1.6 million standardised DNA and 370,000 tissue sample data. Most of the linked specimen data records are also published in GBIF. 
-MetBaN (https://github.com/sproft/MetBaN/tree/v0.1.0) is a bioinformatic pipeline which implements a modular and flexible species delimitation approach by streamlining metabarcoding and phylogenetic software packages. MetBaN is developed at the Botanical Node. 
+The German Botanical Node hosts the technical secretariat of the Global Genome Biodiversity Network. 90 Biobanks provide more than 1.6 million standardised DNA and 370,000 tissue sample data. Most of the linked specimen data records are also published in GBIF.  MetBaN (https://github.com/sproft/MetBaN/tree/v0.1.0) is a bioinformatic pipeline which implements a modular and flexible species delimitation approach by streamlining metabarcoding and phylogenetic software packages. MetBaN is developed at the Botanical Node. 
 
 * *iDigBio*: iDigBio sponsored a Phenology Deep Learning workshop in January 2019. This workshop focused on exploring such technologies as deep convolutional neural networks (CNN), data protocols and standards for linking trait data to specimen records, tracking phenological synchronization across phyla, and tools for trait measurement and analysis. iDigBio sponsored an Imaging and Digitization Workshop for Amateur Paleontologists workshop in July 2019.
 
@@ -57,7 +56,7 @@ MetBaN (https://github.com/sproft/MetBaN/tree/v0.1.0) is a bioinformatic pipelin
 * *Germany*: “GFBio activities continue with the aim of ensuring the sustainability of the infrastructure.
 MetBan will be fully operable. In consultation with GGBN network partners, advance the integration of GGBN and GBIF with respect to DNA and tissue samples. 
 
-* *Japan*: Seek for the data to be used in education (high school biology). 
+* *Japan*: Seek data to be used in education (high school biology). 
 
 * *Naturalis Biodiversity Center*: DiSSCo will provide a demonstrator how to deliver expanded collections data using a Digital Object infrastructure.
 
