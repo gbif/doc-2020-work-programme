@@ -27,7 +27,7 @@ Exploring of suitable measures to indicate metadata completeness and appropriate
 
 * *Colombia*: Open Refine Scripts SiB Colombia is working in a set of scripts in OpenRefine for data quality management of primary biodiversity data. Some of these scripts are being used now by the Node Staff in the process of accompaniment that is done with the publishers, assessing the quality and generating quality reports for each dataset before them will be published through the IPT. The Colombian Node is making improvements on these scripts and developing new scripts to consolidate a toolkit in OpenRefine available for all the GBIF and informatics biodiversity community. An article about this work is also being built to be published in 2018–2019. OpenRefine scripts Repository: https://github.com/SIB-Colombia/data-quality-open-refine.
 
-* *France*: GBIF France contributes to harmonise and put in place a better national data workflow.
+* *France*: GBIF France contributes to harmonies and put in place a better national data workflow.
 
 * *iDigBio*: iDigBio staff are participating in the TDWG Data Quality Interest Group. iDigBio hosted a Collecting Metrics of Success symposium at SPNHC 2019. This symposium discussed the current metrics being collected, what metrics are needed, and who needs them. In addition, the symposium began a conversation about metrics the community could amass collectively, across collections and across the world.
 
@@ -40,7 +40,7 @@ Exploring of suitable measures to indicate metadata completeness and appropriate
 
 * *Spain*: GBIF Spain organized online data quality workshop for 28 people including international participation. We received nearly 100 inscription forms. We run data quality tests before publishing datasets through GBIF. Working on including new data validations in our tool “Darwin Test” to check more Darwin Core fields.
 
-* *Sweden*: Employing data validation tools developed nationally at one parter institution of the Swedish Biodiversity data Infrastructure, GBIF-Sweden takes responsibility for data provided by Swedish owners.
+* *Sweden*: Employing data validation tools developed nationally at one partner institution of the Swedish Biodiversity data Infrastructure, GBIF-Sweden takes responsibility for data provided by Swedish owners.
 
 * *Switzerland*: Participation in a project to establish a registry of Swiss collectors for validation purposes.
 
@@ -58,11 +58,11 @@ Exploring of suitable measures to indicate metadata completeness and appropriate
 * *Argentina*: Training workshops in different areas of the country for data providers. Permanent help desk in the publication and data quality. Develop regular data set reports for data publishers and nodes.
 
 * *Australia*: GBIF work plan participation response GBIF work plan participation response 100% 10 SDG 2 of 2 Context:
-AA5 Continuing to collaborate with the SDG community and implement platform-based solutions to improve the value, applicability and accessibility of citizen science data for SDG's.Further review work is scheduled for this year as part of ALA infrastructure refresh., Focus areas will be data registries and occurrence data processing and data quality.Screen reader support enabled. Further review work is scheduled for this year as part of ALA infrastructure refresh., Focus areas will be data registries and occurrence data processing and data quality.Anonymous Wombat has joined the document.
+AA5 Continuing to collaborate with the SDG community and implement platform-based solutions to improve the value, applicability and accessibility of citizen science data for SDG's. Further review work is scheduled for this year as part of ALA infrastructure refresh., Focus areas will be data registries and occurrence data processing and data quality.Screen reader support enabled. Further review work is scheduled for this year as part of ALA infrastructure refresh. Focus areas will be data registries and occurrence data processing and data quality. Anonymous Wombat has joined the document.
 
 * *Canada*: CBIF staff will continue to contribute to the work of the TDWG Biodiversity Data Quality Interest Group on data quality standards and controlled vocabularies.
 
-* *Canadensys*: We will continue with the same protocole.
+* *Canadensys*: We will continue with the same protocol.
 
 * *iDigBio*: iDigBio has a vision of integrating with other data validation tools. iDigBio will continue its participation with TDWG.
 
@@ -72,7 +72,7 @@ AA5 Continuing to collaborate with the SDG community and implement platform-base
 
 * *Mexico*: To be continued Mexican node assessment of data duplication and development tools for review data of occurrences. 
 
-* *Netherlands*: NLBIF wil start looking into implementation of the Living Atlas platform and within that scope also look into data quality. 
+* *Netherlands*: NLBIF will start looking into implementation of the Living Atlas platform and within that scope also look into data quality. 
 
 * *Spain*: Enable Darwin Test software to validate checklist datasets and sampling event data datasets.
 
@@ -82,7 +82,7 @@ AA5 Continuing to collaborate with the SDG community and implement platform-base
 
 ==== Rationale
 
-Assessing data quality includes applying data validation tools to capture and monitor suspected and confirmed errors and ambiguities in data, highlighting useful areas for additional information (metadata and qualifiers) that would improve usability and enhance processing options, and documenting completeness and standardisation of information both within a dataset and within aggregated data. A number of validation tools exist in the wider community, and should be brought together to mutually profit from investments and to more efficiently plan future distributed development efforts. This will benefit data publication frameworks as well as individual data holders, giving concrete feedback on best gains in data management.
+Assessing data quality includes applying data validation tools to capture and monitor suspected and confirmed errors and ambiguities in data, highlighting useful areas for additional information (metadata and qualifiers) that would improve usability and enhance processing options, and documenting completeness and standardization of information both within a dataset and within aggregated data. A number of validation tools exist in the wider community, and should be brought together to mutually profit from investments and to more efficiently plan future distributed development efforts. This will benefit data publication frameworks as well as individual data holders, giving concrete feedback on best gains in data management.
 
 ==== Approach
 

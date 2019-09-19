@@ -10,9 +10,9 @@ Prioritize and promote mobilization of new data resources which combine with exi
 [lowerroman]
 . Organize and integrate requirements identified by fitness-for-use groups
 . Establish open mechanism for researchers and users to document specific data needs
-. Develop assessments and visualisations of strengths and weaknesses of GBIF data in key dimensions (taxonomic, geographic, environmental, temporal)
+. Develop assessments and visualizations of strengths and weaknesses of GBIF data in key dimensions (taxonomic, geographic, environmental, temporal)
 . Maintain well-publicized GBIF priorities for data publishing, incorporating needs of IPBES and other networks
-. Provide Governing Board with annual review and progress assessment for digitisation of major natural history collections
+. Provide Governing Board with annual review and progress assessment for digitization of major natural history collections
 . Provide GBIF Participants with actionable priorities and targets for content mobilization
 
 ==== 2019 Progress
@@ -66,7 +66,7 @@ https://www.gbif.org/dataset/search?q=Boyac%C3%A1%20BIO
 
 * *Japan*: Gap analyses to be carried out in some model collections.
 
-* *Naturalis Biodiversity Center*: Work on large scale digitisation plans will continue in DiSSCo-linked projects.
+* *Naturalis Biodiversity Center*: Work on large scale digitization plans will continue in DiSSCo-linked projects.
 
 * *Norway*: GBIF Norway and GBIF Portugal intend to represent GBIF in the agrobiodiversity community during 2020 with several new project proposals under development.
 
@@ -76,13 +76,13 @@ https://www.gbif.org/dataset/search?q=Boyac%C3%A1%20BIO
 
 * *United States*: Work with the Global Ocean Observing System and GEO BON to identify priority datasets related to Essential Ocean and Essential Biodiversity Variables.
 
-* *Zimbabwe*: Citizen science
+* *Zimbabwe*: Citizen science will be a focus.
 
 
 ==== Rationale
 
-GBIF has a range of tools, including fitness-for-use groups, other community consultations, feedback channels, direct communication with authors of scientific studies, and societal demands, to identify and collect data needs. The Ebbe Nielsen Challenge for 2016 focuses specifically on tools and algorithms to identify significant gaps. These gaps may relate to different facets of the data, including geography, taxonomy, time periods, and coverage of particular ecosystems or land units. Addressing these gaps may require focus on gaining additional occurrence records, targeting data areas missing from published records, or getting additional metadata elements. By consolidating and prioritising demands for data content, in the context of already accessible data and knowledge of resources which are not yet available as open data, GBIF will be positioned to inform collection and data holders, funding institutions and political decision makers of the most worthwhile and cost-effective ways to extend the available knowledge base.
+GBIF has a range of tools, including fitness-for-use groups, other community consultations, feedback channels, direct communication with authors of scientific studies, and societal demands, to identify and collect data needs. The Ebbe Nielsen Challenge for 2016 focuses specifically on tools and algorithms to identify significant gaps. These gaps may relate to different facets of the data, including geography, taxonomy, time periods, and coverage of particular ecosystems or land units. Addressing these gaps may require focus on gaining additional occurrence records, targeting data areas missing from published records, or getting additional metadata elements. By consolidating and prioritizing demands for data content, in the context of already accessible data and knowledge of resources which are not yet available as open data, GBIF will be positioned to inform collection and data holders, funding institutions and political decision makers of the most worthwhile and cost-effective ways to extend the available knowledge base.
 
 ==== Approach
 
-The GBIF Secretariat will harmonize and document data mobilization demands from different sources. Simple tools are required to support needs capture, including informative documentation and justification for such demands. Automated assessment and reporting of gaps will be included where this proves possible and valuable. This combined information can support transparent decision making and target setting for gap-filling efforts, allowing all interested actors to step in at appropriate levels. GBIF will coordinate with efforts through the Intergovernmental Platform on Biodiversity and Ecosystem Services (IPBES) to identify and address significant knowledge and data gaps, including outreach and funding strategies for gap-filling . A thorough, regularly updated overview of data coverage in gbif.org both makes it easier to identify gaps, and to monitor progress and efficiency of mobilization efforts over time. GBIF should offer (e.g. annually) a brief report of significant gaps which need to be addressed. Such a report may be valuable to Participants and funding bodies to stimulate and evaluate digitisation and mobilisation options.
+The GBIF Secretariat will harmonize and document data mobilization demands from different sources. Simple tools are required to support needs capture, including informative documentation and justification for such demands. Automated assessment and reporting of gaps will be included where this proves possible and valuable. This combined information can support transparent decision making and target setting for gap-filling efforts, allowing all interested actors to step in at appropriate levels. GBIF will coordinate with efforts through the Intergovernmental Platform on Biodiversity and Ecosystem Services (IPBES) to identify and address significant knowledge and data gaps, including outreach and funding strategies for gap-filling . A thorough, regularly updated overview of data coverage in gbif.org both makes it easier to identify gaps, and to monitor progress and efficiency of mobilization efforts over time. GBIF should offer (e.g. annually) a brief report of significant gaps which need to be addressed. Such a report may be valuable to Participants and funding bodies to stimulate and evaluate digitization and mobilization options.

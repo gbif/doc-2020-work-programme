@@ -13,17 +13,16 @@
 
 ===== 2019 Participant contributions
 
-* *Argentina*: With the work with the enviromental secretary we're going to promote use of sampling event data model for ecological and monitoring datasets. 
+* *Argentina*: With the work with the environmental secretary we're going to promote use of sampling event data model for ecological and monitoring datasets. 
 
 * *Australia*: The Atlas went through a process of business analysis on species level and specimen level trait data, assessing availability and the use of standards and ontologies. The analysis also documented potential use cases for the use of traits in Atlas.
 
 * *Biodiversity Heritage Library*: Implemented the addition of already transcribed materials to BHL.
 
-* *Colombia*: Training Workshop with the National Institute of Health to publishing data relating to vectors and hosts of human diseases. The workshop took place on september 20, 2018 at National Institute of Health, Bogotá. A total of 10 participants attended the workshop. https://sibcolombia.net/taller-sirap/ https://sibcolombia.net/taller-ins/
+* *Colombia*: Training Workshop with the National Institute of Health to publishing data relating to vectors and hosts of human diseases. The workshop took place on 20 September 2018 at National Institute of Health, Bogotá. A total of 10 participants attended the workshop. https://sibcolombia.net/taller-sirap/ https://sibcolombia.net/taller-ins/
 
-* *Germany*: As part of GFBio (German Federation for Biological Data, www.gfbio.org): establishment of workflows and software infrastructure for archiving and publishing data sets from national biodiversity research projects. GFBio includes the provision of observation and collection data to GBIF via the established GBIF-D data centres and BioCASE/ABCD interfaces. 
-The German Botanical Node hosts the technical secretariat of the Global Genome Biodiversity Network. 90 Biobanks provide more than 1.6 million standardised DNA and 370,000 tissue sample data. Most of the linked specimen data records are also published in GBIF. 
-MetBaN (https://github.com/sproft/MetBaN/tree/v0.1.0) is a bioinformatic pipeline which implements a modular and flexible species delimitation approach by streamlining metabarcoding and phylogenetic software packages. MetBaN is developed at the Botanical Node. 
+* *Germany*: As part of GFBio (German Federation for Biological Data, www.gfbio.org): establishment of workflows and software infrastructure for archiving and publishing data sets from national biodiversity research projects. GFBio includes the provision of observation and collection data to GBIF via the established GBIF-D data centres and BioCASe/ABCD interfaces. 
+The German Botanical Node hosts the technical secretariat of the Global Genome Biodiversity Network. 90 Biobanks provide more than 1.6 million standardized DNA and 370,000 tissue sample data. Most of the linked specimen data records are also published in GBIF.  MetBaN (https://github.com/sproft/MetBaN/tree/v0.1.0) is a bioinformatic pipeline which implements a modular and flexible species delimitation approach by streamlining metabarcoding and phylogenetic software packages. MetBaN is developed at the Botanical Node. 
 
 * *iDigBio*: iDigBio sponsored a Phenology Deep Learning workshop in January 2019. This workshop focused on exploring such technologies as deep convolutional neural networks (CNN), data protocols and standards for linking trait data to specimen records, tracking phenological synchronization across phyla, and tools for trait measurement and analysis. iDigBio sponsored an Imaging and Digitization Workshop for Amateur Paleontologists workshop in July 2019.
 
@@ -48,7 +47,7 @@ MetBaN (https://github.com/sproft/MetBaN/tree/v0.1.0) is a bioinformatic pipelin
 
 ==== 2020 Participant plans
 
-* *Andorra*: We plan to review the literature, especially old contributions, on biodiversity related with Andorra in order to digitalise data useful to add to the GBIF database.
+* *Andorra*: We plan to review the literature, especially old contributions, on biodiversity related with Andorra in order to digitize data useful to add to the GBIF database.
 
 * *Argentina*: Continue with the promotion of the use of sampling event data model for ecological and monitoring datasets.
 
@@ -57,13 +56,13 @@ MetBaN (https://github.com/sproft/MetBaN/tree/v0.1.0) is a bioinformatic pipelin
 * *Germany*: “GFBio activities continue with the aim of ensuring the sustainability of the infrastructure.
 MetBan will be fully operable. In consultation with GGBN network partners, advance the integration of GGBN and GBIF with respect to DNA and tissue samples. 
 
-* *Japan*: Seek for the data to be used in education (high school biology). 
+* *Japan*: Seek data to be used in education (high school biology). 
 
 * *Naturalis Biodiversity Center*: DiSSCo will provide a demonstrator how to deliver expanded collections data using a Digital Object infrastructure.
 
 * *Norway*: Dependent on continued stable research infrastructure funding for GBIF activities in Norway, GBIF Norway will mobilize and implement new data streams for genome, environmental DNA, and ecological data from Norwegian data publishers in GBIF (see also Activity 2a).
 
-* *South Africa*: iNaturalist platform being put in place for Southern Africa by SANBI-GBIF.  Also a Node of IBOL is being developed, by the South African community, with a catalytic meeting at the annual BIM-FBIP Forum.  This will facilitate the mobilisation of molecular data.
+* *South Africa*: iNaturalist platform being put in place for Southern Africa by SANBI-GBIF.  Also a Node of IBOL is being developed, by the South African community, with a catalytic meeting at the annual BIM-FBIP Forum.  This will facilitate the mobilization of molecular data.
 
 * *Sweden*: GBIF-Sweden seeks to expand activities within the above mentioned fields of work in 2020.
 

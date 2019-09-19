@@ -22,7 +22,7 @@ Explored metadata-only dataset publication of the datasets proposed through http
 
 * *International Centre for Integrated Mountain Development*: Migrated 14 checklist data to HKH-BIF. Our IPT registered earlier in 2012 became   dormant so had to be reinstalled and re-registered. So we had to move our earlier published datasets into this current HKH-BIF platform. 
 
-* *Sweden*: As in 3c.
+* *Sweden*: As in Work Programme item 3c.
 
 * *United States*: Several projects--including iDigBio, VertNET, BISON--working with researchers to rescue, QA/QC and provide access to U.S.-originating datasets.
 
@@ -39,7 +39,7 @@ Explored metadata-only dataset publication of the datasets proposed through http
 
 * *Netherlands*: Once the NLBIF website is renewed it will be used to further promote the vision and mission of GBIF and NLBIF, including the rescue of datasets.
 
-* *Sweden*: As in 3c.
+* *Sweden*: As in Work Programme item 3c.
 
 * *United States*: BISON will focus on rescuing amphibian data. 
 
@@ -49,4 +49,4 @@ Many researchers hold potentially valuable data which are not yet in a suitable 
 
 ==== Approach
 
-The GBIF Secretariat, or an interested Participant, should develop a test environment to explore this model. The model should support identification of basic information on datasets which may be rescued, including details of ownership, etc. Volunteers may be required to undergo some training or demonstrate some knowledge of GBIF data publishing and the taxa concerned prior to adopting a dataset for mobilisation. Mobilisation should be include consultation or partnership with the owner and should deliver quality metadata and a valid mapping of the original information. Opportunities should be explored for publication of resulting datasets as data papers as an incentive to all parties.
+The GBIF Secretariat, or an interested Participant, should develop a test environment to explore this model. The model should support identification of basic information on datasets which may be rescued, including details of ownership, etc. Volunteers may be required to undergo some training or demonstrate some knowledge of GBIF data publishing and the taxa concerned prior to adopting a dataset for mobilization. Mobilization should be include consultation or partnership with the owner and should deliver quality metadata and a valid mapping of the original information. Opportunities should be explored for publication of resulting datasets as data papers as an incentive to all parties.

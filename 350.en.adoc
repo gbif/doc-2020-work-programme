@@ -4,8 +4,8 @@
 [lowerroman]
 . Develop better integration between nodes activities and Governing Board processes
 . Expand regional meetings to serve as GBIF community Implementation Planning conferences and opportunities to develop fundable programmes of work
-. Increase alignment between GBIF work programmes and activities of each GBIF Organisational Participant and Affiliate
-. Explore increased alignment and joint organisation of workshops with other networks such as TDWG, SPNHC, GEO BON, RDA, etc.
+. Increase alignment between GBIF work programmes and activities of each GBIF Organizational Participant and Affiliate
+. Explore increased alignment and joint organization of workshops with other networks such as TDWG, SPNHC, GEO BON, RDA, etc.
 
 ==== 2019 Progress
 
@@ -19,7 +19,7 @@ The _alliance_ for biodiversity knowledge was established as an outcome of the 2
 
 ===== 2019 Participant contributions
 
-* *Argentina*: Coordination, as a regional representative, in the reports from each node for the joint regional report
+* *Argentina*: Coordination, as a regional representative, in the reports from each node for the joint regional report.
 
 * *Australia*: Analysis of GBIF pipelines was undertaken, and project plans for further work with GBIF's code base have been made. 
 
@@ -29,14 +29,13 @@ The _alliance_ for biodiversity knowledge was established as an outcome of the 2
 
 * *Canadensys*: Our team has helped in the translation of the documentation for the _alliance_.
 
-* *France*: Co-organization with Norway of the EU nodes meeting in Oslo.
-Election of the new EU representative and Deputy.
+* *France*: Co-organization with Norway of the EU nodes meeting in Oslo. Election of the new EU representative and Deputy.
 
 * *iDigBio*: iDigBio hosted the regional meeting of participant nodes in North America in association with the 2019 Digital Data in Biodiversity Research Conference.
 
-* *Naturalis Biodiversity Center*: A meeting was held between the DiSSCo coordination office and GBIF Secreatariat to discuss coordination of implementation activities. Naturalis provided D2.3 Design of a collection digitisation dashboard in ICEDIG which provides input for further development of GrSciCol hosted by GBIF. 
+* *Naturalis Biodiversity Center*: A meeting was held between the DiSSCo coordination office and GBIF Secretariat to discuss coordination of implementation activities. Naturalis provided D2.3 Design of a collection digitization dashboard in ICEDIG which provides input for further development of GRSciCol hosted by GBIF. 
 
-* *Netherlands*: NLBIF has adopted the DiSSCo-NL ntf lead and as such integrates GBIF and national DiSSCo activities.
+* *Netherlands*: NLBIF has adopted the DiSSCo-NL NTF lead and as such integrates GBIF and national DiSSCo activities.
 
 * *Norway*: GBIF Norway funded, hosted and organized the 2019 European GBIF Nodes meeting in Oslo in May 2019 (see also Activity 1c and 1e). GBIF Norway and the GBIF Norway network partners serve on GBIF committees as elected vice-chair for the GBIF Science committee and as vice-chair for the European GBIF Nodes committee.
 
@@ -59,7 +58,7 @@ Election of the new EU representative and Deputy.
 
 * *Australia*: Review GBIF's data pipelines work and data registry as part of  an Atlas infrastructure review and refresh. Aim to align with GBIF where possible.
 
-* *Benin*: Capacity building, data mobilization, data uses
+* *Benin*: Capacity building, data mobilization, data use.
 
 * *Canada*: CBIF will continue to build on the progress made in 2019. We will also contribute through membership on the Steering Committee (via TDWG) for the Biodiversity Summit 2020 in Washington DC, a critical forum for discussion of the goals of GBIF and the _alliance_.
 
@@ -69,7 +68,7 @@ Election of the new EU representative and Deputy.
 
 * *Naturalis Biodiversity Center*: DiSSCo is coordinating with GBIF, iDigBio and IGSN to establish a global solution for Digital Specimen identifiers and other infrastructures. In SYNTHESYS+ ELViS development it will be investigated whether linkages can be achieved between ELViS and GBIF collection data (specimen datasets and collection metadata).Naturalis would like to share its developments using AI in species identification and work on using environmental DNA for biomonitoring with the GBIF community.
 
-* *Netherlands*: Continue the above
+* *Netherlands*: Continue work programme.
 
 * *Norway*: GBIF Norway contributes staff resources to the DiSSCo National Task Force (NTF) representing Norway in the DiSSCo Prepare process. GBIF Norway maintain liaison with international organization in the agrobiodiversity community to promote and actively support the harmonization with GBIF provided and solutions endorsed standards (see also Activity 2a, 3c and 5b).
 
@@ -77,10 +76,11 @@ Election of the new EU representative and Deputy.
 
 * *Spain*: Collaboration with EU Nodes and EOSC to explore best ways to integrate Node’s services in the EOSC.
 
-* *Sweden*: GBIF-Sweden will continue to take part in leading and contributing to the development of interconnections at national and international levels (GBIC 2 follow-up etc. incl. participation in Synthesys+). 
+* *Sweden*: GBIF-Sweden will continue to take part in leading and contributing to the development of interconnections at national and international levels (GBIC 2 follow-up etc. incl. participation in SYNTHESYS+). 
 
-* *United States*: USGS will continue to be involved in and contribute to advancing and contributing to the ideas around the GBIC2 workshop sharing implementation and infrastructure suggestions as they pertain to the US and the various global communities of practice.  
-* *Zimbabwe*: Develop and finalise a five year strategic plan and 2020 action plan.
+* *United States*: USGS will continue to be involved in and contribute to advancing and contributing to the ideas around the GBIC2 workshop sharing implementation and infrastructure suggestions as they pertain to the US and the various global communities of practice.
+
+* *Zimbabwe*: Develop and finalize a five year strategic plan and 2020 action plan.
 
 ==== Rationale
 

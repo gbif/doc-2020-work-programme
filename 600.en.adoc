@@ -35,7 +35,7 @@ Documentation for all stages in the GBIF data ingestion process to start Q3/Q4 2
 
 * *iDigBio*: iDigBio is working to improve its data mobilization efforts and workflows, including moving towards IPT as the preferred publishing mechanism. iDigBio will continue to work with the community on alternative data storage solutions and strategies.
 
-* *Naturalis Biodiversity Center*: Persistant identifiers for specimen related data will be implemented in ELViS.
+* *Naturalis Biodiversity Center*: Persistent identifiers for specimen related data will be implemented in ELViS.
 
 ==== Rationale
 
