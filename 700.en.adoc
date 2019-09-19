@@ -23,15 +23,12 @@ In Russia, Altay State University, supported by a GBIFS letter, received competi
 
 * *Benin*: A functional Regional Master Program in Biodiversity Informatics opened its doors in October 2017 in Benin and students from many African countries are receiving in-depth capacity training to mobilize and use data to address the biodiversity conservation and sustainable uses in the context f climate and global changes.
 
-* *Canadensys*: We actively inform our users and data holders on how to use data from GBIF, and we use the GBIF Science Review to promote data-use and give examples.
-Most participants to our CESP workshops were coming from academia and are using data from GBIF for their research. Participants are usually becoming advocates to the use of data from GBIF during their classes, explaining to their students how to get and use this type of data.
+* *Canadensys*: We actively inform our users and data holders on how to use data from GBIF, and we use the GBIF Science Review to promote data-use and give examples. Most participants to our CESP workshops were coming from academia and are using data from GBIF for their research. Participants are usually becoming advocates to the use of data from GBIF during their classes, explaining to their students how to get and use this type of data.
 
-* *France*: Contributions to modules in Biology and Systematics masters and doctoral modules at MNHN and Sorbonne University
+* *France*: Contributions to modules in Biology and Systematics masters and doctoral modules at MNHN and Sorbonne University.
 
 * *iDigBio*: iDigBio hosted the 2019 Digital Data in Biodiversity Research Conference at Yale University in June 2019. The conference provides a forum for biodiversity researchers to share and examine the uses of digitized data across all biodiversity disciplines, with special emphasis on using the wealth of digitized specimen data being generated worldwide.
-In March 2019, iDigBio hosted the 5th Life Discovery – Doing Science Biology Education Conference held in Gainesville. The theme was “microbiomes to ecosystems: evolution and biodiversity across scale, space, and time” which aligned well with iDigBio’s mission to promote the use of biodiversity data in both research and education.
-iDigBio maintains public libraries on Google Scholar and Mendeley. Recently, iDigBio used the Mendeley API to create a searchable library, including iDigBio’s tags such as grant number, portal used, etc.
-iDigBio facilitated guest blogs on its website to highlight data use, data cleaning, and other topics.
+In March 2019, iDigBio hosted the 5th Life Discovery – Doing Science Biology Education Conference held in Gainesville. The theme was “microbiomes to ecosystems: evolution and biodiversity across scale, space, and time” which aligned well with iDigBio’s mission to promote the use of biodiversity data in both research and education. iDigBio maintains public libraries on Google Scholar and Mendeley. Recently, iDigBio used the Mendeley API to create a searchable library, including iDigBio’s tags such as grant number, portal used, etc. iDigBio facilitated guest blogs on its website to highlight data use, data cleaning, and other topics.
 
 * *Japan*: Papers using the data from Japan Node increased.
 
@@ -78,7 +75,7 @@ As part of a project financed by the Dutch research council (NWO, ALWIN.005), Na
 
 * *Spain*: Continue engaging academia. Make an inventory of masters and university degrees that promote GBIF data in classrooms.
 
-* *Sweden*: GBIF-Sweden participates, alongside consortium partners in the Swedish Biodiversity data Infrastructure, in a great number of activitie directed towards educational and research institutes.
+* *Sweden*: GBIF-Sweden participates, alongside consortium partners in the Swedish Biodiversity data Infrastructure, in a great number of activities directed towards educational and research institutes.
 
 * *Switzerland*: Promote GBIF data use and data sharing at Swiss universities and research institutions.
 
