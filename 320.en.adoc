@@ -47,8 +47,6 @@ GBIF France coordinated the CESP project : “International Living Atlases works
 
 * *Mexico*: Develop websites Enciclovida (http://enciclovida.mx), SNIB's geoportal (http://geoportal.conabio.gob.mx/) and SNIB (http://www.snib.mx)
 
-* *Naturalis Biodiversity Center*: 
-
 * *Netherlands*: NLBIF made a financial contribution to the Living Atlases project and started to look into implementation of Living Atlases for NL. The NLBIF node manager has joined the Open Data Ambassador Programme.
 
 * *Norway*: GBIF Norway contributes as mentor to the regional GBIF network meeting in the Pacific in August 2019.
@@ -96,10 +94,6 @@ GBIF France coordinated the CESP project : “International Living Atlases works
 * *Japan*: Continuous improvement of S-Net system (domestic website for searching natural history specimens).
 
 * *Mexico*: “Continue to update data occurrences in published datasets. Continue to gather new occurrences for publish in Mexican node"
-
-* *Naturalis Biodiversity Center*: 
-
-* *Netherlands*: To be decided.
 
 * *Norway*: As part of the BioDATA project, GBIF Norway will provide node mentoring services to partner countries who make progress towards joining GBIF as new members (see also Activity 1e).
 
