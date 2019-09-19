@@ -6,11 +6,11 @@ For convenience, this information has also been collated as an <<_overview_of_20
 
 === Financial situation
 
-The Secretariat estimates a carry-over of €992,558 at the beginning of 2020. This amount is smaller than the carry-over from 2018 (€1,556,714) due primarily to Governing Board requested increase spending in 2019 on external contracts and workshops (€719.000) in the work programme. Given the level of capital held by GBIF and the uncertainty of contributions, the 2020 budget includes a smaller allocation (€413,000) for contracted activities in the work programme expenditure (i.e. non-salary costs allocated to calls, workshops, contracts, etc.) than proposed for 2019 at GB25, and €300,000 less than the actual 2019 spend after budget revisions. Staffing levels do not change in the 2020 budget. The planned expenditure for 2020 is €483,806 greater than the income projected in the budget. This is considered to represent a responsible balance between advancing GBIF’s mission and reserving some funds against future risks (€508,752 net capital forecast for the end of 2020).
+The Secretariat estimates a carry-over of €992,558 at the beginning of 2020. This amount is smaller than the carry-over from 2018 (€1,556,714) due primarily to Governing Board requested increase spending in 2019 on external contracts and workshops (€719.000) in the work programme. Given the level of capital held by GBIF and the uncertainty of contributions, the 2020 budget includes a smaller allocation (€413,000) for contracted activities in the work programme expenditure (i.e. non-salary costs allocated to calls, workshops, contracts, etc.) than proposed for 2019 at GB25, and €300,000 less than the actual 2019 spend after budget revisions. Staffing levels do not change in the 2020 budget. The planned expenditure for 2020 is €471,806 greater than the income projected in the budget. This is considered to represent a responsible balance between advancing GBIF’s mission and reserving some funds against future risks (€520,752 net capital forecast for the end of 2020).
 
 This budget narrative also includes a second scenario that considers a brighter financial situation. It outlines priority areas of spending on contracted and workshop activities that would be submitted in subsequent 2020 budget revisions, should conditions allow. 
 
-Scenario 2 differs from the submitted budget in the following ways.  It also assumes an additional €300,000 in external funds or increased contributions from voting participants. This budget includes €660,000 for contracted and workshop activities in the work programme expenditures. The planned expenditure under scenario 2 for 2020 is €409,940 greater than the income projected in the budget. This is also considered to represent a responsible balance between advancing GBIF’s mission and reserving some funds against future risks (€582,618 net capital forecast for the end of 2020).
+Scenario 2 differs from the submitted budget in the following ways.  It also assumes an additional €300,000 in external funds or increased contributions from voting participants. This budget includes €660,000 for contracted and workshop activities in the work programme expenditures. The planned expenditure under scenario 2 for 2020 is €397,940 greater than the income projected in the budget. This is also considered to represent a responsible balance between advancing GBIF’s mission and reserving some funds against future risks (€594,618 net capital forecast for the end of 2020).
 
 |=== 
 | Scenario | Baseline (#1) | Optimistic (#2)
@@ -25,8 +25,8 @@ Additional Voting Participants or Supplementary funds €320K/year
 >| €660,000
 
 | 2020 reserve
->| €508,752 
->| €582,618
+>| €520,752 
+>| €594,618
 
 |===
 
@@ -93,7 +93,7 @@ Staffing levels will remain the same in 2020 with the  increases in recent years
 
 * Participation and Engagement (seven staff)
 * Data Products (four staff)
-* Informatics (seven staff, one contractor, one additional staff position to be filled)
+* Informatics (eight staff, one contractor, one additional staff position to be filled)
 * Administration (six staff, plus student support)
 
 All staff work towards accomplishing the goals of the five Priority Areas in the 2017–2021 Strategic Plan, with most staff working towards multiple areas. 
@@ -220,15 +220,4 @@ This following is a summary of all 2020 Work Items proposed in the 2020 update o
 
 ==== Activity 5b: Document needs
 * Explore the creation of lightweight, customized website landing pages to address thematic interests on GBIF.org. The pages will increase flexibility to include curated, more informative clustered information, ensuring that users have access to both broad search results and prioritized views of data and information.
-* Continue to implement recommendations of past expert user groups. In particular, build on the incorporation of GRIIS checklists to support richer, more targeted information on invasive and alien species, e.g. by highlighting documented occurrences with a relevant IAS status by country. Explore best options to identify and alert users of new occurrences of potential invasive species. In addition, review and address the most feasible and valuable recommendations of the agrobiodiversity group, (see 5c below) with support of continued community involvement. 
-
-==== Activity 5c: Support biodiversity assessment
-* Explore BIOSCAN as a pilot for visualizing sampling-event data. Pending advances in the revised data model, improve the representation of sampling-event data, particularly abundance measures. Identify sources to support a consistent, controlled list of sampling protocols. 
-* Continue work with GEO BON to establish needs to deliver relevant data in suitable formats to support ongoing community-agreed implementation of Essential Biodiversity Variables (EBV). Support further community scoping as and if appropriate within the alliance for biodiversity knowledge framework.
-* If funds are available, the Secretariat will engage visiting scientists from the assessment/modelling community for part-time secondments to improve shared understanding of data-delivery needs for the EBV and associated communities.
-* Develop and roll out guidance for use of GBIF-mediated data in species risk assessments. Continue work based on the IUCN memorandum of cooperation and proposed training event at the 2020 IUCN World Conservation Congress in Marseille. 
-* Host hackathon to align GBIF with post-2020 Biodiversity Framework (€40,000 if available). The event would develop tools from the CESP CHM project aimed at improve CBD links to GBIF-mediated data. As post-2020 framework/goal structure emerges, develop comprehensive guidance on the role of primary data to support targets and indicators.
-
-==== Activity 5d: Assess impact
-* Implement recommendations of the 20-year review and use it as a basis for the development of the next five-year strategic plan for the period 2022–2026.
-* Contract out study of use of GBIF-mediated data in the academic literature with a goal to identify areas of impact, links to research funding sources and networks of researchers. This information will be used to fine-tune GBIF value proposition message and align Work Programme to further impact (€20,000).
+* Continue to implement recommendations of past expert user groups. In particular, build on the incorporation of GRIIS checklists to support richer, more targeted information on invasive and alien species, e.g. by highlighting documented occurrences with a relevant IAS status by country. Explore best options to identify and alert users of new occurrences of potential invasive species. In addition, review and address the most 
