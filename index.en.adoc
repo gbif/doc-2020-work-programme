@@ -1,4 +1,4 @@
-= DRAFT: GBIF Implementation Plan 2017–2021 and Annual Work Programme 2020
+= GBIF Work Programme 2020: Annual Update to Implementation Plan 2017–2021
 :toc: left
 :toclevels: 2
 :numbered:
