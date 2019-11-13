@@ -1,8 +1,8 @@
-NOTE: Draft work programme, pending review and approval by the GBIF Governing Board in October 2019
+NOTE: 2020 work programme approved by the GBIF Governing Board in Leiden, 21 October 2019
 
 == Overview
 
-This document serves both as the 2020 revision of the GBIF Implementation Plan for the period 2017–2021 and also as the GBIF Annual Work Programme 2020. Both elements are based upon the GBIF Strategic Plan for 2017–2021.
+This document serves both as the 2020 revision of the <<_gbif_implementation_plan_2017_2021>> and also as the GBIF Annual Work Programme 2020. Both elements are based upon the https://www.gbif.org/strategic-plan[GBIF Strategic Plan 2017–2021].
 
 The relationship between these documents is represented by the following graphic.
 
@@ -17,4 +17,5 @@ Each year, GBIF reviews progress against these activities and available resource
 The Implementation Plan is reviewed and refined each year.
 
 The Implementation Plan is presented here with updates reflecting progress during 2019 and planned activities for 2020 (the 2020 Annual Work Programme).
-The Annual Work Programme 2020 is summarized below, and the revised <<_gbif_implementation_plan_2017_2021>> is here.
+
+The Annual Work Programme 2020 is summarized below, with the revised <<_gbif_implementation_plan_2017_2021>> to follow.
