@@ -1,4 +1,4 @@
-=== Priority 3: Fill Data Gaps
+== Priority 3: Fill Data Gaps
 
 ****
 Prioritize and promote mobilization of new data resources which combine with existing resources to maximize the coverage, completeness and resolution of GBIF data, particularly with respect to taxonomy, geography and time.
