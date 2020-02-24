@@ -1,3 +1,5 @@
+https://builds.gbif.org/job/doc-2020-work-programme/[image:https://builds.gbif.org/job/doc-2020-work-programme/badge/icon[Build status]]
+
 = GBIF Implementation Plan 2017–2021 and Annual Work Programme 2020
 
 Repository for the source for the document https://docs.gbif.org/2020-work-programme/en/[GBIF Implementation Plan 2017–2021 and Annual Work Programme 2020].
