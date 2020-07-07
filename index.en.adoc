@@ -9,9 +9,12 @@
 :pagenums:
 :license: https://creativecommons.org/licenses/by/4.0
 :xrefstyle: short
+// Use original #_prefix_characters as the document has been published with these.
+:idprefix: _
+:idseparator: _
 
 ifdef::backend-html5[]
-_languageLinks:pdf[This document is also available,PDF format]languageLinks:languages[ in other languages:,]._
+languageLinks:combined[]
 endif::backend-html5[]
 
 :sectnums!:
