@@ -1,3 +1,4 @@
+https://docs.gbif.org/documentation-guidelines/[image:https://docs.gbif.org/documentation-guidelines/gbif-document-shield.svg[GBIF Document]]
 https://builds.gbif.org/job/doc-2020-work-programme/[image:https://builds.gbif.org/job/doc-2020-work-programme/badge/icon[Build status]]
 
 = GBIF Implementation Plan 2017–2021 and Annual Work Programme 2020
