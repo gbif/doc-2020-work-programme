@@ -66,5 +66,3 @@ include::710.en.adoc[]
 include::720.en.adoc[]
 
 include::730.en.adoc[]
-
-include::800.en.adoc[]
